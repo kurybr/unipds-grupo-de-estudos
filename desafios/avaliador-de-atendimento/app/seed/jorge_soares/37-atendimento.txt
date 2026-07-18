@@ -1,0 +1,30 @@
+Cliente: Comprei Nintendo Switch OLED e a tela veio com dead pixel no centro. Comprei faz 3 dias.
+Atendente: Sinto muito! Dead pixel central é defeito de fábrica. Dentro de 7 dias, troca imediata.
+Cliente: Menos mal. Preciso levar na loja ou vocês buscam?
+Atendente: Pode trazer na loja mais próxima com nota fiscal e caixa completa. Troca na hora.
+Cliente: Moro em Campinas. Qual loja mais perto?
+Atendente: Loja Campinas Shopping, 15 km do centro. Funciona 10h às 22h.
+Cliente: Tem unidade disponível pra troca? Não quero ir lá e ouvir que acabou.
+Atendente: Verifiquei estoque Campinas: 2 unidades OLED branco disponíveis. Reservo uma pra você?
+Cliente: Reserva sim! Nome Daniela Costa, pedido #LJ-77234.
+Atendente: Reservado! Troca garantida amanhã. Leve console, caixa, acessórios e nota.
+Cliente: Preciso formatar ou algo antes?
+Atendente: Recomendamos desvincular conta Nintendo e restaurar configurações de fábrica.
+Cliente: Ok, faço isso hoje. Obrigada por resolver rápido.
+Atendente: Por nada, Daniela! Lamentamos o defeito. Até amanhã!
+Cliente: Dead pixel piora com o tempo?
+Atendente: Geralmente não se multiplica, mas central atrapalha experiência — troca é o correto.
+Cliente: Testo o novo na loja antes de levar?
+Atendente: Sim, verificamos juntos tela, Joy-Con, Wi-Fi e dock antes da saída.
+Cliente: Garantia Nintendo reinicia com unidade nova?
+Atendente: Garantia Nintendo segue original. Garantia loja 90 dias reinicia na troca.
+Cliente: Perfeito. Amanhã após 14h passo aí.
+Atendente: Agendado! Caixa 2, Campinas Shopping. Te esperamos, Daniela!
+Cliente: Joy-Con driftam no meu. Novo vem sem drift?
+Atendente: Testamos drift na loja antes da entrega. Zero tolerância.
+Cliente: Obrigada pela agilidade. Até amanhã!
+Atendente: Por nada! Boa tarde!
+Cliente: Troca amanhã 14h então. Confirmado?
+Atendente: Confirmado! OLED branco reservado, Daniela Costa.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

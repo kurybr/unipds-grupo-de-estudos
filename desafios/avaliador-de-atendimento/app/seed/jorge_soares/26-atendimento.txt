@@ -1,0 +1,30 @@
+Cliente: Oi! Vi uma promo relâmpago de controle Pro no Instagram de vocês. Cor roxa, R$ 299. Ainda vale?
+Atendente: Olá! A promo das 18h encerrou — esgotou em 12 minutos. Mas temos cupom GAMER10 válido até meia-noite.
+Cliente: Ah, que pena! Fiquei no trânsito e perdi. Promo enganosa, postaram e acabou rápido demais.
+Atendente: Entendo a frustração. A promo relâmpago teve estoque limitado de 20 unidades, divulgado no post.
+Cliente: Deviam avisar quando acaba ou limitar por cliente. Revendedor deve ter levado tudo.
+Atendente: Limite era 1 por CPF. Infelizmente não controlamos revenda posterior.
+Cliente: E o cupom GAMER10? Quanto fica o controle Pro agora?
+Atendente: Controle Pro normal R$ 399,90. Com cupom 10%: R$ 359,91. Ainda abaixo do preço cheio.
+Cliente: Não é a mesma coisa que R$ 299. Diferença de R$ 60.
+Atendente: Concordo, não é equivalente. Posso registrar seu interesse para próxima promo similar.
+Cliente: Registra aí. Mas fiquei decepcionado com a dinâmica.
+Atendente: Feedback registrado para marketing. Se houver reposição promocional, te aviso por e-mail.
+Cliente: Tá bom. Nota mediana porque o atendimento foi ok, mas a promo frustrante.
+Atendente: Entendo perfeitamente. Obrigado pelo feedback honesto.
+Cliente: Próxima promo avisa com antecedência?
+Atendente: Posso incluir você na lista VIP — e-mail 30 min antes de promos relâmpago.
+Cliente: Pode incluir. ana.gamer@gmail.com.
+Atendente: Incluída na lista VIP! Próxima promo, aviso antecipado garantido.
+Cliente: E se esgotar de novo antes de eu comprar?
+Atendente: VIP reserva unidade por 15 minutos antes de abrir ao público geral.
+Cliente: Isso sim ajuda. Vou aguardar a próxima.
+Atendente: Obrigado pela paciência! Boa noite!
+Cliente: Controle Pro roxo volta em estoque quando?
+Atendente: Reposição prevista quarta-feira. VIP avisa 30 min antes.
+Cliente: Se perder de novo, compro online com cupom GAMER10.
+Atendente: Combinado! Estoque online separado do físico.
+Cliente: Obrigado. Boa noite!
+Atendente: Boa noite! Até a próxima promo!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 3

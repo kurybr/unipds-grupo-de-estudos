@@ -1,0 +1,20 @@
+Cliente: Quero cancelar minha pré-venda do Hogwarts Legacy. Dá pra fazer pelo chat?
+Atendente: Vou verificar... Pedido #LJ-11803. O código digital já foi enviado ao seu e-mail no dia da compra.
+Cliente: Mas o jogo nem lançou ainda! Como cancela algo que nem saiu?
+Atendente: Após envio do código digital, cancelamento não é mais possível pela loja, mesmo antes do lançamento.
+Cliente: Isso é abuso do consumidor. Vocês deviam avisar claramente antes de mandar o código.
+Atendente: A confirmação de envio foi enviada por e-mail no dia 12/01. Entendo que pode passar despercebido.
+Cliente: Não vi esse e-mail. Achei que podia cancelar até o lançamento, como em loja física.
+Atendente: Pré-venda digital tem política diferente. O código reserva a licença na sua conta, mesmo sem instalar.
+Cliente: Então tô preso num jogo que nem sei se vou querer mais. Péssimo.
+Atendente: Posso registrar sua manifestação no protocolo #ATD-11803. Infelizmente não há estorno após envio do código.
+Cliente: Posso revender o código pra alguém?
+Atendente: Códigos PSN são intransferíveis após visualização. Revenda viola termos de uso da Sony.
+Cliente: Ou seja, estou preso mesmo. Nenhuma saída.
+Atendente: Infelizmente sim, após resgate ou envio do código. Posso orientar sobre revenda de conta — mas não recomendamos.
+Cliente: Registra aí. Nota baixa com certeza.
+Atendente: Registrado. Lamento não poder ajudar mais neste caso.
+Cliente: Site devia avisar em letras grandes antes de enviar código.
+Atendente: Sugestão registrada para UX do checkout. Peço desculpas pela falta de clareza.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 2

@@ -1,0 +1,30 @@
+Cliente: Oi, quero devolver um jogo que comprei errado. Comprei versão Xbox mas tenho PS5.
+Atendente: Olá! Dentro de 7 dias com lacre intacto, trocamos por versão correta ou outro jogo.
+Cliente: Lacre intacto, nem abri. É Starfield, pedido #LJ-33456, comprei ontem.
+Atendente: Starfield Xbox R$ 299,90. Versão PS5 não existe — Starfield é exclusivo Xbox/PC.
+Cliente: COMO ASSIM?? O vendedor disse que tinha versão PS5!
+Atendente: Peço desculpas pela orientação incorreta. Starfield realmente não saiu para PlayStation.
+Cliente: Então me venderam jogo inútil pra mim. Quero reembolso total.
+Atendente: Reembolso integral autorizado por erro de venda. Estorno no cartão em 1 a 2 faturas.
+Cliente: E não posso trocar por outro jogo PS5?
+Atendente: Claro! Reembolso ou troca por outro título PS5 de valor equivalente, sem custo.
+Cliente: Prefiro trocar por Spider-Man 2, mesma faixa de preço.
+Atendente: Spider-Man 2 R$ 349,90. Diferença de R$ 50 — absorvemos por erro de venda.
+Cliente: Agora sim. Posso buscar amanhã?
+Atendente: Separei Spider-Man 2 PS5. Retirada amanhã com nota fiscal do Starfield.
+Cliente: Obrigado por corrigir. O vendedor errou feio, mas você resolveu.
+Atendente: Lamento o transtorno inicial. Boa diversão com Spider-Man 2!
+Cliente: Spider-Man 2 é físico ou digital na troca?
+Atendente: Físico PS5, edição standard com mídia Blu-ray.
+Cliente: Loja Tatuapé abre que horas?
+Atendente: 10h às 22h. Caixa 3 com protocolo #ATD-33456 para troca expressa.
+Cliente: Vendedor será advertido?
+Atendente: Sim, feedback registrado para treinamento. Erro grave de compatibilidade.
+Cliente: Amanhã passo lá. Obrigado pela solução justa.
+Atendente: Por nada! Troca garantida amanhã.
+Cliente: Spider-Man 2 mídia ou código na troca?
+Atendente: Física PS5 Blu-ray, lacrada.
+Cliente: Diferença R$ 50 absorvida aparece na nota?
+Atendente: Sim, NF mostra absorção por erro de venda — R$ 0 diferença final.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

@@ -1,0 +1,35 @@
+Atendente: Boa tarde! 🌻
+
+Atendente: Meu nome é Atendente e vou conduzir seu atendimento. 🤝
+
+Atendente: Aguardo o envio do comprovante de compra ou número do pedido para que eu possa verificar a solicitação. Combinado? ☺️
+
+Cliente: Segue o comprovante.
+
+Atendente: Cliente, para que a solicitação seja validada pelo sistema de suporte, é necessário que o comprovante contenha:
+
+▪️Número do pedido
+▪️Dados da conta utilizada na compra
+▪️Data da compra
+▪️Descrição do produto adquirido
+▪️Informações legíveis e sem alterações
+
+❌ O comprovante enviado não atende aos requisitos necessários para validação da solicitação, pois não contém informações suficientes para comprovar a compra.
+
+Atendente: Pedimos desculpas pelo inconveniente, mas essas informações são necessárias para prosseguirmos com a análise. 😔
+
+Atendente: Você conseguiria obter um comprovante mais completo ou acessar os detalhes da compra para nos enviar?
+
+Cliente: Você pode me dizer exatamente qual informação está faltando?
+
+Atendente: Claro.
+
+Atendente: O comprovante está sem a descrição detalhada da compra, o que impede a validação da solicitação.
+
+Cliente: Entendi. Obrigado pelas informações. Acabei resolvendo a situação diretamente com outra loja, que conseguiu localizar a compra utilizando os dados que eu já tinha.
+
+Atendente: Entendemos e respeitamos sua decisão.
+
+Atendente: Ficamos felizes que tenha conseguido resolver a situação.
+
+Atendente: Seguimos à disposição sempre que precisar. ☺️

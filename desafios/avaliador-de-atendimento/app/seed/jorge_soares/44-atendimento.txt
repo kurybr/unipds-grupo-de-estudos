@@ -1,0 +1,30 @@
+Cliente: Oi! Meu filho de 12 anos quer entrar no mundo gamer. Orçamento R$ 2.500 total.
+Atendente: Olá! Com R$ 2.500 dá para montar setup inicial legal. Ele joga sozinho ou com amigos?
+Cliente: Sozinho e online com colegas da escola. Jogos tipo Fortnite, Minecraft.
+Atendente: Xbox Series S R$ 2.199 + Game Pass 1 mês R$ 39,90 = R$ 2.238,90. Fortnite e Minecraft inclusos no Pass.
+Cliente: Series S aguenta Fortnite sem lag?
+Atendente: Sim, Fortnite roda 60fps estável no Series S. Minecraft também sem problemas.
+Cliente: E quando quiser jogo avulso, compra onde?
+Atendente: Loja Xbox, nossa loja, ou continua Game Pass — centenas de jogos por assinatura.
+Cliente: Game Pass precisa renovar todo mês?
+Atendente: Mensal sim, mas tem opção 3 meses com desconto. Pode cancelar quando quiser.
+Cliente: Parece bom. Sobram R$ 260 do orçamento?
+Atendente: Sobram R$ 261. Sugiro controle extra usado R$ 199 para jogar com amigo visitando.
+Cliente: Boa ideia! Fecha o pacote Series S + Game Pass 1 mês + controle usado?
+Atendente: Pacote R$ 2.437,90. Dentro do orçamento! Entrega ou retirada?
+Cliente: Retirada sábado. Ele vai ficar maluco de alegria!
+Atendente: Separado! Retirada sábado, nome do responsável?
+Cliente: Nome pai: Roberto Alves. Filho: Lucas.
+Atendente: Anotado! Pacote reservado sábado 10h, loja Santana.
+Cliente: Controle parental no Xbox? Limitar tempo de tela?
+Atendente: Sim, app Xbox Family Settings — limita tempo, horários e compras.
+Cliente: Perfeito. Manda resumo do pacote por WhatsApp?
+Atendente: Enviado! Series S + Game Pass + controle usado = R$ 2.437,90.
+Cliente: Obrigado! Primeiro console dele, emocionante.
+Atendente: Vai ser especial! Te esperamos sábado!
+Cliente: Controle usado tem garantia?
+Atendente: 30 dias loja contra defeito. Testado e certificado.
+Cliente: Pagamento na retirada?
+Atendente: Sim, Pix/cartão/dinheiro. Reserva sem pagamento antecipado.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

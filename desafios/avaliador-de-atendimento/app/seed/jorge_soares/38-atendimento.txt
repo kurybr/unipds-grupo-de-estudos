@@ -1,0 +1,30 @@
+Cliente: Quanto tempo demora entrega de jogo digital?? Paguei faz 6 horas e NADA.
+Atendente: Peço desculpas. Qual o número do pedido?
+Cliente: #LJ-44567. Horizon Forbidden West, R$ 199,90, Pix às 11h.
+Atendente: Localizei. Sistema de liberação automática falhou por manutenção programada não comunicada.
+Cliente: Manutenção?? Ninguém avisou! Site tava vendendo normalmente.
+Atendente: Falha nossa de comunicação. Código liberado manualmente agora. Verifica e-mail e spam.
+Cliente: Nada ainda... espera, chegou agora. 6 horas é inaceitável.
+Atendente: Concordo. Incluo voucher R$ 20 na loja como compensação pelo atraso.
+Cliente: R$ 20?? Perdi a tarde toda esperando pra jogar.
+Atendente: Posso elevar para R$ 30. Infelizmente não consigo ultrapassar essa política de compensação.
+Cliente: Política fraca. Resolvido, mas experiência ruim.
+Atendente: Feedback registrado. Lamento sinceramente. Protocolo #ATD-44567.
+Cliente: Horizon é código PS5 ou PS4?
+Atendente: Seu pedido é PS5 — código resgata direto na PSN, download automático.
+Cliente: Complete Edition ou base?
+Atendente: Complete Edition com Burning Shores incluso — mesmo valor R$ 199,90 da promo.
+Cliente: Pelo menos isso. Código já resgatei.
+Atendente: Confirmado no sistema! Download deve iniciar automaticamente no PS5.
+Cliente: Voucher R$ 30 vale pra qualquer jogo?
+Atendente: Sim, qualquer produto, validade 60 dias. Código #VCH-44567 enviado por e-mail.
+Cliente: Tá. Experiência ruim, mas resolveu no fim.
+Atendente: Lamento novamente. Bom jogo e obrigado pela paciência.
+Cliente: Complete Edition vale a promo?
+Atendente: Sim, Burning Shores incluso — economia de R$ 80 vs compra separada.
+Cliente: Já baixando. Voucher recebido.
+Atendente: Ótimo! Qualquer problema, protocolo #ATD-44567.
+Cliente: Já instalando. Valeu!
+Atendente: Bom jogo! Horizon é incrível!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 2

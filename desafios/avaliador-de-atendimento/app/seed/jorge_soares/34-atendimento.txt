@@ -1,0 +1,30 @@
+Cliente: Boa tarde. Preciso de 5 Nintendo Switch OLED para premiação de equipe no evento da empresa.
+Atendente: Boa tarde! Para pedidos corporativos acima de 3 unidades temos condições especiais.
+Cliente: São 5 Switch OLED branco. Preciso de nota fiscal CNPJ e entrega até dia 20.
+Atendente: Consigo 8% de desconto no lote — de R$ 9.495 (5x R$ 1.899) para R$ 8.735.
+Cliente: Inclui nota fiscal e entrega?
+Atendente: Nota fiscal CNPJ sim. Entrega gratuita para pedidos corporativos acima de R$ 8.000 em SP.
+Cliente: Preciso de embalagem individual para presente, cada um em caixa separada.
+Atendente: Embalagem presente sem custo adicional. Posso incluir cartão genérico "Parabéns" em cada uma.
+Cliente: Perfeito. Prazo de entrega confirma dia 20?
+Atendente: Com pedido confirmado hoje, entrega dia 18 ou 19 — margem de segurança para dia 20.
+Cliente: Manda orçamento formal pro e-mail corporativo: rh@techbrasil.com.br
+Atendente: Orçamento enviado! Validade 5 dias úteis. Inclui desconto, NF e embalagem.
+Cliente: Recebi. Vou encaminhar pro financeiro. Atendimento eficiente!
+Atendente: Obrigado! Aguardamos confirmação. Qualquer ajuste, estamos à disposição.
+Cliente: Pagamento boleto 30 dias? Empresa exige prazo.
+Atendente: Corporativo acima de R$ 8.000: boleto 30 dias após aprovação cadastral.
+Cliente: Cadastro CNPJ demora quanto?
+Atendente: 24-48h com documentação completa. Enviamos checklist no orçamento.
+Cliente: Evento dia 20, preciso fechar hoje. Dá tempo?
+Atendente: Com cadastro expresso e pagamento antecipado 50%, entrega garantida dia 19.
+Cliente: Financeiro aprovou. Manda boleto entrada 50%?
+Atendente: Boleto enviado! Pedido corporativo #CORP-2024-089 registrado.
+Cliente: Saldo 50% restante no recebimento?
+Atendente: Exato. Boleto saldo vence 5 dias após entrega confirmada.
+Cliente: RH agradece agilidade. Evento dia 20 garantido.
+Atendente: Entrega dia 19 confirmada! Obrigado pela parceria!
+Cliente: Nota fiscal CNPJ no e-mail corporativo?
+Atendente: Sim, NF-e enviada junto com boleto ao financeiro.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

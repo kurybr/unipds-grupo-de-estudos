@@ -1,0 +1,20 @@
+Cliente: Vocês parcelam console? Tô juntando dinheiro pro Xbox Series S.
+Atendente: Parcelamos sim, em até 12x no cartão de crédito.
+Cliente: Quanto fica o Series S hoje?
+Atendente: R$ 2.199 à vista ou 12x de R$ 209,90. Inclui controle e cabos originais.
+Cliente: Tem diferença grande pro Series X?
+Atendente: Series S é digital only, 512GB, roda games em 1440p. Series X tem disco, 1TB e 4K nativo, R$ 3.899.
+Cliente: Só jogo casual mesmo, FIFA e Game Pass. Series S aguenta?
+Atendente: Aguenta tranquilamente para esse perfil. Game Pass Ultimate funciona igual nos dois.
+Cliente: Ok, só queria saber mesmo. Ainda tô juntando mais um pouco.
+Atendente: Sem pressa! Quando quiser, posso reservar uma unidade ou avisar de promoção.
+Cliente: Game Pass Ultimate quanto sai por mês?
+Atendente: R$ 59,90/mês. Inclui centenas de jogos para console, PC e cloud.
+Cliente: Series S roda FIFA 25 sem travar?
+Atendente: Sim, FIFA/EA Sports FC roda 60fps estável no Series S em 1080p.
+Cliente: Preciso HD externo? 512GB parece pouco.
+Atendente: Recomendamos SSD externo USB 3.1 a partir de 1TB, R$ 399. Jogos Xbox Series precisam SSD específico ou interno.
+Cliente: Beleza, anotei o contato. Valeu!
+Atendente: Por nada! Boa sorte na economia. Estamos à disposição!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 3

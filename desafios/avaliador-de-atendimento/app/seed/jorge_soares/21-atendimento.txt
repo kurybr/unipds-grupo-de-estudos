@@ -1,0 +1,32 @@
+Cliente: Boa tarde. Comprei um PS5 Slim com vocês semana passada e o leitor de disco faz barulho estranho quando lê mídia.
+Atendente: Boa tarde! Sinto muito pelo transtorno. O barulho acontece com todos os discos ou algum específico?
+Cliente: Com todos. Parece um rangido metálico quando o disco começa a girar, depois estabiliza.
+Atendente: Entendo. Alguns ruídos leves podem ser normais, mas rangido persistente pode indicar defeito no leitor.
+Cliente: Não me parece normal. Paguei R$ 3.899, console novo tem que funcionar direito.
+Atendente: Concordo plenamente. Dentro de 7 dias você pode exercer arrependimento ou solicitar troca por unidade nova.
+Cliente: Prefiro troca. Não quero ficar sem console, uso todo dia.
+Atendente: Perfeito. Traga o console com caixa, cabos, controle e nota fiscal. Fazemos troca na hora se tivermos estoque.
+Cliente: Tem estoque na loja do Shopping Center?
+Atendente: Sim, temos 2 unidades PS5 Slim disponíveis. Posso reservar uma para troca amanhã?
+Cliente: Pode sim. Preciso levar algo além da nota?
+Atendente: Documento com foto e o console completo. O processo de troca leva cerca de 30 minutos com teste na loja.
+Cliente: E se o novo também fizer barulho?
+Atendente: Testamos juntos na loja antes de você levar. Se houver qualquer anormalidade, trocamos novamente ou devolvemos valor.
+Cliente: Justo. Passo amanhã no almoço então. Nome Bruno Ferreira, pedido #LJ-90112.
+Atendente: Reserva confirmada, Bruno! Unidade reservada para troca amanhã, Shopping Center, a partir das 12h.
+Cliente: O barulho piora com Blu-ray 4K ou é igual em qualquer mídia?
+Atendente: Pode variar conforme velocidade de rotação. Testamos com mídia PS5 e Blu-ray na loja para comparar.
+Cliente: Tenho disco de PS4 também. Roda normal apesar do barulho?
+Atendente: Se lê e roda, funcionalidade está ok — mas barulho anormal ainda justifica troca preventiva.
+Cliente: Preciso formatar o console antes de levar?
+Atendente: Recomendamos desvincular conta PSN e restaurar padrão de fábrica. Posso enviar passo a passo por e-mail.
+Cliente: Manda sim. E-mail bruno.ferreira@gmail.com.
+Atendente: Guia enviado! Troca amanhã, caixa 4, Shopping Center. Qualquer dúvida, chame aqui.
+Cliente: Obrigado por resolver sem burocracia. Até amanhã.
+Atendente: Por nada! Te esperamos. Boa tarde!
+Cliente: Garantia Sony do novo console reinicia?
+Atendente: Garantia Sony segue original. Garantia loja 90 dias reinicia na troca.
+Cliente: Nota fiscal da troca gera na hora?
+Atendente: Sim, NF de troca emitida automaticamente vinculada ao pedido #LJ-90112.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

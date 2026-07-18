@@ -1,0 +1,20 @@
+Cliente: Meu pedido #LJ-33102 não chegou. Já faz 20 dias e o rastreio não atualiza.
+Atendente: Sinto muito pelo transtorno. Vou verificar agora... O pedido consta como entregue no dia 3, com assinatura "portaria".
+Cliente: NINGUÉM ENTREGOU NADA AQUI. Moro sozinho, trabalho home office. Impossível ter recebido.
+Atendente: Peço desculpas. Vou abrir reclamação formal com a transportadora e solicitar comprovante com foto.
+Cliente: Reclamação?? Quero meu Elden Ring HOJE. Paguei R$ 249,90 e ficar sem resposta.
+Atendente: Entendo a urgência. Infelizmente, sem conclusão da investigação, o reenvio leva de 3 a 5 dias úteis.
+Cliente: 5 dias?? Isso é um absurdo. Na loja física eu já tinha saído com o jogo.
+Atendente: Posso oferecer retirada gratuita em loja como alternativa, se preferir cancelar a entrega pendente.
+Cliente: E se a transportadora disser que entregou? Vocês acreditam em mim ou neles?
+Atendente: Analisamos evidências dos dois lados. Se a investigação confirmar falha da transportadora, reenviamos sem custo.
+Cliente: Qual loja mais perto? Moro em Pinheiros, CEP 05422-030.
+Atendente: Loja Pinheiros, Rua dos Pinheiros, 498. Elden Ring físico PS5 disponível — retirada hoje até 21h.
+Cliente: Posso buscar hoje sem esperar investigação?
+Atendente: Posso autorizar retirada imediata enquanto investigação segue em paralelo. Sem custo adicional.
+Cliente: Loja horrível. Perdi tempo, perdi dinheiro e perdi paciência. Nunca mais compro aqui.
+Atendente: Lamento profundamente. Protocolo #ATD-55102 aberto. Você receberá retorno em até 48 horas por e-mail.
+Cliente: Retirada hoje então. Nome Felipe, documento RG.
+Atendente: Elden Ring reservado Pinheiros. Retirada autorizada com protocolo #ATD-55102 até 21h.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 1

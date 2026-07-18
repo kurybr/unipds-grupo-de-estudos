@@ -1,0 +1,20 @@
+Cliente: Oi! Vi no site que tem promo de jogos indie essa semana. Hollow Knight entra?
+Atendente: Olá! Sim, seleção de indies com até 40% off até domingo. Hollow Knight está incluído!
+Cliente: Qual o preço no Switch?
+Atendente: De R$ 79,90 por R$ 47,90 na versão digital. Física usada R$ 59,90 se preferir mídia.
+Cliente: Digital instala na hora?
+Atendente: Sim, código enviado por e-mail em até 15 minutos. Resgata direto na eShop Nintendo.
+Cliente: Boa! Tem mais algum indie barato que você recomenda nessa promo?
+Atendente: Celeste por R$ 29,90 e Hades por R$ 39,90 também estão com desconto. Os três são excelentes.
+Cliente: Vou levar Hollow Knight e Celeste então. Manda o link da promo?
+Atendente: Claro! https://lojadejogos.com.br/promo-indies — adicione ao carrinho e o desconto aplica automaticamente.
+Cliente: Comprei os dois! Chegou rapidinho no e-mail. Obrigado pela dica 😊
+Atendente: Que bom! Bom jogo e qualquer coisa estamos aqui!
+Cliente: Hollow Knight é difícil? Sou iniciante no gênero.
+Atendente: Tem curva de aprendizado, mas é justo. Celeste tem modo assistido — melhor porta de entrada.
+Cliente: Celeste primeiro então, Hollow Knight depois. Boa ordem?
+Atendente: Ordem perfeita! Celeste prepara reflexos e persistência para Hollow Knight.
+Cliente: Promo vale até domingo 23h59?
+Atendente: Exato! Desconto automático no carrinho até domingo à meia-noite.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

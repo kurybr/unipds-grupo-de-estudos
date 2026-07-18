@@ -1,0 +1,22 @@
+Cliente: Boa tarde. Estou pesquisando controle original pro Xbox Series X. Vocês trabalham com peça original Microsoft?
+Atendente: Boa tarde! Sim, todos os nossos acessórios Xbox são originais Microsoft, lacrados de fábrica.
+Cliente: Qual o valor à vista? Vi preços bem diferentes na internet.
+Atendente: O controle wireless oficial está R$ 449,90. No Pix tem 5% de desconto, ficando R$ 427,40.
+Cliente: Tem diferença entre o controle branco e o preto além da cor?
+Atendente: Nenhuma diferença técnica. Mesma bateria, conectividade e compatibilidade com Series X, Series S e PC.
+Cliente: Entendi. Vocês entregam ou só retirada?
+Atendente: Entregamos sim. Para sua região, o frete fica em torno de R$ 15 a R$ 22, prazo de 2 a 4 dias úteis.
+Cliente: Beleza, vou comparar com mais uma loja e decido ainda hoje. Obrigado pelas informações.
+Atendente: Por nada! Se quiser, posso reservar uma unidade por 24h sem compromisso.
+Cliente: Esse controle vem com cabo USB ou preciso comprar separado?
+Atendente: Vem com cabo USB-C na caixa, para carregar e jogar com fio se preferir.
+Cliente: Pilha ou bateria interna?
+Atendente: Bateria recarregável interna. Autonomia de 30 a 40 horas dependendo do uso.
+Cliente: Tem garantia? Já tive problema com controle genérico antes.
+Atendente: Garantia Microsoft de 3 meses contra defeito de fábrica. Lacrado de fábrica com nota fiscal.
+Cliente: Aceita troca se abrir e não gostar do peso?
+Atendente: Dentro de 7 dias com lacre intacto, troca por outra cor ou devolução conforme CDC.
+Cliente: Por enquanto não precisa reservar, mas anotei o contato. Valeu!
+Atendente: Qualquer dúvida, estamos à disposição. Boa tarde!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

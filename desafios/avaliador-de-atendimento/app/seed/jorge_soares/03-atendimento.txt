@@ -1,0 +1,22 @@
+Cliente: E aí, tem PS5 aí ou é só conversa bonita no anúncio?
+Atendente: Temos PS5 Slim disponível sim, tanto para retirada quanto entrega.
+Cliente: Quanto tá saindo? Porque na concorrência vi mais barato.
+Atendente: O PS5 Slim 1TB está R$ 3.899 à vista ou 12x de R$ 369,90 no cartão.
+Cliente: Caro demais. Outra loja postou R$ 3.650 ontem.
+Atendente: Entendo. Infelizmente não consigo alterar preço pelo chat, mas posso verificar se há cupom ativo no site.
+Cliente: Cupom? Manda aí então, vamos ver.
+Atendente: No momento o cupom GAMER10 dá 10% em jogos, mas não se aplica a consoles.
+Cliente: Então não adianta nada pra mim. Vocês perdem venda desse jeito.
+Atendente: Compreendo sua frustração. Se quiser, posso avisar quando tivermos promoção de console.
+Cliente: Vocês parcelam sem juros?
+Atendente: Até 10x sem juros no cartão, mas o preço do console não muda — só facilita o pagamento.
+Cliente: Na outra loja vi 12x. Mesma coisa, preço menor.
+Atendente: Entendo. Infelizmente não consigo igualar oferta de concorrente pelo chat.
+Cliente: E frete? Se eu comprar aí, quanto fica pro CEP 01310-100?
+Atendente: Para região central SP, frete R$ 39,90 ou grátis acima de R$ 3.500 — quase atinge com o console.
+Cliente: Quase não adianta. Na outra loja frete era grátis.
+Atendente: Compreendo. Nossa política de frete grátis começa em R$ 3.500 para SP capital.
+Cliente: Não precisa avisar promoção. Vou comprar na outra loja mesmo. Até.
+Atendente: Tudo bem. Se mudar de ideia, estamos por aqui. Boa tarde!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 2

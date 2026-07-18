@@ -1,0 +1,46 @@
+Cliente: Oi! Meu amigo indicou vocês. Quero começar a jogar mas tenho vergonha de ir na loja, tenho 35 anos e nunca joguei.
+Atendente: Olá! Zero vergonha! Cada vez mais adultos começam a jogar. É normal e divertido!
+Cliente: Sempre achei que videogame era coisa de adolescente. Estou errado?
+Atendente: Completamente! Média de idade dos gamers no Brasil é 34 anos. Jogos para todos os gostos e idades.
+Cliente: Gosto de séries, filmes de aventura. O que recomenda?
+Atendente: The Last of Us Part I (R$ 249 PS5) — narrativa cinematográfica incrível. Uncharted Legacy Collection também.
+Cliente: Last of Us parece pesado demais. Algo mais leve?
+Atendente: It Takes Two (R$ 149) — cooperativo, engraçado, precisa de 2 pessoas. Ou Life is Strange — drama interativo.
+Cliente: Moro sozinho. Coop não funciona.
+Atendente: Então Uncharted Collection R$ 199 — aventura solo, história envolvente, gameplay acessível para iniciantes.
+Cliente: PS5 ou Xbox para esses jogos?
+Atendente: Uncharted e The Last of Us são exclusivos PlayStation. PS5 Slim R$ 3.899.
+Cliente: Caro... Tem algo mais em conta?
+Atendente: PS5 usado certificado R$ 2.899, garantia 90 dias. Mesmos jogos rodam perfeitamente.
+Cliente: Usado me preocupa. E se quebrar?
+Atendente: Certificado passa por 32 testes. Garantia 90 dias loja + garantia Sony restante se houver.
+Cliente: Convenceu. Uncharted + PS5 usado. Orçamento?
+Atendente: PS5 usado R$ 2.899 + Uncharted R$ 199 = R$ 3.098. Parcela 10x R$ 309,80.
+Cliente: Fechado! Primeira compra. Obrigado por não me julgar.
+Atendente: Imagina! Bem-vindo ao hobby! Qualquer dúvida na configuração, estou aqui. Pedido #LJ-55001 confirmado!
+Cliente: Compro online sem ir na loja? Vergonha mesmo.
+Atendente: 100% online! Entrega em casa, setup por videochamada gratuita se quiser.
+Cliente: Videochamada ajuda! Nunca liguei console na TV.
+Atendente: Agendamos após entrega. Técnico guia passo a passo por 30 min.
+Cliente: Uncharted tem violência extrema?
+Atendente: TEM-12. Aventura moderada, nada excessivo. Mais Indiana Jones que horror.
+Cliente: Perfeito pro meu perfil. Manda link Pix?
+Atendente: Link enviado! PS5 usado certificado + Uncharted. Pedido #LJ-55001.
+Cliente: Pago! Primeira vez empolgado com videogame aos 35!
+Atendente: Vai ser incrível! Bem-vindo à comunidade gamer!
+Cliente: PS5 usado vem limpo? Medo de higiene.
+Atendente: Higienização completa, certificação sanitária inclusa.
+Cliente: Uncharted dublado PT-BR?
+Atendente: Sim, dublagem e legendas português completas.
+Cliente: Entrega quanto tempo? Moro em Florianópolis.
+Atendente: FLN 5-7 dias úteis, frete grátis acima R$ 3.000.
+Cliente: Videochamada setup quando chegar?
+Atendente: Agendo após confirmação entrega — link calendário no e-mail.
+Cliente: Primeira vez empolgado com hobby novo. Obrigado por acolher.
+Atendente: Hobby incrível esperando você! Pedido #LJ-55001 confirmado!
+Cliente: Pagamento Pix confirmado. Emocionado!
+Atendente: Pagamento recebido! Entrega agendada!
+Cliente: Obrigado por não me julgar. 35 anos nunca é tarde.
+Atendente: Nunca é tarde! Bem-vindo, gamer!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

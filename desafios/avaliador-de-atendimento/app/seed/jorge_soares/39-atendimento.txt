@@ -1,0 +1,30 @@
+Cliente: Boa tarde. Sou professor e quero usar videogame na aula. Switch é adequado para crianças 6-8 anos?
+Atendente: Boa tarde! Switch é excelente para essa faixa. Mario, Kirby, Pokémon são educativos e seguros.
+Cliente: Tem jogos que trabalham raciocínio lógico ou cooperação?
+Atendente: Super Mario Bros. Wonder, Snipperclips e Overcooked trabalham cooperação. Big Brain Academy raciocínio.
+Cliente: Preciso de 4 controles. Switch suporta?
+Atendente: Switch suporta até 8 controles Joy-Con ou 4 Pro Controllers simultâneos.
+Cliente: Orçamento limitado, escola pública. Tem desconto educacional?
+Atendente: Temos programa educação: 15% off em consoles e jogos selecionados com comprovante institucional.
+Cliente: Preciso de nota no CNPJ da escola?
+Atendente: Sim, NF no CNPJ da instituição de ensino. Basta enviar carta em papel timbrado.
+Cliente: Quantos jogos consigo com R$ 800 depois do console?
+Atendente: Switch Lite R$ 1.499 com desconto 15% = R$ 1.274. Sobram recursos se tiver verba complementar.
+Cliente: Vou verificar verba com direção. Informações muito úteis, obrigado!
+Atendente: Disponha! Programa educação: edu@lojadejogos.com.br. Boa sorte no projeto!
+Cliente: Switch Lite conecta na TV da sala de aula?
+Atendente: Lite não conecta na TV — só portátil. Switch padrão R$ 1.899 com desconto 15% = R$ 1.614 vai na TV.
+Cliente: TV é essencial. Orçamento total escola R$ 2.500.
+Atendente: Switch padrão R$ 1.614 + Mario Wonder R$ 212 + Snipperclips R$ 85 = R$ 1.911. Sobram R$ 589.
+Cliente: Snipperclips é cooperativo na mesma tela?
+Atendente: Sim, 2-4 jogadores local. Perfeito para atividades em dupla na sala.
+Cliente: Manda proposta formal pro e-mail da escola?
+Atendente: Enviado! Proposta #EDU-2024-12 com desconto educacional e NF CNPJ.
+Cliente: Direção aprova semana que vem. Validade proposta?
+Atendente: 30 dias. Reserva de preço garantida nesse período.
+Cliente: Obrigado! Projeto vai ajudar 25 crianças.
+Atendente: Honra participar! edu@lojadejogos.com.br para follow-up.
+Cliente: Projeto aprovado! Fechamos semana que vem.
+Atendente: Parabéns! Aguardamos confirmação formal!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

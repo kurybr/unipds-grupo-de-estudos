@@ -1,0 +1,22 @@
+Cliente: Oi, tudo bem? Sou completamente novo no mundo dos games. Qual console vocês recomendam?
+Atendente: Olá! Tudo bem sim 😊 Depende do que você busca: exclusivos Nintendo, gráficos potentes ou melhor custo-benefício?
+Cliente: Quero algo pra jogar com minha esposa em casa, nada muito complicado ou violento.
+Atendente: Nintendo Switch é ideal para casal — Mario Kart, It Takes Two, Overcooked, Mario Party!
+Cliente: Parece perfeito! Qual o mais em conta pra começar?
+Atendente: Switch Lite R$ 1.499, mas não conecta na TV. Switch padrão R$ 1.899 vai na TV e é melhor para casal.
+Cliente: Faz diferença grande jogar na TV?
+Atendente: Para jogar juntos no sofá, sim. Lite é portátil only — cada um com o seu ou passa o aparelho.
+Cliente: Então o padrão faz mais sentido. Vem com algum jogo?
+Atendente: Não incluso, mas Mario Kart 8 Deluxe por R$ 249,90 é o combo clássico para iniciantes.
+Cliente: Vocês montam um "kit casal" com desconto?
+Atendente: Kit Switch + Mario Kart + 2 capinhas Joy-Con sai R$ 2.099 — economia de R$ 50.
+Cliente: Adorei! Vou pensar com ela hoje à noite e volto amanhã. Obrigado pela paciência!
+Atendente: Por nada! Fico feliz em ajudar. Até amanhã!
+Cliente: It Takes Two precisa de 2 controles?
+Atendente: Sim, coop obrigatório com 2 controles. Switch suporta Joy-Con divididos ou 2 Pro Controllers.
+Cliente: Kit casal inclui segundo par de Joy-Con?
+Atendente: Não, mas adicionando par extra R$ 349 o kit fica completo para It Takes Two e Mario Kart 4 jogadores.
+Cliente: Anotei tudo. Conversamos hoje à noite e decido amanhã!
+Atendente: Combinado! Reservo informações no seu CPF se quiser — sem compromisso.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

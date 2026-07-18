@@ -1,0 +1,20 @@
+Cliente: Meu DualSense começou a driftar depois de 2 meses. Comprei aí, pedido #LJ-22410.
+Atendente: Sinto muito. Vou verificar... Compra confirmada em 14/03, dentro da garantia de 3 meses do fabricante.
+Cliente: E enquanto isso? Fico sem jogar? Tenho raid marcado no Final Fantasy XIV.
+Atendente: Posso encaminhar para assistência Sony autorizada. Prazo médio de 15 a 20 dias úteis.
+Cliente: 20 dias?? Não dá. Vocês não trocam na hora?
+Atendente: Troca imediata só se tivermos unidade disponível em estoque para substituição direta.
+Cliente: E tem?
+Atendente: No momento, estoque zerado de DualSense branco. Previsão de reposição em 5 dias.
+Cliente: Vocês falaram de controle reserva. Quanto custa?
+Atendente: Empréstimo por R$ 15/dia enquanto aguarda reparo ou reposição.
+Cliente: R$ 15 por dia sendo que o defeito não foi meu?? Absurdo.
+Atendente: Entendo sua frustração. Infelizmente é política da loja para empréstimo de acessórios.
+Cliente: Posso usar controle genérico no PS5 enquanto isso?
+Atendente: Controles third-party compatíveis PS5 temos a partir de R$ 199 — funciona para maioria dos jogos.
+Cliente: Não vou gastar mais dinheiro por culpa de vocês.
+Atendente: Compreendo. Posso registrar prioridade na fila de reposição — aviso em 48h quando chegar estoque.
+Cliente: Atendimento frio. Vou resolver direto com a Sony e nunca mais compro acessório aqui.
+Atendente: Lamento. Protocolo #ATD-22410 registrado. Assistência Sony: 0800-xxx-xxxx.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 2

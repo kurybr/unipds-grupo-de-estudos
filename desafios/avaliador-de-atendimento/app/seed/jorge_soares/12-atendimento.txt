@@ -1,0 +1,20 @@
+Cliente: Comprei Spider-Man 2 aí sem saber que era mídia americana. Não roda no meu PS5 brasileiro.
+Atendente: Sinto muito pelo transtorno. Qual o número do pedido?
+Cliente: Pedido #LJ-55891. O vendedor na loja não explicou nada sobre região.
+Atendente: Peço desculpas. Mídias importadas podem ter restrição de região dependendo do título. Vou verificar a troca.
+Cliente: Vocês devolvem ou ficam enrolando?
+Atendente: Dentro de 7 dias com lacre intacto, trocamos por versão nacional sem custo adicional.
+Cliente: Lacre tá intacto sim, nem abri. Quero a versão BR com legenda em português.
+Atendente: Troca autorizada. Pode trazer na loja amanhã com nota fiscal e embalagem original.
+Cliente: Preciso pagar alguma taxa ou frete de volta?
+Atendente: Não. A falha foi na orientação de venda. Troca gratuita e imediata na loja.
+Cliente: Tá, amanhã eu vou. Mas fiquei bem chateado com a loja, viu.
+Atendente: Entendo perfeitamente. Registro feedback no protocolo #ATD-55891 para treinamento da equipe.
+Cliente: Qual loja posso ir? Comprei na unidade Paulista.
+Atendente: Pode trocar em qualquer unidade. Paulista tem estoque da versão BR — separei uma unidade.
+Cliente: E dublagem? Versão BR vem dublada em português?
+Atendente: Sim, versão nacional inclui legendas e dublagem PT-BR completa.
+Cliente: Amanhã passo no almoço então. Nome Felipe Rocha.
+Atendente: Anotado, Felipe! Troca garantida amanhã, caixa 2, loja Paulista.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 1

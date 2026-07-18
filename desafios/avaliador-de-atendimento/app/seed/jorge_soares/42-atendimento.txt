@@ -1,0 +1,30 @@
+Cliente: Vocês têm estoque de PS5 Slim digital? Só achei com disco no site.
+Atendente: PS5 Slim digital temos sim, R$ 3.299. Versão com disco R$ 3.899.
+Cliente: Diferença grande. Vale a pena ter disco?
+Atendente: Digital é mais barato, jogos só download. Com disco você compra mídia física usada, empresta, revende.
+Cliente: Compro muito jogo usado. Disco faz sentido.
+Atendente: Nesse caso, versão com disco compensa a longo prazo. Usados saem 30-50% mais barato.
+Cliente: Tem branco ou só preto?
+Atendente: Slim com disco: preto e branco disponíveis. Digital: só preto no momento.
+Cliente: Quero branco com disco. Entrega pro CEP 22041-080, Rio de Janeiro?
+Atendente: Entrega RJ em 4 a 6 dias úteis. Frete R$ 29,90 ou grátis acima de R$ 3.500.
+Cliente: Frete grátis quase... tem cupom?
+Atendente: Cupom PRIMEIRACOMPRA dá R$ 50 off — frete fica efetivamente grátis.
+Cliente: Boa! Manda link de pagamento Pix.
+Atendente: Link enviado! PS5 Slim branco + disco. Pedido #LJ-91203 aguardando Pix.
+Cliente: Pago! Animado demais, primeiro PlayStation!
+Atendente: Pagamento confirmado! Envio amanhã. Qualquer dúvida na configuração, chama aqui!
+Cliente: PS Plus necessário pra jogar online?
+Atendente: Sim, PS Plus Essential R$ 34,90/mês para multijogador online.
+Cliente: Jogos single player offline funcionam sem Plus?
+Atendente: Sim, offline sem assinatura. Plus só para online e saves na nuvem.
+Cliente: Manda guia configuração inicial?
+Atendente: Enviado por e-mail! Passo a passo conta PSN, Wi-Fi e primeiro jogo.
+Cliente: Recebi. Obrigado pelo atendimento atencioso!
+Atendente: Por nada! Bem-vindo ao PlayStation!
+Cliente: Rastreio amanhã?
+Atendente: Sim, envio confirmado. RJ entrega 4-6 dias úteis.
+Cliente: Primeiro jogo recomendado?
+Atendente: Astro Bot R$ 229 ou Spider-Man 2 — ambos showcase do PS5.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

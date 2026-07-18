@@ -1,0 +1,30 @@
+Cliente: Oi. Vi que vocês compram jogos usados. Tenho uns 8 jogos PS4 parados. Como funciona?
+Atendente: Olá! Avaliamos cada jogo individualmente. Mídia, caixa e manual influenciam o valor.
+Cliente: Tenho The Last of Us Part II, Ghost of Tsushima, Uncharted 4, Spider-Man... todos completos.
+Atendente: Ótimo! Estimativa inicial: entre R$ 400 e R$ 550 pelos 8, dependendo do estado.
+Cliente: Preciso trazer todos de uma vez?
+Atendente: Pode trazer aos poucos, mas avaliação em lote costuma render crédito 10% maior.
+Cliente: Crédito ou dinheiro?
+Atendente: Crédito na loja com bônus de 10%. Dinheiro à vista sem bônus, valor base.
+Cliente: Prefiro crédito. Posso usar pra comprar PS5 usado de vocês?
+Atendente: Sim! Temos PS5 usado R$ 2.899. Crédito dos jogos abate do valor.
+Cliente: Interessante. Preciso agendar ou é walk-in?
+Atendente: Walk-in, mas agendar evita fila. Avaliação leva 20 a 30 minutos para 8 jogos.
+Cliente: Agendo pra sábado 10h então. Nome: Gustavo Lima.
+Atendente: Agendado! Sábado 10h, loja Pinheiros. Traga jogos, caixas e documento.
+Cliente: Jogo sem manual perde muito valor?
+Atendente: Sem manual reduz 5-10%. Caixa danificada reduz mais — até 20%.
+Cliente: Ghost of Tsushima Director's Cut vale mais?
+Atendente: Sim, versão Director's Cut avalia 15-20% acima da padrão.
+Cliente: PS5 usado certificado inclui controle e cabos?
+Atendente: Sim, completo com controle DualSense, cabos, base e garantia 90 dias loja.
+Cliente: Crédito dos 8 jogos + complemento Pix pro PS5 usado?
+Atendente: Sim! Estimativa crédito R$ 500 + Pix R$ 2.399 = PS5 usado certificado.
+Cliente: Sábado levo tudo. Obrigado!
+Atendente: Te esperamos, Gustavo! Avaliação expressa agendada.
+Cliente: PS5 usado tem quantos meses?
+Atendente: Unidade certificada 8 meses de uso, estado A.
+Cliente: Posso testar na loja antes de fechar?
+Atendente: Sim, 15 min de teste com qualquer jogo demo.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

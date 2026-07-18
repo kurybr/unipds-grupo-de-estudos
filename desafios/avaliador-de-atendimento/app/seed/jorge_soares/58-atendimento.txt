@@ -1,0 +1,46 @@
+Cliente: Boa noite. Vi review no YouTube do Starfield no Xbox e quero comprar. Mas tenho PS5. Tem versão?
+Atendente: Boa noite! Starfield é exclusivo Xbox Series e PC — não existe versão PlayStation.
+Cliente: COMO?? O review não falou isso! Quase comprei errado.
+Atendente: Acontece frequentemente. Exclusivos Xbox: Starfield, Forza, Halo. Exclusivos PS5: Spider-Man, God of War.
+Cliente: Então o que parecido tem pro PS5?
+Atendente: Para RPG espacial/open world: No Man's Sky (multiplataforma) ou Cyberpunk 2077. Para exploração: Elden Ring.
+Cliente: No Man's Sky roda bem no PS5?
+Atendente: Sim, versão PS5 otimizada, 60fps, updates constantes. R$ 199,90.
+Cliente: Cyberpunk ainda tem bug?
+Atendente: Versão PS5 atual está estável após patches. Phantom Liberty DLC disponível. R$ 249,90 base.
+Cliente: Elden Ring já tenho. Fico entre No Man's Sky e Cyberpunk.
+Atendente: No Man's Sky: exploração espacial infinita, construção, coop. Cyberpunk: narrativa cyberpunk, RPG ação, mundo urbano.
+Cliente: Prefiro espaço. No Man's Sky!
+Atendente: Ótima escolha! Física R$ 199,90 ou digital R$ 179,90.
+Cliente: Digital. Manda código.
+Atendente: Pedido #LJ-33401. Código enviado! Obrigado por perguntar antes — evitou compra errada.
+Cliente: Vocês salvaram R$ 300. Outra loja ia me vender Starfield "compatível com PS5". Golpe.
+Atendente: Cuidado com informações incorretas. Sempre confirmamos compatibilidade. Bom jogo!
+Cliente: No Man's Sky precisa PS Plus pro coop?
+Atendente: Sim, multijogador online requer PS Plus. Single player offline funciona sem assinatura.
+Cliente: Jogo solo primeiro. Online depois.
+Atendente: Perfeito! Centenas de horas solo antes de explorar coop.
+Cliente: Código chegou. Resgate na PSN direto?
+Atendente: Sim, PlayStation Store > Resgatar código. Download automático ~15GB.
+Cliente: Obrigado por ser honesto. Nota alta.
+Atendente: Por nada! Explore o universo! Qualquer dúvida, chama aqui.
+Cliente: No Man's Sky coop quantos jogadores?
+Atendente: Até 4 jogadores coop online — base building compartilhada.
+Cliente: Base compartilhada offline?
+Atendente: Base solo offline. Coop requer PS Plus e internet.
+Cliente: Centenas de horas solo então. Perfeito.
+Atendente: Comunidade ativa, updates gratuitos constantes. Vale muito!
+Cliente: Quase gastei R$ 299 em Starfield errado. Gratidão!
+Atendente: Sempre pergunte compatibilidade! Bom jogo espacial!
+Cliente: 10 horas jogadas. Viciado em explorar planetas.
+Atendente: Kkk clássico No Man's Sky! Bem-vindo ao vício!
+Cliente: Gratidão por honestidade. Nota 4 justa.
+Atendente: Obrigado! Explorar o cosmos!
+Cliente: 20 horas e contando. Viciado!
+Atendente: Kkk No Man's Sky é assim! Boa exploração!
+Cliente: Base na lua construída. Viciante demais!
+Atendente: Kkk clássico! Boa construção!
+Cliente: Quase comprei Starfield. Vocês salvaram R$ 300!
+Atendente: Sempre confirmamos compatibilidade! 🚀
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

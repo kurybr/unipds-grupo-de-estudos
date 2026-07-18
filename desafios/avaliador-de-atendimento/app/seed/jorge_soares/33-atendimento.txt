@@ -1,0 +1,30 @@
+Cliente: Meu pedido #LJ-88901 chegou incompleto. Era bundle PS5 + Spider-Man 2. Veio só o console.
+Atendente: Sinto muito! Vou verificar o picking... Spider-Man 2 consta no pedido mas não foi separado no estoque.
+Cliente: Incompetência total. Paguei R$ 4.500. Era presente de casamento pro meu irmão.
+Atendente: Peço desculpas sinceras. Envio do jogo hoje via motoboy, sem custo, entrega em até 4 horas.
+Cliente: 4 horas?? Devia ter vindo junto. Casamento foi sábado, estou devolvendo domingo.
+Atendente: Entendo completamente. Incluo voucher de R$ 50 na loja como compensação pelo transtorno.
+Cliente: R$ 50 não cobre a vergonha que passei. Cheguei no casamento só com console.
+Atendente: Lamento muito. Posso elevar compensação para R$ 100 se aceitar aguardar entrega hoje.
+Cliente: Tá, aceito os R$ 100. Mas foi constrangedor demais.
+Atendente: Motoboy sairá em 40 minutos com Spider-Man 2 físico. Rastreio enviado por SMS.
+Cliente: Confirma endereço: Rua das Flores, 450, apto 82?
+Atendente: Confirmado e atualizado. Pedido complementar #LJ-88901-B registrado.
+Cliente: Spider-Man 2 é mídia PS5 ou código?
+Atendente: Física PS5, edição launch com steelbook — mesma do bundle original.
+Cliente: Steelbook ajuda a salvar o presente. Embalagem presente?
+Atendente: Incluída sem custo! Cartão "Parabéns pelo casamento" adicionado.
+Cliente: Motoboy liga antes de chegar?
+Atendente: Sim, SMS com link rastreio + ligação 10 min antes.
+Cliente: Ok. Resolveu, mas confiança abalada.
+Atendente: Compreendo. Protocolo #ATD-88901 — feedback encaminhado ao estoque.
+Cliente: Motoboy chegou. Steelbook lindo. Presente salvo.
+Atendente: Que alívio! Voucher R$ 100 ativo na sua conta.
+Cliente: Ainda chateado, mas resolveu parcialmente.
+Atendente: Entendo. Obrigado por dar chance de corrigir.
+Cliente: Spider-Man 2 instalado. Console funcionando.
+Atendente: Ótimo! Aproveite o presente de casamento!
+Cliente: Casal adorou o steelbook. Obrigado!
+Atendente: Fico feliz! Parabéns ao casal!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 2

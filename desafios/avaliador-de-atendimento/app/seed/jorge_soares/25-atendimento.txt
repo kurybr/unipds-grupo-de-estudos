@@ -1,0 +1,30 @@
+Cliente: Boa noite. Vocês montam setup completo? Console, monitor e cadeira gamer?
+Atendente: Boa noite! Montamos pacotes personalizados sim. Qual console você tem ou pretende comprar?
+Cliente: PS5. Quero montar um cantinho gamer no quarto, espaço limitado.
+Atendente: Temos kits compactos: PS5 Slim + monitor 27" 144Hz + cadeira gamer a partir de R$ 6.499.
+Cliente: Interessante. A cadeira aguenta 120kg? Sou um pouco pesado.
+Atendente: Nossa cadeira ProGamer suporta até 150kg, com garantia de 2 anos e apoio lombar ajustável.
+Cliente: Monitor vem com suporte de parede ou só pé?
+Atendente: Vem com pé original. Suporte VESA vendido à parte por R$ 79,90 se quiser fixar na parede.
+Cliente: E instalação? Não entendo nada de cabo.
+Atendente: Entrega e montagem gratuita na região metropolitana para pedidos acima de R$ 5.000. Técnico configura tudo.
+Cliente: Gostei. Manda o catálogo completo com fotos?
+Atendente: Enviado para seu e-mail! Três opções de kit: básico, intermediário e premium.
+Cliente: Vi aqui. O kit intermediário parece ideal. Vou conversar com minha esposa e decido amanhã.
+Atendente: Sem pressa! Qualquer dúvida sobre medidas ou compatibilidade, chame aqui.
+Cliente: Valeu pela consultoria. Atendimento caprichado.
+Atendente: Obrigado! Boa noite e até amanhã!
+Cliente: Quarto tem 2,5m de largura. Cabe monitor 27"?
+Atendente: Sim, com profundidade de 60cm para mesa. Medidas detalhadas no catálogo página 4.
+Cliente: PS5 Slim esquenta muito dentro de rack fechado?
+Atendente: Recomendamos ventilação lateral mínima 10cm. Temos rack aberto específico R$ 349.
+Cliente: Adiciona rack aberto no orçamento intermediário?
+Atendente: Atualizado! Kit intermediário + rack = R$ 6.848. Orçamento revisado enviado por e-mail.
+Cliente: Perfeito. Decido amanhã com a esposa. Obrigado!
+Atendente: Combinado! Orçamento válido 7 dias. Boa noite!
+Cliente: Monitor tem entrada para PS5 e notebook simultâneo?
+Atendente: 2 HDMI — alterna com botão. PS5 e notebook sem trocar cabo.
+Cliente: Instalação rack inclui passagem de cabos?
+Atendente: Sim, técnico organiza cabos com canaletas inclusas no kit.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

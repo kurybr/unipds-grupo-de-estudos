@@ -1,0 +1,20 @@
+Cliente: Bom dia. Vocês aceitam troca de jogo usado? Tenho alguns parados aqui em casa.
+Atendente: Bom dia! Aceitamos sim. Avaliamos o estado da mídia, caixa e manual na hora, na loja ou por fotos pelo chat.
+Cliente: Tenho God of War Ragnarok completo, caixa impecável, com manual e código de DLC não utilizado.
+Atendente: Ótimo! Nesse estado, a avaliação fica entre R$ 120 e R$ 140 de crédito na loja.
+Cliente: Posso usar o crédito pra comprar outro jogo na hora?
+Atendente: Sim, crédito válido por 90 dias em qualquer produto — jogos, acessórios ou até complemento em console.
+Cliente: E se o jogo tiver arranhão leve na mídia?
+Atendente: Arranhão superficial reduz uns R$ 20 a R$ 30. Arranhão profundo ou trinca não aceitamos.
+Cliente: O meu tá bem cuidado. Preciso levar o quê na loja?
+Atendente: Mídia, caixa, manual, nota fiscal se tiver, e documento com foto. Avaliação leva cerca de 10 minutos.
+Cliente: Aceitam jogos de PS4 também ou só PS5?
+Atendente: Aceitamos PS4, PS5, Xbox, Switch e Nintendo retro. Cada plataforma tem tabela de avaliação.
+Cliente: Tenho também Horizon Forbidden West PS4. Quanto renderia junto?
+Atendente: Horizon completo PS4 estimativa R$ 80 a R$ 100. Lote de 2 jogos ganha bônus de 5% no crédito total.
+Cliente: Crédito ou dinheiro vivo? Qual compensa mais?
+Atendente: Crédito na loja rende 10% a mais que dinheiro à vista. Para comprar algo novo, crédito vale mais.
+Cliente: Fechado. Passo amanhã no almoço. Obrigado por explicar direitinho.
+Atendente: Por nada! Te esperamos. Bom dia!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

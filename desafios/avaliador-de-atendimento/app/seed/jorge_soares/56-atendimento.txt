@@ -1,0 +1,46 @@
+Cliente: Oi. Sou idoso, 68 anos, neto me pediu jogo de futebol pro Xbox. Não entendo nada de videogame.
+Atendente: Olá! Que carinho do senhor! Vou explicar tudo com calma. O neto tem Xbox?
+Cliente: Sim, Xbox Series S. Comprou mês passado. Quer jogo de futebol novo.
+Atendente: EA Sports FC 25 é o jogo de futebol atual. R$ 349,90 versão padrão.
+Cliente: Tem versão mais barata? Aposentadoria é apertada.
+Atendente: Versão anterior EA Sports FC 24 R$ 99,90 usado. Ainda tem times atualizados parcialmente.
+Cliente: Ele quer o novo... Aniversário dele. Tem parcela?
+Atendente: 3x sem juros no cartão. R$ 116,63 por mês.
+Cliente: Parcela dá. Como compro? Na loja ou aqui?
+Atendente: Pode comprar aqui pelo chat. Envio código por e-mail, neto instala no Xbox.
+Cliente: Código? Não preciso ir na loja?
+Atendente: Não precisa! Código chega por e-mail. Neto digita no Xbox e baixa automaticamente.
+Cliente: E se eu errar? Tenho medo de tecnologia.
+Atendente: Posso enviar passo a passo impresso junto com o código. Ou neto instala — leva 5 minutos.
+Cliente: Manda passo a passo. Compro o FC 25 parcelado 3x.
+Atendente: Pedido #LJ-11201 confirmado! Código + guia impresso enviados por e-mail e correio.
+Cliente: Neto vai ficar feliz. Obrigado pela paciência com velho teimoso 😊
+Atendente: Foi um prazer! Parabéns pro neto antecipado! Qualquer dúvida, ligue ou chame aqui.
+Cliente: Aniversário é domingo. Código chega antes?
+Atendente: Código digital chega em 15 minutos por e-mail. Guia impresso correio 2-3 dias.
+Cliente: Digital basta. Neto instala no domingo de manhã.
+Atendente: Perfeito! Passo a passo PDF também no e-mail — fonte grande para facilitar leitura.
+Cliente: Cartão final 8834, 3x confirmadas?
+Atendente: Confirmado! R$ 116,63 x 3. Primeira parcela próxima fatura.
+Cliente: Deus abençoe. Primeira compra online que não me assustou.
+Atendente: Fico emocionado! Feliz aniversário pro neto! Liga se precisar de qualquer coisa.
+Cliente: Neto sabe instalar sozinho. 14 anos, entende mais que eu.
+Atendente: Perfeito! Envie código por WhatsApp dele se preferir.
+Cliente: Mando e-mail dele: neto.santos@gmail.com
+Atendente: Atualizado! Código vai para neto.santos@gmail.com + cópia pro senhor.
+Cliente: FC 25 Ultimate Team precisa internet?
+Atendente: Sim, Ultimate Team online. Modo carreira funciona offline.
+Cliente: Neto joga Ultimate Team. Internet temos.
+Atendente: Então perfeito! Código + guia PDF chegam em minutos.
+Cliente: Senhor agradece. Deus abençoe o trabalho de vocês.
+Atendente: Amém! Feliz aniversário pro neto! Qualquer dúvida, ligue tranquilo.
+Cliente: Vou recomendar pros amigos da paróquia.
+Atendente: Fico honrado! Obrigado pela confiança, seu Antônio!
+Cliente: Neto ligou emocionado. Código funcionou!
+Atendente: Melhor feedback possível! Parabéns ao neto!
+Cliente: Nota 5 merecida. Atendimento de ouro.
+Atendente: Gratidão, seu Antônio! Feliz aniversário!
+Cliente: Neto fez gol no FC ontem. Emocionante!
+Atendente: Que lindo! Parabéns ao neto artilheiro!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

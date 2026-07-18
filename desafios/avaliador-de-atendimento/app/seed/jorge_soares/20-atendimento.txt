@@ -1,0 +1,20 @@
+Cliente: Cadê meu código?? Paguei faz 3 horas e nada no e-mail!
+Atendente: Peço desculpas. Pode informar o número do pedido?
+Cliente: #LJ-66703. Pix às 14h17, R$ 349,90 no EA Sports FC 25.
+Atendente: Localizei. Houve atraso no sistema de liberação automática por instabilidade no servidor do distribuidor.
+Cliente: Instabilidade?? Na loja física eu saía com o jogo na mão.
+Atendente: Entendo. Código reenviado agora manualmente para o e-mail cadastrado. Confere a caixa de spam?
+Cliente: Espera... chegou agora. Demorou demais, tava quase estornando.
+Atendente: Peço desculpas pelo transtorno. O atraso foi excepcional, não é nosso padrão.
+Cliente: Se não tivesse chegado, ia dar nota 1 fácil.
+Atendente: Compreendo. Registro o incidente para evitar recorrência. Protocolo #ATD-66703.
+Cliente: Qual e-mail foi enviado? Paguei com outro cadastrado.
+Atendente: Enviado para marcos.silva@gmail.com — e-mail da conta no pedido #LJ-66703.
+Cliente: Esse mesmo. Quase olhei e-mail errado por causa do nervosismo.
+Atendente: Entendo perfeitamente. Confirma se o código ativou na conta EA?
+Cliente: Ativou sim. Já tô baixando. Mas 3 horas é demais.
+Atendente: Concordo. Voucher R$ 20 registrado na sua conta como compensação.
+Cliente: Tá, resolveu. Mas experiência mediana.
+Atendente: Feedback registrado. Bom jogo e qualquer problema, chame aqui.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 3

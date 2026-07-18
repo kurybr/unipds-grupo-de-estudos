@@ -1,0 +1,46 @@
+Cliente: Oi oi! Acabei de ganhar um Switch na rifa da empresa! Nunca tive videogame. ME AJUDA!!
+Atendente: Oi! Que sorte! Parabéns! 🎉 Vou te guiar do zero. Primeiro: já abriu a caixa?
+Cliente: Ainda não! Chegou hoje. Tenho medo de fazer besteira.
+Atendente: Relaxa! Switch é super intuitivo. Abre a caixa, encaixa na dock (base), conecta na TV com HDMI.
+Cliente: Dock é aquela base preta?
+Atendente: Isso! Console encaixa na dock, dock conecta na TV. Controles Joy-Con já vêm pareados.
+Cliente: Preciso de conta Nintendo?
+Atendente: Sim, cria conta grátis em accounts.nintendo.com. Necessária para eShop, online e saves na nuvem.
+Cliente: E jogos? Vem algum incluso?
+Atendente: Switch não vem com jogo. Recomendo Mario Kart 8 (R$ 249) ou Mario Odyssey (R$ 229) para iniciante.
+Cliente: Orçamento apertado, R$ 100 só.
+Atendente: Tem indies baratos: Stardew Valley R$ 39,90, Hollow Knight R$ 47,90. Ou espera promo.
+Cliente: Stardew Valley parece fofo! O que é?
+Atendente: Simulação de fazenda, super relaxante, viciante. Perfeito para começar.
+Cliente: Compro! Como instala?
+Atendente: Compra digital na eShop do Switch. Configura > eShop > busca Stardew Valley > compra > download automático.
+Cliente: Cartão de crédito funciona na eShop?
+Atendente: Sim, ou compra código Nintendo aqui conosco e resgata no Switch.
+Cliente: Compro código aí então! R$ 50 Nintendo eShop.
+Atendente: Código R$ 50 enviado por e-mail! Resgata em eShop > Adicionar fundos > Resgatar código.
+Cliente: FUNCIONOU!! Já tô baixando Stardew! Você salvou minha noite!
+Atendente: Que alegria! Bem-vindo ao mundo gamer! Qualquer dúvida, chama aqui 😊
+Cliente: Switch precisa internet sempre?
+Atendente: Não! Stardew joga offline. Internet só para eShop e multijogador online.
+Cliente: Joy-Con desmontam? Vi gente jogando com 2 controles.
+Atendente: Sim! Desliza os Joy-Con pro console e usa como controle único ou separa para 2 jogadores.
+Cliente: R$ 50 não cobre Stardew R$ 39,90?
+Atendente: Cobre sim! Sobra R$ 10,10 na carteira eShop para futuras compras.
+Cliente: Perfeito! Primeira noite de gamer começando!
+Atendente: Divirta-se! Tutorial Stardew é bem didático. Chama se travar em algo!
+Cliente: Dock precisa internet na primeira config?
+Atendente: Recomendada para update, mas joga offline após setup básico.
+Cliente: TV antiga sem HDMI?
+Atendente: Precisa HDMI. Adaptador VGA-HDMI R$ 89 se necessário.
+Cliente: TV tem HDMI. Só medo mesmo kkk
+Atendente: Kkk normal! Primeiro dia é sempre emocionante. Boa sorte!
+Cliente: Stardew baixou 100%. Já plantando batatas!
+Atendente: Kkk clássico! Bem-vindo ao clube Stardew!
+Cliente: Indico vocês pras colegas da rifa.
+Atendente: Obrigado! Spreading the gamer love!
+Cliente: Já na 2ª temporada Stardew kkk
+Atendente: Kkk vício garantido! Bem-vinda!
+Cliente: Já indiquei 3 colegas da rifa!
+Atendente: Obrigado! Bem-vindas ao clube gamer!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

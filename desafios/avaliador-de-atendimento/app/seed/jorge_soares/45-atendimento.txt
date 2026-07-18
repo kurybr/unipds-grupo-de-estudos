@@ -1,0 +1,30 @@
+Cliente: Comprei cartão presente PSN R$ 200 e o código não funciona. Diz "inválido".
+Atendente: Sinto muito. Onde comprou e qual o número do pedido?
+Cliente: Aqui mesmo, pedido #LJ-22301, ontem. R$ 200 no Pix.
+Atendente: Verificando... Código consta válido e não resgatado no nosso sistema.
+Cliente: Então o problema é na Sony? Já tentei 5 vezes.
+Atendente: Pode ser formatação na digitação. Pode me enviar foto do verso do cartão?
+Cliente: Mandei. Código começa com XXXX-XXXX-XXXX.
+Atendente: Identifiquei — há espaço extra no início. Código correto sem espaços. Tente novamente.
+Cliente: FUNCIONOU! Era isso. Perdi 1 hora achando que era golpe.
+Atendente: Que alívio! Recomendo copiar/colar ou digitar devagar. Cartões PSN são sensíveis a caracteres extras.
+Cliente: Deviam avisar isso na embalagem ou no e-mail.
+Atendente: Boa sugestão! Registro para melhoria. Voucher R$ 10 como desculpas pelo transtorno.
+Cliente: R$ 10 é pouco, mas resolveu. Nota mediana.
+Atendente: Entendo. Obrigado pelo feedback. Bom jogo!
+Cliente: Cartão era presente pro meu sobrinho. Saldo aparece na conta dele?
+Atendente: Sim, após resgate o crédito fica na carteira PSN da conta logada.
+Cliente: Ele tem 14 anos. Conta infantil aceita?
+Atendente: Conta infantil com supervisão parental aceita crédito PSN normalmente.
+Cliente: Posso comprar outro cartão R$ 100 e vocês enviam instruções claras?
+Atendente: Sim! Novo pedido inclui guia "Como resgatar sem erro" em PDF.
+Cliente: Compro depois. Obrigado pela paciência.
+Atendente: Por nada! Qualquer dúvida, estamos aqui.
+Cliente: PDF instruções no próximo pedido?
+Atendente: Sim, checkbox "incluir guia resgate" no checkout.
+Cliente: Indico vocês pro sobrinho. Resolveu rápido.
+Atendente: Agradecemos! Bom jogo pro pequeno!
+Cliente: Guia resgate incluído no próximo pedido então.
+Atendente: Sim, checkbox no checkout. Obrigado pela sugestão!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 3

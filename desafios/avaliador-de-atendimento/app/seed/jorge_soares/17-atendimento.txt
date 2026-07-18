@@ -1,0 +1,20 @@
+Cliente: Boa tarde! Vi no site que vocês têm Nintendo Switch OLED branco. Ainda tem unidade?
+Atendente: Boa tarde! Temos 3 unidades disponíveis no momento, branco e neon.
+Cliente: Consigo reservar uma branca até sexta? Recebo o salário na quinta.
+Atendente: Reserva gratuita por até 48 horas. Posso estender até sexta se confirmar interesse de compra.
+Cliente: Confirmo sim! Nome Camila Souza, quero a branca.
+Atendente: Reservado! Switch OLED branco no nome Camila, retirada até sexta às 20h na loja Shopping Morumbi.
+Cliente: Aceita Pix na retirada?
+Atendente: Sim, Pix com 5% de desconto. Valor R$ 1.899 à vista fica R$ 1.804,05.
+Cliente: Maravilha! Vem com jogos ou é só o console?
+Atendente: Console, dock, Joy-Con, cabos e strap. Jogos vendidos à parte — posso sugerir Mario Kart ou Zelda se quiser.
+Cliente: Por enquanto só o console. Quinta-feira passo aí. Muito obrigada!
+Atendente: Te esperamos, Camila! Qualquer dúvida, chama aqui. Boa tarde!
+Cliente: OLED vale a diferença pro Switch normal?
+Atendente: Tela OLED 7" mais vibrante, áudio melhor, base com LAN. Para quem joga portátil muito, compensa.
+Cliente: Jogo mais no sofá e na cama. OLED faz diferença mesmo?
+Atendente: Sim, cores e contraste são bem superiores — especialmente em jogos como Zelda e Mario.
+Cliente: Perfeito, reforçou minha decisão. Até quinta!
+Atendente: Até quinta, Camila! Reserva confirmada no sistema.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

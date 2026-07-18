@@ -1,0 +1,20 @@
+Cliente: Oi! Boa tarde. Vi no Instagram que vocês têm Elden Ring usado pro PS5. Ainda tem unidade?
+Atendente: Olá! Boa tarde 😊 Temos sim! A versão usada está R$ 189,90, com caixa, manual e garantia de 30 dias da loja.
+Cliente: Nossa, preço bem melhor que novo. A mídia tá em bom estado mesmo?
+Atendente: Sim, passa por checklist antes de ir pro estoque. Testamos leitura, verificamos arranhões e conferimos se roda normalmente.
+Cliente: Perfeito. Queria buscar hoje à tarde, dá tempo de separar?
+Atendente: Dá sim! Posso reservar agora. Qual horário você pretende vir?
+Cliente: Por volta das 17h. Meu nome é Rafael Mendes.
+Atendente: Anotado, Rafael! Reserva confirmada até as 20h na loja da Rua Augusta, 920.
+Cliente: Aceita Pix na retirada ou tem que ser no site?
+Atendente: Pode pagar na retirada por Pix, cartão ou dinheiro. Só avisar na chegada que já tem reserva no seu nome.
+Cliente: Fechado então. Se tiver algum jogo de luta usado também, me avisa quando eu chegar?
+Atendente: Combinado! Temos Tekken 8 e Street Fighter 6 usados. Te mostro as opções quando você estiver aqui.
+Cliente: Show! Vocês testam o disco antes de vender usado?
+Atendente: Sim, rodamos uns 10 minutos de gameplay antes de liberar. Se der problema nos 30 dias de garantia, troca imediata.
+Cliente: Tranquilo então. Tô saindo do trabalho agora, chego umas 17h15.
+Atendente: Perfeito! Deixei aviso no balcão para agilizar sua retirada quando chegar.
+Cliente: Valeu demais! Até mais tarde.
+Atendente: Te esperamos, Rafael! Boa tarde e bom jogo 🎮
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

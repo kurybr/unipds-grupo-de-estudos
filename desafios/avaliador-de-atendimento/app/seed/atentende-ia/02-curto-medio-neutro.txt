@@ -1,8 +1,0 @@
-Cliente: Bom dia. Vocês vendem o GTA 6 avulso ou só no bundle com PS5?
-Atendente: Bom dia! Vendemos as duas opções: jogo avulso (digital ou mídia física) e bundle PS5 Slim + GTA VI.
-Cliente: Qual o valor do jogo digital na versão padrão?
-Atendente: A edição Standard digital está R$ 349,90 na pré-venda. A Deluxe sai por R$ 499,90.
-Cliente: Entendi. E a data de lançamento é 19 de maio de 2026 mesmo?
-Atendente: Isso mesmo, conforme anunciado pela Rockstar e confirmado para PlayStation 5.
-Cliente: Ok, vou pensar aqui. Obrigado pelas informações.
-Atendente: Por nada! Se decidir, é só chamar. Estamos à disposição.

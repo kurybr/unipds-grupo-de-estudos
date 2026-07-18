@@ -1,0 +1,22 @@
+Cliente: Oi! Queria uma ajuda. Comprei Switch Lite ano passado e agora tô pensando no Zelda Tears of the Kingdom. Roda no Lite?
+Atendente: Olá! Roda sim no Switch Lite, OLED e no modelo padrão. A diferença é que no Lite a tela é fixa e menor.
+Cliente: Ah, que alívio! Fiquei com medo de ter comprado o jogo errado.
+Atendente: Pode ficar tranquilo. O jogo é o mesmo em todos os modelos Switch.
+Cliente: Vocês têm versão física ou só digital?
+Atendente: Temos as duas. Física R$ 299,90 e digital R$ 279,90 com entrega do código por e-mail.
+Cliente: Prefiro física. Posso retirar na loja do centro?
+Atendente: Pode sim! Retirada disponível em até 2 horas após confirmação do pagamento.
+Cliente: Fechado. Preciso levar documento na retirada?
+Atendente: Sim, documento com foto e comprovante de pagamento. Se pagar no site, o QR code do pedido já serve.
+Cliente: O jogo ocupa quanto de espaço no Lite? Tenho pouco armazenamento.
+Atendente: Tears of the Kingdom ocupa cerca de 18GB. No Lite de 32GB cabe, mas sobra pouco — recomendo cartão SD.
+Cliente: Vocês vendem cartão SD também?
+Atendente: Sim, 128GB SanDisk R$ 89,90, ideal para Switch. Posso reservar junto com o jogo.
+Cliente: A versão física precisa instalar algo ou joga direto do cartucho?
+Atendente: Instala cerca de 6GB no console mesmo com cartucho. Sem internet funciona após instalação inicial.
+Cliente: Lite aguenta rodar bem? Vi gente reclamando de queda de FPS.
+Atendente: No Lite roda estável em 720p/30fps. No OLED e TV fica mais fluido, mas a experiência é completa.
+Cliente: Por enquanto só o jogo. Finalizo no site agora. Obrigado pela paciência!
+Atendente: Por nada! Qualquer coisa, chama aqui. Bom jogo!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

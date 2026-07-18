@@ -1,0 +1,20 @@
+Cliente: Preciso de um presente pro meu namorado. Ele tem PS5 e adora RPG e luta. O que sugere?
+Atendente: Ótimo! Para RPG, Final Fantasy XVI ou Elden Ring. Para luta, Street Fighter 6 ou Tekken 8.
+Cliente: Ele já tem Elden Ring. Entre os outros, qual é mais "presenteável"?
+Atendente: Street Fighter 6 edição com steelbook fica R$ 329,90 e é lindo de presente. Tekken 8 steelbook R$ 349,90.
+Cliente: Ele joga mais com amigos online. Qual tem comunidade maior?
+Atendente: Street Fighter 6 tem scene competitiva enorme e crossplay amplo. Tekken também, mas SF6 é mais acessível para iniciantes.
+Cliente: Então Street Fighter. Parcela em 3x sem juros?
+Atendente: Sim, 3x sem juros no cartão. Quer retirada ou entrega?
+Cliente: Entrega, por favor. CEP 04567-000, Itaim Bibi.
+Atendente: Frete R$ 12,90, entrega em 2 dias úteis. Posso incluir embalagem presente?
+Cliente: Sim! Com cartão em branco, por favor.
+Atendente: Pedido #LJ-33401 confirmado! Street Fighter 6 steelbook + embalagem presente. Chega quinta-feira.
+Cliente: Ele já tem controle, mas queria surpreender. Tem algo complementar barato?
+Atendente: Skin para DualSense R$ 49,90 ou poster Street Fighter R$ 29,90 — cabe na embalagem presente.
+Cliente: Adiciona o poster! Aniversário é sexta, chega a tempo?
+Atendente: Com entrega quinta, chega perfeito. Poster incluído sem custo de frete extra.
+Cliente: Você entendeu o perfil dele direitinho. Obrigada!
+Atendente: Imagina! Ele vai adorar. Feliz aniversário pro namorado!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

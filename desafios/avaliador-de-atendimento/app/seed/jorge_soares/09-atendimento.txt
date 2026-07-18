@@ -1,0 +1,22 @@
+Cliente: Oi oi! É aniversário do meu filho semana que vem, ele faz 8 anos e ama Mario 🎂🎮
+Atendente: Que fofo! Parabéns antecipado pro pequeno! Quantos anos... ah, 8! Perfeita idade para Nintendo.
+Cliente: Ele fala de Mario Kart o dia inteiro. Qual jogo você recomenda?
+Atendente: Mario Kart 8 Deluxe é clássico para festa e jogo em família. Super Mario Bros. Wonder também é excelente para jogar sozinho.
+Cliente: Entre os dois, qual diverte mais criança e adulto juntos?
+Atendente: Mario Kart 8 Deluxe sem dúvida — dá para toda a família jogar na mesma corrida, até quem nunca jogou se diverte.
+Cliente: Perfeito! Quanto custa?
+Atendente: R$ 249,90 a versão física Switch. Digital R$ 229,90.
+Cliente: Vou de físico, quero embrulho de presente. Dá para fazer?
+Atendente: Claro! Embalagem de presente sem custo. Posso incluir cartão em branco para você escrever a dedicatória.
+Cliente: Ele tem Switch Lite. Mario Kart roda no Lite?
+Atendente: Roda sim! Lite suporta até 4 jogadores em telas separadas com Joy-Con extras, ou 2 no mesmo aparelho alternando.
+Cliente: Preciso comprar controle extra?
+Atendente: Para 2 jogadores simultâneos no Lite, sim — par de Joy-Con extra R$ 349 ou Pro Controller R$ 399.
+Cliente: Por enquanto só o jogo, ele joga sozinho na maior parte do tempo.
+Atendente: Perfeito! Mario Kart solo também é super divertido com CPU e modos desafio.
+Cliente: Aii que maravilha! Vou buscar sábado de manhã. Pode separar?
+Atendente: Separei Mario Kart 8 Deluxe + embalagem presente no nome... qual seu nome?
+Cliente: Patricia. Muito obrigada, você salvou o presente!
+Atendente: Imagina, Patricia! Vai ser um aniversário inesquecível. Te esperamos sábado!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

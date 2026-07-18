@@ -1,0 +1,30 @@
+Cliente: Quero comprar o bundle Xbox Series X + Starfield. Vi no site que ainda tem. Confirma?
+Atendente: Temos 1 unidade restante do bundle promocional. Posso reservar por 2 horas enquanto você decide.
+Cliente: Reserva sim! Qual o valor total?
+Atendente: R$ 4.299 à vista ou 12x de R$ 399,90 no cartão. Inclui console, controle e código Starfield Premium.
+Cliente: O Starfield vem em código ou mídia física?
+Atendente: Código digital incluso, resgatado na conta Xbox. Premium Edition com expansão Shattered Space futura.
+Cliente: Perfeito. Entrega em quanto tempo pro CEP 30130-010, Belo Horizonte?
+Atendente: Para BH, entrega em 3 a 5 dias úteis via transportadora. Rastreio enviado por e-mail.
+Cliente: Frete grátis nesse valor?
+Atendente: Sim, frete grátis para compras acima de R$ 3.000 em todo o Brasil.
+Cliente: Fechado! Manda o link de pagamento no Pix.
+Atendente: Link enviado! Pedido #LJ-77201 — aguardando confirmação Pix.
+Cliente: Paguei agora. Confirma?
+Atendente: Pagamento confirmado! Separação iniciada hoje. Previsão de envio amanhã, entrega quinta ou sexta.
+Cliente: Excelente! Primeiro Xbox da família, tô animado demais.
+Atendente: Vai ser incrível! Qualquer dúvida na configuração inicial, estamos aqui. Bom jogo!
+Cliente: Series X precisa internet na primeira configuração?
+Atendente: Recomendamos para updates e conta Xbox, mas setup básico funciona offline depois.
+Cliente: Game Pass vale a pena junto?
+Atendente: Ultimate R$ 59,90/mês inclui centenas de jogos. Starfield já vem no bundle, mas Pass complementa bem.
+Cliente: Manda guia de configuração por e-mail? Primeiro console Xbox.
+Atendente: Guia enviado para o e-mail do pedido! Passo a passo com fotos.
+Cliente: Recebi. Obrigado pelo atendimento caprichado!
+Atendente: Por nada! Boas-vindas ao ecossistema Xbox!
+Cliente: Rastreio quando disponível?
+Atendente: Amanhã por e-mail. Entrega BH quinta ou sexta, frete grátis.
+Cliente: Starfield Premium inclui expansão futura?
+Atendente: Sim, Shattered Space incluso no lançamento sem custo extra.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

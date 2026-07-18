@@ -1,0 +1,46 @@
+Cliente: Oi, meu filho quebrou o cartucho do Pokémon Scarlet. Tem como substituir? Comprei aí há 2 meses.
+Atendente: Olá! Sinto muito. Cartucho quebrado fisicamente geralmente não cobre garantia, mas vou verificar opções.
+Cliente: Foi acidente. Caiu no chão, trincou. Jogo não lê mais. Ele tá chorando desde ontem.
+Atendente: Entendo. Garantia do fabricante cobre defeito de fábrica, não dano acidental. Mas temos alternativas.
+Cliente: Quais? Comprar outro R$ 299 dói no bolso.
+Atendente: Versão usada Pokémon Scarlet R$ 179,90 com garantia 30 dias. Ou digital R$ 249,90 se o Switch ainda lê outros cartuchos.
+Cliente: Switch funciona normal, só esse cartucho que não lê. Usado é opção.
+Atendente: Posso reservar usado em bom estado. Avaliado A+, funciona perfeitamente.
+Cliente: Tem como dar desconto? Cliente antigo, compramos 10+ jogos aí.
+Atendente: Consultei supervisor: 15% off no usado por ser cliente frequente. R$ 152,90.
+Cliente: Justo! Aceito. E o cartucho quebrado, vocês descartam ou posso trazer?
+Atendente: Traga para descarte responsável. Alguns componentes são reciclados.
+Cliente: Fecho. Retiro amanhã?
+Atendente: Reservado! Pokémon Scarlet usado R$ 152,90. Retirada amanhã, loja Santana.
+Cliente: Meu filho vai ficar feliz. Obrigado por encontrar solução dentro do orçamento.
+Atendente: Imagina! Acidentes acontecem. Boa diversão pro pequeno treinador Pokémon!
+Cliente: Violet ou Scarlet — importa se ele tinha Scarlet?
+Atendente: Sim, versões têm conteúdo exclusivo diferente. Scarlet usado mantém saves se tiver backup na nuvem.
+Cliente: Save tava no cartucho. Perdeu tudo?
+Atendente: Infelizmente save local no cartucho se perde. Nintendo Switch Online faz backup automático se ativado.
+Cliente: Não tinha assinatura. Começar do zero então.
+Atendente: Posso incluir 1 mês Nintendo Switch Online grátis — R$ 0 na troca como cortesia.
+Cliente: Isso ajuda! Ele refaz a jornada.
+Atendente: 1 mês NSO ativado na reserva. Código enviado por e-mail na retirada.
+Cliente: Atendimento humano fez diferença. Obrigado!
+Atendente: Por nada! Até amanhã, loja Santana!
+Cliente: Pagamento na retirada Pix?
+Atendente: Sim, R$ 152,90 Pix ou cartão. Reserva sem pagamento antecipado.
+Cliente: Filho de 7 anos agradece. Cartucho quebrado foi lição kkk
+Atendente: Kkk lições fazem parte! Proteja futuros cartuchos com case R$ 29.
+Cliente: Compro case amanhã junto. Obrigado!
+Atendente: Case reservado junto! Total amanhã R$ 181,90.
+Cliente: Filho prometeu cuidar melhor kkk
+Atendente: Kkk educação faz parte! Case ajuda muito.
+Cliente: Atendimento comprensivo. Nota 4 merecida.
+Atendente: Obrigado! Boa diversão pro treinador!
+Cliente: Case + jogo amanhã. Filho feliz!
+Atendente: Melhor recompensa! Até amanhã!
+Cliente: Filho dormiu abraçado no cartucho novo kkk
+Atendente: Kkk melhor cena! Boa noite!
+Cliente: Atendimento humano faz diferença. Obrigado!
+Atendente: Por nada! Boa diversão!
+Cliente: Até a próxima!
+Atendente: Até! 🎮
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

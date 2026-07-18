@@ -1,0 +1,46 @@
+Cliente: Preciso de ajuda URGENTE com meu pedido do EA Sports FC 25. Paguei na terça e até agora nada do código.
+Atendente: Olá! Sinto muito pelo transtorno. Pode me passar o número do pedido?
+Cliente: #LJ-77219. Paguei R$ 349,90 na terça via Pix. Jogo lançou quarta e meus amigos já estão jogando.
+Atendente: Vou verificar... O pagamento foi aprovado, mas houve falha na liberação automática do código digital. Já estou acionando o setor responsável.
+Cliente: Já é quinta! Na quarta liguei e falaram que resolviam em 2 horas. Mentira.
+Atendente: Peço sinceras desculpas. Realmente houve instabilidade no sistema de pré-vendas desde o lançamento. Seu caso está na fila prioritária agora.
+Cliente: Fila prioritária? Eu fiz a pré-venda no PRIMEIRO dia! Outros amigos já receberam e eu não.
+Atendente: Entendo sua frustração. Alguns lotes foram processados em ondas. O seu pedido consta como pago e reservado — o código será reenviado manualmente.
+Cliente: E o bônus de itens exclusivos? O site dizia que era só pra quem comprasse na primeira semana.
+Atendente: Sim, sua compra entrou no período promocional. O bônus será vinculado à mesma conta EA assim que o código for ativado. Não perderá o benefício.
+Cliente: Tô começando a achar que é golpe. Quase R$ 350 num jogo e esse rolo todo.
+Atendente: Compreendo perfeitamente. Posso enviar o comprovante oficial e o protocolo #ATD-90341 por e-mail agora. A liberação manual tem prazo de até 24h — garantido por escrito.
+Cliente: Manda o protocolo então. Se não resolver até amanhã vou no Procon.
+Atendente: Protocolo enviado para o e-mail cadastrado. Acompanho pessoalmente e te atualizo por aqui assim que o código for liberado. Mais uma vez, desculpas pelo transtorno.
+Cliente: Tô bem irritado com isso, viu. Péssima experiência até agora.
+Atendente: Registro sua insatisfação. Estou fazendo o possível para acelerar. Te aviso em no máximo 2 horas com atualização.
+Cliente: 2 horas? Ok, vou aguardar. Mas a paciência tá no limite.
+Atendente: Compreendo. Prioridade máxima no seu caso. Obrigado por aguardar.
+Cliente: ...E aí? Passou 3 horas e nada.
+Atendente: Código liberado há 20 minutos! Verifica e-mail — assunto "Seu código EA Sports FC 25". Chegou?
+Cliente: Chegou agora. Finalmente. Ativei e o bônus veio junto.
+Atendente: Que alívio! Lamento todo o transtorno. Incluí voucher R$ 30 na loja como compensação.
+Cliente: Voucher ajuda, mas quase desisti de comprar com vocês de novo.
+Atendente: Entendo. Espero que a experiência de jogo compense. Protocolo #ATD-90341 encerrado com resolução.
+Cliente: Código era PS5 ou PC? Comprei PS5.
+Atendente: PS5 confirmado — vinculado à conta EA cadastrada no pedido.
+Cliente: Ultimate Team já tá no ar. Amigos me esperando.
+Atendente: Boa sorte no Ultimate Team! Voucher #VCH-90341 válido 60 dias.
+Cliente: Tá. Nota baixa pela demora, mas você resolveu no fim.
+Atendente: Agradeço o feedback honesto. Bom jogo!
+Cliente: Modo carreira offline funciona?
+Atendente: Sim, carreira completa offline. Ultimate Team requer internet.
+Cliente: Amigos no Ultimate Team. Por isso a urgência.
+Atendente: Entendo perfeitamente. Divirta-se no UT!
+Cliente: Se voucher não funcionar, volto aqui.
+Atendente: Voucher #VCH-90341 testado e ativo. Qualquer problema, prioritário.
+Cliente: Já estou no Ultimate Team com amigos.
+Atendente: Perfeito! Divirta-se e boa sorte nos packs!
+Cliente: Nota 2 porque demorou, mas você salvou.
+Atendente: Agradeço a honestidade. Melhorias em andamento!
+Cliente: Problema resolvido no fim. FC 25 rodando.
+Atendente: Ótimo! Boa sorte nos matches!
+Cliente: Valeu! Até a próxima compra.
+Atendente: Estaremos aqui! Bom jogo!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 2

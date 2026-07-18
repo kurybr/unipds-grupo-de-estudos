@@ -1,0 +1,18 @@
+Cliente: Olá! Tudo bem? Estou procurando um jogo novo para jogar. Você pode me recomendar alguns?
+Atendente: Boa tarde. Depende. Tem bastante jogo por aí. O que costuma jogar?
+Cliente: Gosto de RPG e também de jogos de mundo aberto.
+Atendente: Certo. Isso não reduz muito as opções, mas tudo bem.
+Cliente: Você teria uns 3 ou 4 para indicar?
+Atendente: Bom, os mais conhecidos continuam sendo uma escolha. The Witcher 3, Elden Ring, Cyberpunk 2077 e Red Dead Redemption 2. Dá uma olhada neles.
+Cliente: Legal! Qual deles você acha melhor para quem gosta de explorar o mapa?
+Atendente: Cada um faz isso de um jeito. Você pode pesquisar alguns vídeos para decidir. Fica mais fácil do que explicar tudo aqui.
+Cliente: Entendi. E qual tem uma história mais envolvente?
+Atendente: Isso é bem subjetivo. Muita gente gosta de todos eles por motivos diferentes.
+Cliente: Ah, certo. Meu PC é intermediário. Algum deles roda melhor?
+Atendente: As especificações estão nas páginas oficiais. Vale conferir lá antes de comprar.
+Cliente: Tudo bem. Obrigado pela ajuda!
+Atendente: Disponha.
+Pesquisa de satisfação
+Sistema: Como você avalia o atendimento recebido? (1 = Péssimo | 10 = Ótimo)
+Cliente: 10
+Comentário opcional: "Foi tudo certo, obrigado!"

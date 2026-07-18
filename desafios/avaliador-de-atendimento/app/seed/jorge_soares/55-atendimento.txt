@@ -1,0 +1,46 @@
+Cliente: Quero cancelar TUDO. Pedido #LJ-99001, PS5 + 3 jogos + headset. Desistí.
+Atendente: Entendo. Posso perguntar o motivo? Talvez consigamos resolver.
+Cliente: Motivo? Atraso de 10 dias! Prometeram entrega em 5, já são 15 desde o pedido.
+Atendente: Verifico... Pedido saiu do CD em 3 dias, mas transportadora teve greve regional. Previsão atualizada: 2 dias.
+Cliente: 2 dias? Já ouvi isso 3 vezes! "2 dias", "2 dias", "2 dias".
+Atendente: Peço desculpas pelas previsões incorretas. A greve afetou toda região Sul por 1 semana.
+Cliente: Não é minha culpa! Quero reembolso integral, Pix de volta.
+Atendente: Cancelamento possível antes da entrega. Reembolso Pix em 5 dias úteis. Confirma cancelamento total?
+Cliente: Confirma. R$ 5.247,80 de volta. Tudo.
+Atendente: Cancelamento processado. Reembolso R$ 5.247,80 iniciado. E-mail de confirmação enviado.
+Cliente: E se o produto chegar mesmo assim?
+Atendente: Se chegar após cancelamento, recuse a entrega ou nos avise. Coletamos sem custo.
+Cliente: Ok. Perdi promoção Black Friday por causa desse atraso. Frustrante.
+Atendente: Registro para análise de compensação comercial. Supervisor pode entrar em contato em 48h.
+Cliente: Não quero contato. Quero meu dinheiro de volta. Fim.
+Atendente: Compreendo. Reembolso em andamento. Protocolo #ATD-99001. Lamento a experiência.
+Cliente: Quais 3 jogos serão cancelados junto?
+Atendente: Spider-Man 2, God of War Ragnarok e Returnal — todos digitais, códigos não liberados ainda.
+Cliente: Headset Pulse 3D também?
+Atendente: Sim, cancelamento total inclui headset. Nada será enviado.
+Cliente: Reembolso Pix exatamente R$ 5.247,80?
+Atendente: Confirmado. Valor integral na conta de origem em até 5 dias úteis.
+Cliente: E-mail confirmação chegou. Aguardo Pix.
+Atendente: Rastreio de reembolso disponível no portal com protocolo #ATD-99001.
+Cliente: Nunca mais compro console online com vocês.
+Atendente: Lamento profundamente. Feedback registrado para logística.
+Cliente: Reembolso parcial se entregar depois?
+Atendente: Não — reembolso integral R$ 5.247,80 independente de entrega tardia.
+Cliente: Promo Black Friday perdida. PS5 subiu R$ 200.
+Atendente: Registro para análise comercial — sem garantia de igualar preço futuro.
+Cliente: Só quero meu dinheiro. Tchau.
+Atendente: Reembolso em andamento. Protocolo #ATD-99001. Lamento a experiência.
+Cliente: Pix caiu hoje. R$ 5.247,80 confirmado.
+Atendente: Que alívio! Reembolso concluído conforme prometido.
+Cliente: Nunca mais. Tchau.
+Atendente: Lamentamos. Protocolo encerrado.
+Cliente: Confirmado no extrato. Encerrado.
+Atendente: Obrigado pela confirmação. Lamentamos novamente.
+Cliente: Encerrado. Sem ressentimentos. Só frustração.
+Atendente: Compreendemos. Boa sorte na próxima compra.
+Cliente: Pix confirmado. Encerramos.
+Atendente: Protocolo #ATD-99001 finalizado.
+Cliente: Encerrado. Adeus.
+Atendente: Adeus. Lamentamos a experiência.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 1

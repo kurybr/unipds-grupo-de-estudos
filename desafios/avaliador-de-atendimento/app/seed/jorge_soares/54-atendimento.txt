@@ -1,0 +1,46 @@
+Cliente: Vocês são a terceira loja que eu ligo. Ninguém sabe me dizer se o Tekken 8 roda offline.
+Atendente: Olá! Desculpe a frustração com outras lojas. Tekken 8 roda offline sim — modo arcade, treino e história.
+Cliente: Modo história completo offline?
+Atendente: Sim, 100% offline. Online requer PS Plus ou Xbox Live, dependendo da plataforma.
+Cliente: PS5. E local multijogador? 2 controles na mesma tela?
+Atendente: Sim! Versus local com 2 controles no mesmo PS5, offline, sem internet.
+Cliente: Finalmente alguém que sabe! Outras lojas falaram "precisa internet pra tudo".
+Atendente: Infelizmente muitos vendedores generalizam. Tekken 8 é fighting game clássico — offline é essencial.
+Cliente: Quanto custa a versão física PS5?
+Atendente: R$ 349,90 física, R$ 329,90 digital. Edição collector R$ 599 com steelbook e artbook.
+Cliente: Física tá bem. Tem estoque na loja Moema?
+Atendente: Moema tem 4 unidades físicas PS5. Posso reservar?
+Cliente: Reserva sim! Passo amanhã. Nome Marcos.
+Atendente: Reservado, Marcos! Tekken 8 PS5 físico, retirada amanhã até 20h, loja Moema.
+Cliente: Atendimento objetivo e correto. Nota alta merecida.
+Atendente: Obrigado! Bom jogo e nos vemos amanhã!
+Cliente: Modo treino offline serve pra aprender combos?
+Atendente: Sim! Modo treino completo com frame data e repetição — ideal para praticar sem internet.
+Cliente: Preciso PS Plus pro local versus?
+Atendente: Não! Versus local 100% offline, sem assinatura.
+Cliente: Edição física vem com DLC?
+Atendente: Standard não inclui DLC. Season Pass vendido à parte R$ 149,90.
+Cliente: Standard basta. Só jogo com amigos em casa.
+Atendente: Perfeito! Standard reservada. Endereço Moema: Av. Ibirapuera, 2120.
+Cliente: Obrigado por saber do que fala. Terceira loja finalmente!
+Atendente: Fico feliz em ajudar! Tekken 8 separado no balcão 1.
+Cliente: Arcade mode offline quantos personagens?
+Atendente: 32 personagens base offline, todos desbloqueáveis no arcade.
+Cliente: DLC personagens offline também?
+Atendente: Personagens DLC requerem compra, funcionam offline após instalação.
+Cliente: Standard basta. Obrigado pela paciência com minhas perguntas!
+Atendente: Perguntas inteligentes! Bom jogo, Marcos!
+Cliente: Retirei ontem. Tekken rodando offline perfeito.
+Atendente: Ótimo! Arcade mode te espera!
+Cliente: Outras lojas deviam aprender com vocês.
+Atendente: Obrigado pelo elogio! Nos vemos na próxima!
+Cliente: Local versus com amigo ontem. Perfeito offline!
+Atendente: Tekken clássico! Bom jogo!
+Cliente: Local versus ontem. Amigo comprou também!
+Atendente: Dupla Tekken! Boa sorte nos combates!
+Cliente: Nota 5 merecida. Objetivo e correto!
+Atendente: Obrigado, Marcos!
+Cliente: Até amanhã na retirada!
+Atendente: Te esperamos!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

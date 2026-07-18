@@ -1,0 +1,30 @@
+Cliente: Não entendi nada do que o atendente anterior explicou. Pode me ajudar de novo? Desculpa.
+Atendente: Claro! Sem problemas, explico com calma. O que você precisa saber?
+Cliente: Quero saber se consigo jogar meus jogos de PS4 no PS5 que vou comprar.
+Atendente: Sim! A maioria dos jogos PS4 roda no PS5, muitos com melhorias de performance e loading.
+Cliente: Tenho uns 30 jogos digitais PS4 na minha conta PSN. Perco algum?
+Atendente: Se estão na sua conta PSN, basta baixar no PS5. Alguns poucos títulos não são compatíveis — lista no site PlayStation.
+Cliente: E os saves? Perco meu progresso?
+Atendente: Não! Transfere via nuvem PS Plus ou transferência direta entre consoles na mesma rede.
+Cliente: Preciso de PS Plus pra transferir saves?
+Atendente: Transferência direta entre consoles não precisa. Nuvem automática sim, requer PS Plus.
+Cliente: Meu PS4 ainda funciona. Posso usar os dois?
+Atendente: Sim! Mesma conta PSN em até 2 consoles simultaneamente para jogos digitais.
+Cliente: Agora ficou claro! O outro atendente só mandou link e não explicou nada.
+Atendente: Fico feliz em ter ajudado de verdade! Qualquer dúvida na migração, chama aqui.
+Cliente: Disco PS4 funciona no PS5 Slim com leitor?
+Atendente: Sim, PS5 com disco lê mídias PS4 e PS5. Versão digital only não lê discos.
+Cliente: Tenho 5 discos físicos PS4. Slim com disco resolve?
+Atendente: Perfeito! Instala mais rápido e muitos ganham boost de performance no PS5.
+Cliente: PS Plus Essential basta ou preciso Extra?
+Atendente: Essential basta para transferência de saves na nuvem. Extra inclui catálogo de jogos.
+Cliente: Vou de Essential então. Obrigado pela paciência!
+Atendente: Por nada! Boa migração e bom jogo no PS5!
+Cliente: Compro PS5 Slim com disco então?
+Atendente: Recomendo para seus discos PS4. R$ 3.899 à vista.
+Cliente: Promoção ou cupom ativo?
+Atendente: PRIMEIRACOMPRA R$ 50 off se for primeira compra no site.
+Cliente: É primeira sim. Vou finalizar no site.
+Atendente: Ótimo! Qualquer dúvida na migração, chama aqui!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

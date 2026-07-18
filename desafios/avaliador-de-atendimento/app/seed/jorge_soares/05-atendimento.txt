@@ -1,0 +1,20 @@
+Cliente: Vocês entregam controle Pro pro Switch? Moro em São Paulo, zona oeste.
+Atendente: Entregamos sim, pelo correio ou motoboy para Grande SP.
+Cliente: Quanto fica o frete pro CEP 05311-000?
+Atendente: Um momento... Para Vila Leopoldina, frete correio R$ 18,90, prazo 2 a 3 dias úteis. Motoboy R$ 28,90, entrega amanhã se pedir até 16h.
+Cliente: Hmm, quase R$ 30 no motoboy. O controle já não é barato.
+Atendente: Entendo. Se preferir, retirada na loja da Lapa é gratuita e fica perto da zona oeste.
+Cliente: Lapa dá sim. Qual o endereço exato?
+Atendente: Rua Guaicurus, 1000 — Shopping Lapa, loja 214. Funcionamos de 10h às 22h.
+Cliente: Beleza, vou ver se passo aí amanhã no caminho do trabalho. O controle Pro tá quanto?
+Atendente: R$ 399,90. Temos preto e roxo translúcido em estoque.
+Cliente: Diferença entre Pro e o Joy-Con normal?
+Atendente: Pro é maior, ergonômico, bateria de 40h. Joy-Con são menores, acoplam no console. Para sessões longas, Pro compensa.
+Cliente: O Pro funciona no PC também? Jogo às vezes no notebook.
+Atendente: Sim, conecta via Bluetooth ou cabo USB. Compatível com Windows e Steam.
+Cliente: Tem garantia Nintendo oficial?
+Atendente: Sim, 3 meses de garantia Nintendo contra defeito de fábrica, com nota fiscal.
+Cliente: Anota aí que posso ir. Se não der tempo, compro online depois.
+Atendente: Anotado! Controle Pro reservado sem compromisso até amanhã 18h. Boa tarde!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 3

@@ -1,0 +1,20 @@
+Cliente: Boa noite. O Forza Motorsport de vocês roda no Xbox Series S ou só no X?
+Atendente: Boa noite! Funciona nos dois modelos, Series S e Series X, com ajuste automático de resolução.
+Cliente: Tem em mídia física? Prefiro coleção física.
+Atendente: No momento só versão digital. A física esgotou na semana passada e reposição prevista para mês que vem.
+Cliente: Poxa, justo esse jogo. Quanto fica a digital?
+Atendente: R$ 299,90. Enviamos o código por e-mail em até 15 minutos após confirmação do pagamento.
+Cliente: Se eu comprar digital, consigo jogar offline?
+Atendente: Sim, após instalar e ativar na conta. Para multijogador online precisa de Xbox Live Gold ou Game Pass Ultimate.
+Cliente: Entendi. Vou pensar mais um pouco, talvez espere a física voltar.
+Atendente: Sem problemas! Posso te avisar quando a mídia física chegar, se quiser.
+Cliente: Pode avisar sim. Meu e-mail é diego.racing@outlook.com
+Atendente: Anotado, Diego! Te aviso assim que tivermos reposição. Boa noite!
+Cliente: Series S aguenta 60fps no Forza?
+Atendente: Sim, Series S roda em 1080p60. Series X vai até 4K60 com ray tracing em pistas selecionadas.
+Cliente: Preciso de volante ou dá pra jogar no controle?
+Atendente: Controle funciona perfeitamente. Volantes compatíveis Logitech e Thrustmaster vendemos à parte.
+Cliente: Quando a física chegar, reserva uma pra mim?
+Atendente: Reserva anotada! Forza Motorsport física Xbox — te aviso por e-mail antes de abrir ao público.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 3

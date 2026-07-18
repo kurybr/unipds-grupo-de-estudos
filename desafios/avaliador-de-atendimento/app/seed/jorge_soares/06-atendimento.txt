@@ -1,0 +1,20 @@
+Cliente: GENTE!! Acabou de sair o trailer do GTA 6!! Vocês já têm pré-venda aberta??
+Atendente: Oi! Que empolgação! 😄 Sim, já temos pré-venda do GTA VI para PS5 e Xbox Series X|S!
+Cliente: QUERO!! Edição Deluxe!! PS5!! AGORA!! Quanto tá??
+Atendente: Adorei a energia! A Deluxe está R$ 499,90. Inclui bônus digital e conteúdo extra no lançamento.
+Cliente: RESERVA PRA MIM!! Meu e-mail é lucas.game@gmail.com
+Atendente: Perfeito! Posso gerar o pedido agora. Prefere Pix, cartão ou boleto?
+Cliente: Pix! Manda o QR code!
+Atendente: Pedido #LJ-44201 criado. QR code enviado para lucas.game@gmail.com. Validade de 30 minutos.
+Cliente: PAGUEI!! Confirma aí!!
+Atendente: Pagamento confirmado! Código de pré-venda será vinculado à sua conta PSN assim que você informar o e-mail da conta.
+Cliente: lucas.game@gmail.com é o mesmo da PSN!
+Atendente: Pronto! Pré-venda registrada. Você receberá o código no dia da liberação oficial. Protocolo #LJ-44201.
+Cliente: O que vem a mais na Deluxe? Vale os R$ 100 a mais?
+Atendente: Inclui skin exclusiva, R$ 50 em GTA Online, trilha sonora digital e acesso antecipado de 48h no lançamento.
+Cliente: 48h antes?? Isso sim! Quando lança mesmo?
+Atendente: Data prevista maio/2026, sujeita a confirmação da Rockstar. Te avisamos por e-mail se houver mudança.
+Cliente: VOCÊS SÃO DEMAIS!! Anos esperando por isso!! 🎮🔥
+Atendente: Vai ser épico! Qualquer novidade sobre lançamento, te avisamos por aqui. Valeu pela preferência!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

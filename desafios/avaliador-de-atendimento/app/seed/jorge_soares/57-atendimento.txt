@@ -1,0 +1,46 @@
+Cliente: Comprei dois jogos errados na pressa. Dark Souls PS5 e Sekiro Xbox. Preciso trocar os dois.
+Atendente: Olá! Dentro de 7 dias com lacre intacto, podemos trocar. Ambos estão intactos?
+Cliente: Sim, nem abri. Comprei ontem na loja física. Tenho PS5, não Xbox.
+Atendente: Dark Souls PS5 está correto então. Sekiro Xbox precisa trocar por Sekiro PS5 ou outro jogo PS5.
+Cliente: Quero Sekiro PS5 e trocar Dark Souls por Elden Ring PS5. Dá?
+Atendente: Sekiro PS5 R$ 299,90. Elden Ring PS5 R$ 349,90. Dark Souls R$ 249,90. Ajuste de valores necessário.
+Cliente: Quanto pago de diferença?
+Atendente: Devolve Dark Souls R$ 249,90 + Sekiro Xbox R$ 279,90 = R$ 529,80 crédito. Elden Ring + Sekiro PS5 = R$ 649,80. Diferença R$ 120.
+Cliente: Justo. Posso fazer hoje?
+Atendente: Sim! Traga ambos jogos + nota fiscal. Troca na hora na loja onde comprou.
+Cliente: Fui na loja Tatuapé. Abre até que horas?
+Atendente: Tatuapé abre até 22h. Troca leva 15 minutos com estoque disponível — conferido agora.
+Cliente: Ótimo. Saiu do trabalho e passo aí. Obrigado por calcular tudo pelo chat.
+Atendente: Por nada! Separei Elden Ring e Sekiro PS5 reservados no seu CPF. Até logo!
+Cliente: Atendimento eficiente, resolveu antes de eu chegar na loja.
+Atendente: Fico feliz! Boa troca e bom jogo!
+Cliente: Elden Ring é mais difícil que Dark Souls?
+Atendente: Mecânicas similares, mundo aberto. Se gosta de Soulslike, vai adorar Elden Ring.
+Cliente: Nota fiscal #NF-442901. Levo os dois lacrados?
+Atendente: Sim, lacre intacto obrigatório. Nota fiscal original ou PDF no celular.
+Cliente: Diferença R$ 120 pago no Pix na loja?
+Atendente: Pix, cartão ou dinheiro no caixa. Pix 5% off — R$ 114 de diferença.
+Cliente: Pix então. Separa no caixa 2?
+Atendente: Reservado caixa 2, Tatuapé. Elden Ring + Sekiro PS5 aguardando.
+Cliente: Passo umas 19h30. Obrigado!
+Atendente: Te esperamos! Troca expressa preparada.
+Cliente: Elden Ring mais difícil que Dark Souls?
+Atendente: Mundo aberto, mais liberdade. Dificuldade similar, estilo diferente.
+Cliente: Sekiro parry mechanic vale aprender?
+Atendente: Sistema único de deflexão — recompensador para quem gosta de desafio.
+Cliente: Levo sacola reutilizável? Sustentabilidade.
+Atendente: Claro! Aceitamos devolução embalagens para reciclagem.
+Cliente: Nota fiscal original ou cópia?
+Atendente: Original ou PDF legível no celular — ambos aceitos.
+Cliente: Troca feita ontem 19h45. Elden Ring instalado!
+Atendente: Sucesso! Boa jornada no Lands Between!
+Cliente: Sekiro me espera agora. Obrigado!
+Atendente: De nada! Git gud!
+Cliente: Sekiro me humilhou kkk mas amando!
+Atendente: Kkk Sekiro é assim! Persistência!
+Cliente: Dark Souls + Sekiro + Elden Ring. Trilogia Souls!
+Atendente: Boa jornada, chosen undead!
+Cliente: 3 horas ontem. Viciado em parry!
+Atendente: Kkk Sekiro transforma! Git gud!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

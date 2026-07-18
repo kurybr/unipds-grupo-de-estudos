@@ -1,0 +1,46 @@
+Cliente: Oi... queria falar sobre minha pré-venda do Final Fantasy VII Rebirth. É meio delicado.
+Atendente: Olá! Claro, pode falar tranquilamente. Houve algum problema com o pedido?
+Cliente: Eu tinha guardado dinheiro o ano todo pra comprar a Deluxe no lançamento. Era um presente pra mim mesmo. Trabalhei em dobro em dezembro.
+Atendente: Que objetivo legal! Conte mais — o que aconteceu?
+Cliente: O problema sou eu, acho. Perdi o emprego semana passada. A empresa fechou o setor inteiro.
+Atendente: Sinto muito por isso. Deve estar sendo um momento muito difícil.
+Cliente: Aí veio a fatura do cartão com a pré-venda parcelada. R$ 499,90. Não consigo pagar agora sem faltar no aluguel.
+Atendente: Entendo completamente. Você gostaria de ver opções de cancelamento ou reembolso da pré-venda?
+Cliente: Tem como cancelar? Li no site que pré-venda digital não tinha devolução.
+Atendente: Para pré-vendas digitais, cancelamento é permitido até 7 dias após a compra OU até o envio/liberação do código — o que ocorrer primeiro. No seu caso, o código ainda não foi liberado.
+Cliente: Sério? Fiquei dias sem dormir pensando nisso. Achava que tinha feito besteira.
+Atendente: Não fez besteira. Vou verificar... Pedido #LJ-65802, comprado há 12 dias. Como o código não foi entregue, ainda está no prazo de cancelamento por pendência de liberação.
+Cliente: Que alívio... mas ainda assim tô bem chateado. Esperava jogar no dia do lançamento com meus amigos. Todo mundo já tem.
+Atendente: É compreensível se sentir assim. Posso processar o cancelamento total e o estorno no cartão em até 2 faturas. Também posso anotar seu e-mail para avisar quando houver promoções futuras.
+Cliente: Pode cancelar então. Sem promoção por enquanto, não quero me empolgar de novo.
+Atendente: Cancelamento solicitado. O estorno de R$ 499,90 foi iniciado — você receberá confirmação por e-mail em instantes. O prazo no cartão depende da operadora, geralmente 1 a 2 ciclos de fatura.
+Cliente: Obrigado por ser gentil. A atendente anterior foi bem seca quando liguei ontem, quase chorei.
+Atendente: Fico feliz em poder ajudar de verdade hoje. Se precisar de qualquer coisa no futuro, estamos aqui. Desejo boa sorte na sua busca de emprego.
+Cliente: Valeu. Tô triste pelo jogo, mas pelo menos uma coisa a menos pra me preocupar agora.
+Atendente: Fico à disposição. Cuide-se — o jogo vai estar lá quando for o momento certo.
+Cliente: É... um dia talvez. Tchau.
+Atendente: Até mais. Protocolo do cancelamento: #ATD-91477. Guarde para acompanhamento.
+Cliente: Parcelas futuras do cartão cancelam automaticamente?
+Atendente: Sim, parcelas pendentes são canceladas junto com o estorno. Apenas a parcela já faturada será estornada.
+Cliente: Fatura fecha dia 15. Estorno cai na próxima ou na seguinte?
+Atendente: Geralmente próxima fatura, mas depende da operadora — prazo até 60 dias.
+Cliente: Posso recomendar você no Reclame Aqui? Atendimento humano fez diferença.
+Atendente: Fico honrada! Obrigada pela confiança. Boa sorte, de verdade.
+Cliente: Quando estiver empregado de novo, compro o jogo com vocês.
+Atendente: Estaremos aqui! Cuide-se primeiro. Protocolo #ATD-91477 encerrado.
+Cliente: Edição Deluxe incluía artbook físico?
+Atendente: Artbook digital na liberação — físico não incluso na pré-venda digital.
+Cliente: Quando emprego estabilizar, recompro com vocês.
+Atendente: Estaremos aqui! Desejo boa sorte na entrevista de sexta.
+Cliente: Indiquei vocês pro grupo de FF. Atendimento humano raro.
+Atendente: Muito obrigada! Significa demais. Cuide-se!
+Cliente: Cancelamento aparece no app do banco?
+Atendente: Sim, em 2-5 dias úteis como estorno pendente.
+Cliente: Amigos do Discord avisados. Vocês salvaram minha sanidade.
+Atendente: Fico emocionada! Boa sorte na entrevista sexta!
+Cliente: Entrevista foi bem! Quando estabilizar, volto.
+Atendente: Torço por você! Estaremos aqui!
+Cliente: Obrigado por tudo. Você fez diferença real.
+Atendente: Fico emocionada! Cuíde-se! 💙
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

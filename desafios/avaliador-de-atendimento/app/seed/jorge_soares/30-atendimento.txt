@@ -1,0 +1,30 @@
+Cliente: Vocês vendem assinatura Game Pass Ultimate? Quero presentear meu irmão.
+Atendente: Vendemos sim! Game Pass Ultimate 3 meses por R$ 89,90 — código digital.
+Cliente: É código ou ativa direto na conta dele?
+Atendente: Código enviado por e-mail. Ele resgata no site xbox.com/redeem ou direto no console Xbox.
+Cliente: Funciona pra conta que já teve assinatura antes? Ele deixou expirar mês passado.
+Atendente: Sim, funciona normalmente. Não é exclusivo para contas novas.
+Cliente: E se ele tiver Game Pass PC só? Converte?
+Atendente: Sim, Ultimate inclui console, PC e cloud. Se tiver PC ativo, converte proporcionalmente.
+Cliente: Interessante. Tem opção de 1 mês só? Orçamento apertado.
+Atendente: 1 mês R$ 39,90. 3 meses sai mais em conta por mês — R$ 29,97/mês.
+Cliente: Vou de 1 mês então. Presente de aniversário, entrega na hora?
+Atendente: Código enviado em até 15 minutos após pagamento. Pode imprimir ou encaminhar por WhatsApp.
+Cliente: Ok, compro depois do almoço. Só queria tirar dúvida mesmo.
+Atendente: Estamos à disposição! Bom presente pro seu irmão!
+Cliente: Ele tem Series S. Ultimate funciona?
+Atendente: Sim, Ultimate inclui catálogo completo Series S/X, PC e cloud gaming.
+Cliente: Posso incluir mensagem personalizada no e-mail?
+Atendente: Campo "mensagem presente" no checkout — imprime junto com instruções de resgate.
+Cliente: Perfeito. Compro depois do almoço então. Valeu!
+Atendente: Ótimo! Qualquer dúvida no resgate, chame aqui. Feliz aniversário pro seu irmão!
+Cliente: Link de compra direto?
+Atendente: lojadejogos.com.br/gamepass-1mes — checkout em 2 cliques.
+Cliente: Compro depois do almoço. Obrigado!
+Atendente: Estamos aqui! Bom presente!
+Cliente: Irmão tem Series S 512GB. Game Pass ocupa muito?
+Atendente: Jogos cloud não ocupam — streaming. Downloads sim, gerenciável.
+Cliente: Perfeito. Compro depois do almoço!
+Atendente: Aguardamos! Bom presente!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 3

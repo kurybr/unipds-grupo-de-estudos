@@ -1,0 +1,30 @@
+Cliente: Estou decepcionado. Comprei PS5 na Black Friday e agora tá R$ 300 mais barato no site de vocês.
+Atendente: Entendo sua frustração. A Black Friday teve preço promocional por tempo limitado, 4 dias.
+Cliente: Mas faz só 5 dias! Comprei dia 28, hoje dia 2 e já baixou.
+Atendente: Nossa política prevê reembolso da diferença em até 7 dias após a compra se o preço baixar.
+Cliente: Sério? Então devolvem os R$ 300?
+Atendente: Sim! Vou processar o crédito de R$ 300. Prefere voucher na loja ou estorno parcial no cartão?
+Cliente: Prefiro estorno no cartão. Não quero voucher.
+Atendente: Estorno parcial de R$ 300 solicitado. Prazo de 1 a 2 faturas conforme operadora do cartão.
+Cliente: Preciso fazer algo ou já tá automático?
+Atendente: Automático. Você receberá e-mail de confirmação em até 24 horas. Protocolo #ATD-99001.
+Cliente: Ainda bem que perguntei. Quase fui na concorrência comprar de novo.
+Atendente: Fico feliz em ter ajudado! A política existe exatamente para esses casos.
+Cliente: Atendimento salvou a situação. O preço baixou, mas vocês corrigiram.
+Atendente: Obrigado pelo feedback! Qualquer coisa, estamos aqui.
+Cliente: Comprei parcelado 10x. Estorno proporcional nas parcelas futuras?
+Atendente: Sim, R$ 300 dividido nas parcelas restantes — operadora ajusta automaticamente.
+Cliente: Pedido #LJ-88001, cartão final 4421. Confirma?
+Atendente: Confirmado! Estorno parcial #ATD-99001 vinculado ao pedido #LJ-88001.
+Cliente: E-mail de confirmação chega hoje?
+Atendente: Até amanhã 12h no máximo. Posso enviar cópia por WhatsApp se preferir.
+Cliente: WhatsApp (11) 99876-5432. Obrigado!
+Atendente: Enviado! Estorno em andamento. Obrigado pela confiança!
+Cliente: Console chegou ontem. Política vale mesmo após recebimento?
+Atendente: Sim, 7 dias após compra independente de recebimento. Você está no prazo.
+Cliente: Alívio. Quase comprei de novo na concorrência.
+Atendente: Fico feliz em ter evitado isso! Estorno confirmado.
+Cliente: E-mail confirmação chegou. Obrigado!
+Atendente: Por nada! Boa compra futura conosco!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

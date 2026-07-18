@@ -1,0 +1,30 @@
+Cliente: Olá. Sou de Portugal e estou de férias no Brasil. Posso comprar jogo BR e jogar na minha PSN europeia?
+Atendente: Olá! Mídia física brasileira geralmente funciona em qualquer PS5. Códigos digitais podem ter restrição de região.
+Cliente: Quero Persona 3 Reload físico. Tem legendas em português?
+Atendente: Versão BR inclui legendas em português. Dublagem em japonês e inglês.
+Cliente: Aceitam cartão internacional Visa?
+Atendente: Sim, Visa e Mastercard internacionais. Parcelamento só em cartão brasileiro.
+Cliente: Compro à vista. Posso retirar na loja hoje? Estou na Av. Paulista.
+Atendente: Loja Av. Paulista, 1000. Retirada em 1 hora após confirmação do pagamento.
+Cliente: Funciona na minha conta PT sem VPN ou truque?
+Atendente: Mídia física PS5 geralmente funciona globalmente. Insere disco, instala, joga na conta europeia.
+Cliente: Perfeito. Preço melhor que em Lisboa! R$ 249 vs €69.
+Atendente: Que bom! Posso separar o jogo. Qual nome para reserva?
+Cliente: João Pereira. Muito obrigado pelas informações detalhadas!
+Atendente: Reservado, João! Boa viagem e bom jogo!
+Cliente: Preciso de adaptador de tomada pro carregador do controle?
+Atendente: DualSense vem com cabo USB — carrega no PS5 ou notebook. Tomada BR diferente de PT, mas cabo USB resolve.
+Cliente: Edição standard ou collector?
+Atendente: Standard R$ 249. Collector R$ 399 esgotado no Brasil.
+Cliente: Standard serve. Pago com Visa internacional na retirada?
+Atendente: Sim, na retirada ou posso enviar link de pagamento agora.
+Cliente: Link agora, retiro em 1 hora caminhando.
+Atendente: Link enviado! Persona 3 Reload reservado, retirada Av. Paulista até 20h.
+Cliente: Muito obrigado! Primeira compra no Brasil.
+Atendente: Boa estadia! Aproveite Persona 3 Reload!
+Cliente: Nota fiscal para reembolso VAT?
+Atendente: NF-e enviada por e-mail — solicite VAT refund no aeroporto com passaporte.
+Cliente: Volto a Lisboa semana que vem. Deu tempo!
+Atendente: Ótima viagem de volta! Bom jogo!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

@@ -1,0 +1,30 @@
+Cliente: Estou MUITO irritado. Comprei FIFA 24 na terça e o código diz "já utilizado". Pedido #LJ-44102.
+Atendente: Sinto muito pelo transtorno. Vou verificar com o fornecedor agora... Um momento.
+Cliente: Enquanto isso eu fico aqui? Paguei R$ 299,90 e o código não funciona.
+Atendente: O código consta como resgatado em outra conta EA em 10/03, antes da sua compra em 12/03.
+Cliente: Então vocês me venderam código usado?? Isso é golpe!
+Atendente: Isso não deveria acontecer. Peço desculpas. Vou solicitar reposição imediata com o distribuidor oficial EA.
+Cliente: E prazo? Tenho campeonato com amigos no sábado, preciso do jogo até sexta.
+Atendente: Reposição prioritária em até 24 horas. Envio por e-mail assim que liberado. Garantido por escrito.
+Cliente: Por escrito? Manda protocolo então, porque já ouvi essa história antes.
+Atendente: Protocolo #ATD-44102 enviado para seu e-mail agora. Acompanho pessoalmente até resolução.
+Cliente: Se não resolver até amanhã às 18h, vou no Procon e no Reclame Aqui.
+Atendente: Compreendo totalmente. Te atualizo por aqui assim que o novo código for liberado, prometo.
+Cliente: Tô bem irritado, viu. Péssima experiência até agora, mesmo você sendo educado.
+Atendente: Lamento que a experiência tenha sido essa. Estou fazendo o possível para corrigir rapidamente.
+Cliente: Já tentaram me passar código de outra região antes. Garante que é BR?
+Atendente: Sim, código EA Sports BR válido para conta brasileira. Fornecedor oficial EA, lote verificado.
+Cliente: Posso ativar no PS5 e no PC com o mesmo código?
+Atendente: Depende da edição — FIFA 24 padrão é por plataforma. Seu pedido é PS5, código exclusivo PS5.
+Cliente: Ok. Aguardo até amanhã 18h então. Não some.
+Atendente: Estarei acompanhando. Atualização garantida em no máximo 12 horas.
+Cliente: ...Update?
+Atendente: Código novo liberado há 2 horas! Verifica e-mail — assunto "Reposição #LJ-44102". Funcionou?
+Cliente: Funcionou! Ativei agora. Ainda irritado, mas resolveu a tempo pro campeonato.
+Atendente: Fico aliviado! Voucher R$ 30 registrado como compensação. Bom campeonato!
+Cliente: Voucher expira quando?
+Atendente: 60 dias, qualquer produto. Código #VCH-44102 no e-mail.
+Cliente: Próxima compra digital com vocês? Talvez, se não repetir.
+Atendente: Entendo. Melhorias no sistema de liberação em andamento.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 2

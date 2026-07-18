@@ -1,0 +1,17 @@
+Cliente: Boa noite. Sou arquiteto, trabalho com precisão milimétrica, então vou precisar de respostas exatas. Estou avaliando comprar um monitor gamer 4K pra usar também em renderização. Qual a latência REAL de input, não o número de marketing?
+Atendente: Boa noite! Claro. O modelo que temos, o UltraGear 27" 144Hz, tem input lag medido em torno de 5ms no modo gamer. Posso te enviar o laudo técnico do fabricante.
+Cliente: "Em torno de" não me serve. Em torno é 4? é 6? Na minha profissão, "em torno" derruba uma laje. Qual o valor com duas casas decimais?
+Atendente: Entendo sua exigência. O fabricante informa 5,00ms no modo padrão e 4,80ms no modo "Motion Blur Reduction" ativado, segundo o datasheet oficial.
+Cliente: Agora sim. Mas veja, tem uma incoerência: se o painel é 144Hz, cada quadro leva 6,94ms. Como o input lag pode ser MENOR que o intervalo entre quadros? Isso é fisicamente impossível ou o senhor está confundindo conceitos?
+Atendente: Ótima observação. São métricas distintas: input lag mede o tempo entre o sinal de entrada e o início da resposta do painel, enquanto o intervalo de quadro é a taxa de atualização. Não são a mesma grandeza, por isso os valores diferem sem contradição.
+Cliente: Aceitável. Passemos ao suporte físico. O pedestal permite ajuste de altura em quantos milímetros de curso total? E é VESA 100x100 ou 75x75? Se for 75 eu cancelo tudo agora.
+Atendente: O curso de altura é de 110mm e o padrão de fixação é VESA 100x100, compatível com a maioria dos suportes articulados.
+Cliente: Ok. Última coisa, e essa é decisiva. Vocês anunciam "95% DCI-P3". Eu quero saber a cobertura de Adobe RGB, porque eu faço prancha de apresentação e cliente não perdoa cor errada. E não me venha com sRGB, sRGB é para amador.
+Atendente: A cobertura Adobe RGB é de aproximadamente 84%. Se cor for crítica para seu fluxo profissional, posso te indicar um modelo com 99% Adobe RGB, embora seja 60Hz — um trade-off entre precisão de cor e taxa para jogos.
+Cliente: Viu como uma pergunta bem feita economiza o tempo de todo mundo? Deveriam treinar a equipe assim. Vou levar o de 99% Adobe RGB. Jogo eu jogo no fim de semana, mas errar cor eu não erro nunca. Fechado.
+Atendente: Perfeito! Ótima escolha para seu perfil. Vou gerar o pedido do modelo ColorPro 27" 99% Adobe RGB. Confirma o e-mail para envio da nota?
+Cliente: arq.precisao@studio.com.br. E anota aí: quero a embalagem sem amassados. Caixa amassada eu recuso na portaria, por princípio.
+Atendente: Anotado: "verificar integridade da embalagem antes do envio". Pedido #MON-40871 confirmado. Obrigado pela paciência nas explicações técnicas!
+Cliente: Paciência é comigo. Bom atendimento. Raro, mas bom.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5. Tecnicamente competente. Se tivesse errado o VESA seria 1.

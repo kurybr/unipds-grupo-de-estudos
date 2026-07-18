@@ -1,0 +1,46 @@
+Cliente: Estou confuso com essa história de região. Comprei jogo americano e não funciona. O que faço??
+Atendente: Olá! Vou te ajudar a entender. Qual jogo e qual console?
+Cliente: Red Dead Redemption 2, PS5. Comprei mídia americana na loja semana passada. Dá erro "incompatível".
+Atendente: Red Dead 2 em mídia PS4 americana funciona em PS5 americano, mas PS5 brasileiro pode bloquear mídia de outra região.
+Cliente: Ninguém me avisou!! Vendedor disse "PS5 roda tudo".
+Atendente: Peço desculpas. PS5 brasileiro tem restrição parcial de região para mídias PS4 de outras regiões. PS5 nativo geralmente funciona globalmente.
+Cliente: Red Dead é PS4 ou PS5?
+Atendente: A mídia que você comprou é versão PS4 americana. Por isso o bloqueio no PS5 BR.
+Cliente: Então me venderam produto incompatível. Quero devolução.
+Atendente: Troca autorizada por versão PS5 brasileira ou PS4 BR compatível. Diferença de valor absorvida por erro de orientação.
+Cliente: Tem Red Dead PS5 BR?
+Atendente: Sim, R$ 249,90. Sua compra foi R$ 149,90 (usado americano). Absorvemos diferença de R$ 100.
+Cliente: E meu save? Já joguei 5 horas no americano antes de travar.
+Atendente: Infelizmente saves de regiões diferentes podem não transferir. Lamento essa perda.
+Cliente: 5 horas perdidas por culpa de vocês. Irritante demais.
+Atendente: Compreendo totalmente. Incluo voucher R$ 50 adicional pela perda de progresso e pelo erro de venda.
+Cliente: Tá, aceito a troca e o voucher. Mas aprendi a não confiar no vendedor.
+Atendente: Troca agendada para hoje. Protocolo #ATD-66201. Treinamento reforçado para equipe de loja.
+Cliente: Loja Tatuapé, ontem. Vendedor jovem, camisa azul.
+Atendente: Registrado para feedback. Erro grave de compatibilidade regional.
+Cliente: PS5 BR vs americano — como saber qual tenho?
+Atendente: Configurações > Sistema > Informações — região da conta e console listados.
+Cliente: Edição PS5 tem gráficos melhores que PS4 na troca?
+Atendente: Sim, 4K60 nativo no PS5 vs 1080p no PS4. Vale a troca além da compatibilidade.
+Cliente: Voucher R$ 50 vale quanto tempo?
+Atendente: 90 dias, qualquer produto. Código #VCH-66201 enviado por e-mail.
+Cliente: Passo na loja hoje à noite. Obrigado por explicar sem enrolar.
+Atendente: Por nada! Troca garantida no caixa 2 com protocolo #ATD-66201.
+Cliente: PS5 edition gráficos 4K?
+Atendente: Sim, modo performance 4K60 ou fidelity 4K30 — configurável.
+Cliente: Vendedor será advertido formalmente?
+Atendente: Sim, advertência formal + retreinamento região mídia PS4/PS5.
+Cliente: Indico chat, não loja física. Chat resolveu.
+Atendente: Agradeço! Loja física precisa melhorar — feedback encaminhado.
+Cliente: Troca feita ontem. RDR2 PS5 rodando liso.
+Atendente: Que bom! Aproveite o Wild West!
+Cliente: Voucher usado em Horizon. Tudo certo.
+Atendente: Excelente! Obrigado por continuar conosco!
+Cliente: RDR2 lindo no PS5. Gráficos incríveis.
+Atendente: Aproveite o Velho Oeste!
+Cliente: Gráficos PS5 impressionantes. Valeu a troca!
+Atendente: Bom jogo! 🤠
+Cliente: Chat > loja física. Anotado!
+Atendente: Obrigado! Boa caçada!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 2

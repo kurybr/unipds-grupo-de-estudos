@@ -1,0 +1,30 @@
+Cliente: Meu Xbox Series X chegou com a caixa amassada. Abri e o console tem risco na carcaça lateral.
+Atendente: Sinto muito! Pode enviar fotos do dano? Analisamos a melhor solução.
+Cliente: Mandei agora no chat. Dá pra ver o risco de uns 3 centímetros.
+Atendente: Recebi. Realmente há dano estético visível. Lamento que tenha chegado assim.
+Cliente: Quero saber se é só estético ou se pode ter afetado por dentro. Como testo?
+Atendente: Conecte na TV, ligue e rode um jogo por 30 minutos. Se travar, superaquecer ou fazer barulho anormal, há defeito funcional.
+Cliente: Testei aqui. Funciona normal, gráfico ok, sem barulho estranho.
+Atendente: Ótimo sinal. Posso oferecer desconto de R$ 200 como compensação estética, já que funciona perfeitamente.
+Cliente: R$ 200? O console custou R$ 3.899. Risco feio na lateral.
+Atendente: Entendo. Posso elevar para R$ 250 de crédito na loja ou tentar troca por unidade nova — prazo de 5 dias.
+Cliente: Prefiro testar mais uns dias. Se der problema, volto aqui.
+Atendente: Combinado. Garantia total de troca se houver defeito funcional. Protocolo #ATD-88301.
+Cliente: Tá, vou ficar com ele por enquanto. Atendimento ok, situação chata.
+Atendente: Lamento pelo transtorno inicial. Qualquer coisa, estamos aqui.
+Cliente: Crédito de R$ 250 vale pra jogos também?
+Atendente: Sim, qualquer produto da loja — jogos, acessórios, assinaturas.
+Cliente: Se decidir troca em 5 dias, perco o crédito?
+Atendente: Não. Troca por unidade nova sem custo. Crédito seria alternativa à troca, não cumulativa.
+Cliente: Entendi. Guardo protocolo #ATD-88301. Pedido #LJ-88102.
+Atendente: Confirmado! Acompanhamento registrado por 30 dias. Qualquer anormalidade, prioridade máxima.
+Cliente: Se aceitar crédito R$ 250, uso em jogo?
+Atendente: Sim, imediato após aceite. Válido 90 dias.
+Cliente: Decido em 48h. Por enquanto testando console.
+Atendente: Perfeito! Protocolo #ATD-88301 ativo.
+Cliente: Testo mais 48h e decido crédito ou troca.
+Atendente: Combinado! Estou à disposição.
+Cliente: Obrigado pelo acompanhamento!
+Atendente: Por nada! Qualquer anormalidade, chame aqui!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 3

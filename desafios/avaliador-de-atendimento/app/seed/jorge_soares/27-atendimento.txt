@@ -1,0 +1,30 @@
+Cliente: Preciso trocar um jogo. Comprei Resident Evil 4 pro PS5 mas minha esposa não deixa jogar horror 😅
+Atendente: Haha, entendo! Dentro de 7 dias com lacre intacto, trocamos sem problemas.
+Cliente: Lacre intacto sim, nem abri. Quero algo mais leve, talvez aventura ou plataforma.
+Atendente: Ratchet & Clank: Rift Apart ou Astro Bot são ótimos — divertidos, leves e exclusivos PS5.
+Cliente: Astro Bot parece legal! Vi review falando bem. Preciso pagar diferença?
+Atendente: RE4 está R$ 249,90 e Astro Bot R$ 229,90. Você recebe R$ 20 de crédito na loja.
+Cliente: Crédito expira?
+Atendente: Válido por 90 dias em qualquer produto — jogos, acessórios ou complemento em compras.
+Cliente: Posso fazer a troca na loja física hoje?
+Atendente: Sim! Traga o jogo com nota fiscal. Troca na hora, leva uns 10 minutos.
+Cliente: Fechado! Passo hoje à noite depois do trabalho, umas 19h.
+Atendente: Te esperamos! Loja aberta até 22h. Astro Bot já separei para agilizar.
+Cliente: Maravilha, você salvou meu casamento kkk Obrigado!
+Atendente: Kkk imagina! Bom jogo e boa noite!
+Cliente: Astro Bot é curto? Quero algo que dure umas 15 horas.
+Atendente: Campanha principal 12-15h. Coletáveis e desafios estendem para 20h+.
+Cliente: Perfeito pro fim de semana. RE4 devolvo lacrado mesmo?
+Atendente: Sim, lacre intacto e nota fiscal. Qualquer violação impede troca.
+Cliente: Tá intacto sim. Nome Ricardo, pedido #LJ-55201.
+Atendente: Anotado, Ricardo! Astro Bot reservado, troca hoje 19h, loja Tatuapé.
+Cliente: Crédito R$ 20 vale só nessa loja?
+Atendente: Qualquer unidade ou site, 90 dias validade.
+Cliente: Esposa agradece. Horror não passa no filtro dela kkk
+Atendente: Kkk Astro Bot é pura diversão! Boa troca!
+Cliente: Levo sacola ecológica?
+Atendente: Claro! Sustentabilidade é bem-vinda na loja.
+Cliente: Até hoje 19h então!
+Atendente: Te esperamos, Ricardo!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

@@ -1,0 +1,30 @@
+Cliente: Péssimo atendimento na loja ontem. Fila de 40 minutos, 1 caixa aberto, ninguém explica nada.
+Atendente: Sinto muito pela experiência. Pode me contar o que aconteceu para registrarmos?
+Cliente: Fui comprar controle Switch às 18h. Loja lotada, 1 atendente no caixa, resto "organizando estoque".
+Atendente: Sábado costuma ser pico. Lamento que não tenham aberto caixa extra.
+Cliente: Esperei 40 minutos. Quando cheguei, controle que vi no site tinha acabado.
+Atendente: Verifiquei estoque online vs loja — houve dessincronia. Controle Pro roxo esgotou às 17h30.
+Cliente: Então perdi tempo E não comprei. Site mentiu que tinha.
+Atendente: Estoque online atualiza a cada 30 minutos. Peço desculpas pela divergência.
+Cliente: Quero compensação. 40 minutos perdidos.
+Atendente: Posso oferecer cupom R$ 25 para próxima compra online com entrega grátis.
+Cliente: R$ 25?? Ridículo. Quero falar com gerente.
+Atendente: Vou encaminhar ao gerente da loja. Retorno em até 24 horas por telefone.
+Cliente: Registra tudo. Experiência horrível na loja e no chat também, pouco solícito.
+Atendente: Registrado protocolo #ATD-88001. Gerente entrará em contato amanhã.
+Cliente: Qual loja? Unidade Morumbi, sábado 18h.
+Atendente: Confirmado — Morumbi, sábado 14/06 às 18h. Queixa escalada ao gerente regional.
+Cliente: Controle Pro preto tinha estoque?
+Atendente: Sim, preto disponível. Roxo esgotou. Reserva online garante separação.
+Cliente: Deviam ter avisado na fila que roxo acabou.
+Atendente: Feedback válido. Registrado para melhoria de comunicação em pico.
+Cliente: Aguardo ligação do gerente. Não aceito só R$ 25.
+Atendente: Compreendo. Gerente tem autonomia para compensação ampliada. Contato amanhã até 12h.
+Cliente: Se não ligarem, vou Reclame Aqui.
+Atendente: Garantido contato amanhã 12h. Protocolo #ATD-88001 prioritário.
+Cliente: Reserva online evita isso?
+Atendente: Sim, reserva online separa estoque 24h — recomendado para sábados.
+Cliente: Próxima compra será online então.
+Atendente: Ficamos no aguardo! Lamentamos a experiência em loja.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 1

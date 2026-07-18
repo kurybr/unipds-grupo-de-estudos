@@ -1,0 +1,46 @@
+Cliente: Oi! Quero montar meu primeiro setup gamer completo. Tenho R$ 8.000 de budget. Me ajuda?
+Atendente: Olá! Adoraria ajudar! R$ 8.000 dá para um setup excelente. Console ou PC?
+Cliente: Console. Tô entre PS5 e Xbox Series X. Jogo sozinho e com namorada.
+Atendente: PS5 tem exclusivos como Spider-Man, God of War. Xbox tem Game Pass com centenas de jogos. Qual peso mais?
+Cliente: Exclusivos me atraem, mas Game Pass parece economia a longo prazo.
+Atendente: PS5 Slim R$ 3.899 + 2 jogos R$ 500 = R$ 4.399. Series X R$ 3.899 + Game Pass 12 meses R$ 359 = R$ 4.258. Valores similares.
+Cliente: E o resto do budget? Monitor, cadeira, headset?
+Atendente: Monitor 27" 144Hz R$ 1.299, cadeira gamer R$ 899, headset PS5 Pulse R$ 499. Total acessórios: R$ 2.697.
+Cliente: Soma tudo com PS5 então.
+Atendente: PS5 + jogos + monitor + cadeira + headset = R$ 7.096. Sobram R$ 904 de margem.
+Cliente: O que faria com os R$ 904 restantes?
+Atendente: Segundo controle DualSense R$ 449, base de carregamento R$ 199, jogo cooperativo It Takes Two R$ 149. Total R$ 797, sobram R$ 107.
+Cliente: It Takes Two é bom pra casal?
+Atendente: Perfeito para casal! Ganhou GOTY, exige cooperação, super divertido. Namorada vai amar.
+Cliente: Fechado! PS5 com tudo. Entrega ou retirada?
+Atendente: Entrega monta pacote com frete grátis acima de R$ 5.000. Montagem de cadeira inclusa.
+Cliente: Entrega então. CEP 04038-001, Vila Olímpia.
+Atendente: Entrega em 5 a 7 dias úteis. Montagem agendada junto com entrega.
+Cliente: Vocês são demais! Primeira compra e já ganhei cliente fiel.
+Atendente: Fico muito feliz! Orçamento formal enviado por e-mail. Qualquer ajuste, chama aqui!
+Cliente: Monitor funciona com notebook também? Trabalho home office.
+Atendente: Sim, HDMI ou USB-C. Monitor vira tela secundária pro notebook facilmente.
+Cliente: Cadeira aguenta 110kg? Sou alto, 1,88m.
+Atendente: Cadeira ProGamer suporta 150kg, encosto alto ajustável — ideal para 1,85m+.
+Cliente: Quais 2 jogos incluir além de It Takes Two?
+Atendente: Spider-Man 2 R$ 349 + Returnal R$ 149 (promo) = R$ 498. Cooperativo e solo cobertos.
+Cliente: Fechado! Manda link pagamento Pix com desconto?
+Atendente: Pix 5% off — total R$ 7.541. Link enviado! Pedido #LJ-88001.
+Cliente: Pago! Animado demais!
+Atendente: Pagamento confirmado! Entrega + montagem agendadas. Bem-vindo ao mundo gamer!
+Cliente: Namorada nunca jogou. It Takes Two exige experiência?
+Atendente: Zero experiência necessária — tutorial integrado e coop divertido.
+Cliente: Montagem cadeira quanto tempo?
+Atendente: 20-30 min. Técnico ajusta altura e lombar na entrega.
+Cliente: Rastreio quando?
+Atendente: Amanhã e-mail com tracking. Entrega 5-7 dias úteis Vila Olímpia.
+Cliente: Namorada já empolgada com It Takes Two.
+Atendente: Vai ser date night gamer perfeito!
+Cliente: Primeira compra grande. Cliente fiel garantido.
+Atendente: Honra! Qualquer ajuste no pedido, chama aqui!
+Cliente: Pedido confirmado no e-mail. Animados!
+Atendente: Entrega em breve! Boas-vindas ao setup gamer!
+Cliente: Contato salvo. Vocês ganharam clientes!
+Atendente: Honra! Qualquer coisa, chama aqui!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

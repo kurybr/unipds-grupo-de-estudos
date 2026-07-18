@@ -1,0 +1,46 @@
+Cliente: O atendente da loja foi GROSSO comigo. Disse que "mulher não entende de videogame".
+Atendente: Sinto muito profundamente. Esse comportamento é inaceitável e contra nossa política. Pode me contar o que aconteceu?
+Cliente: Fui comprar PS5. Perguntei diferença Slim vs Fat. Ele riu e disse "deixa que eu escolho pra você".
+Atendente: Peço desculpas em nome da loja. Isso é discriminação e falta de profissionalismo grave.
+Cliente: Pedi falar com gerente. Gerente disse "ele é assim mesmo". Piorou.
+Atendente: Vou registrar queixa formal nível máximo. Supervisor regional entrará em contato em 24h.
+Cliente: Não quero contato. Quero que demitam esse atendente.
+Atendente: Processo disciplinar será iniciado. Não posso informar resultado por privacidade, mas garanto que será tratado com seriedade.
+Cliente: Comprei PS5 na concorrência. Perderam venda de R$ 3.899 por preconceito.
+Atendente: Lamentamos profundamente. Posso oferecer cupom R$ 200 se reconsiderar compra conosco online.
+Cliente: Não quero cupom. Quero que tratem mulheres gamers com respeito.
+Atendente: Concordo 100%. Registro para treinamento obrigatório de toda equipe. Protocolo #ATD-88002.
+Cliente: Registra. Experiência nojenta. Nunca piso na loja de novo.
+Atendente: Compreendo sua decisão. Lamento que tenhamos falhado. Sua queixa será levada à diretoria.
+Cliente: Loja Morumbi, sábado 15h. Atendente nome Rodrigo.
+Atendente: Registrado. Rodrigo — turno tarde Morumbi. Processo disciplinar iniciado.
+Cliente: Gerente também. Disse "ele é assim mesmo".
+Atendente: Gerente incluído na queixa. Conduta inaceitável de ambos.
+Cliente: Mulheres gamers existem. Jogo desde NES.
+Atendente: Respeito total. Sua experiência alimentará treinamento anti-discriminação obrigatório.
+Cliente: Quero registro por escrito da queixa.
+Atendente: E-mail formal enviado com protocolo #ATD-88002 e confirmação de escalada à diretoria.
+Cliente: Recebi. Não volta atrás.
+Atendente: Não voltaremos. Lamentamos profundamente. Sua voz foi ouvida.
+Cliente: Conheço mulheres streamers top. Preconceito não cabe em 2026.
+Atendente: Concordo plenamente. Diversidade é prioridade estratégica da rede.
+Cliente: Compartilhei queixa no grupo gamer feminino. 200 mulheres.
+Atendente: Feedback público acelerará mudanças. Obrigado por dar visibilidade.
+Cliente: PS5 comprei na GameZone. Nunca mais loja física de vocês.
+Atendente: Respeitamos sua decisão. Online trataremos com máximo respeito se retornar.
+Cliente: Online talvez. Loja física nunca.
+Atendente: Entendido. Queixa #ATD-88002 encerrada com escalada à diretoria.
+Cliente: Diretoria respondeu. Treinamento agendado.
+Atendente: Agradeço por compartilhar. Mudanças em andamento.
+Cliente: Online compro. Loja nunca.
+Atendente: Respeitamos. Online será diferente se retornar.
+Cliente: Treinamento aconteceu. Vi no Instagram de vocês.
+Atendente: Sim! Obrigado por acompanhar. Mudanças reais.
+Cliente: Considero comprar online no futuro. Com outra atendente.
+Atendente: Respeitamos. Online terá atendimento respeitoso garantido.
+Cliente: Vou observar. Obrigada por ouvir.
+Atendente: Obrigada por falar. Sua voz importa.
+Cliente: Espero que mude mesmo. Tchau.
+Atendente: Trabalharemos por isso. Tchau.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 1

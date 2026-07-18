@@ -1,0 +1,20 @@
+Cliente: Comprei um fone aí semana passada e não funciona no meu PS5. Fiquei bem irritado.
+Atendente: Sinto muito. Qual modelo você comprou e qual o número do pedido?
+Cliente: Headset Gamer XPro, pedido #LJ-61204. Paguei R$ 280 na promoção.
+Atendente: Verifiquei aqui. Esse modelo é compatível com PC e celular via Bluetooth, mas não tem conexão nativa com PS5.
+Cliente: E por que vocês vendem então?? Perguntei na loja e o vendedor disse que funcionava no PlayStation!
+Atendente: Peço desculpas pela orientação incorreta. A descrição no site informa compatibilidade, mas entendo sua frustração.
+Cliente: Descrição?? Eu confio no vendedor, não fico lendo página técnica.
+Atendente: Compreendo. Posso autorizar troca por um modelo compatível com PS5, como o Pulse 3D ou equivalente.
+Cliente: O Pulse 3D é mais caro. Vou ter que pagar diferença?
+Atendente: Pela falha de orientação, absorvemos até R$ 50 de diferença se a troca for feita em até 7 dias.
+Cliente: Quanto fica o Pulse 3D então?
+Atendente: Pulse 3D R$ 499,90. Com absorção de R$ 50, diferença seria R$ 169,90 — ou posso sugerir PULSE Explore por R$ 329.
+Cliente: R$ 169 ainda é bastante. Não tinha culpa nenhuma no problema.
+Atendente: Entendo. Alternativa: reembolso integral de R$ 280 do XPro, sem necessidade de troca.
+Cliente: Prefiro reembolso então. Cansei dessa confusão.
+Atendente: Reembolso autorizado. Traga fone com nota na loja amanhã — estorno no cartão em 1 a 2 faturas.
+Cliente: Ainda vou ter que gastar mais e perdi tempo. Experiência péssima.
+Atendente: Registro sua reclamação no protocolo #ATD-61204. Troca disponível na loja amanhã, sem burocracia extra.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 2

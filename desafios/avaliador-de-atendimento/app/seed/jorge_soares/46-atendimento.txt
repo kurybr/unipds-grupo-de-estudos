@@ -1,0 +1,46 @@
+Cliente: Boa tarde. Comprei o bundle PS5 Slim + GTA 6 Deluxe e o console ainda não chegou. Já faz 15 dias.
+Atendente: Boa tarde! Sinto muito pela demora. Vou verificar agora. Pode me informar o CPF ou número do pedido?
+Cliente: Pedido #LJ-91034. Paguei no Pix à vista, R$ 4.299.
+Atendente: Obrigado. Localizei seu pedido. O PS5 Slim saiu do centro de distribuição em Campinas no dia 28, mas a transportadora registrou duas tentativas de entrega sem sucesso — endereço com portaria que recusou recebimento por falta de autorização.
+Cliente: Ninguém me ligou! Moro em condomínio mas sempre deixo autorizado na portaria.
+Atendente: Entendo. Verifiquei as notas da transportadora: consta "destinatário ausente" e "portaria sem aviso prévio". Isso não significa que a culpa seja sua — vou reagendar com prioridade e contato telefônico obrigatório antes da entrega.
+Cliente: Preciso do console pro aniversário do meu filho semana que vem. Ele só queria isso, fala de GTA 6 desde o trailer.
+Atendente: Compreendo a urgência. Posso solicitar entrega expressa sem custo adicional por conta do transtorno. Também vou incluir um voucher de R$ 100 na loja como compensação.
+Cliente: Voucher é legal, mas e se atrasar de novo?
+Atendente: Vou acompanhar pessoalmente. Se a nova tentativa falhar, temos retirada em loja autorizada — há uma em Moema, a 4 km do seu endereço cadastrado. Posso já deixar pré-autorizada a opção de retirada.
+Cliente: Pode ser. Qual loja exatamente?
+Atendente: Loja Moema, Av. Ibirapuera, 2120. Funciona de 10h às 20h. Se optar por retirada, o código digital do GTA 6 Deluxe é liberado na hora na conta PSN, mesmo antes de buscar o console.
+Cliente: Ah, isso ajuda. Ele pelo menos teria o jogo na conta... espera, GTA 6 roda no PS4?
+Atendente: Boa pergunta! O GTA VI não tem versão para PS4 — apenas PS5, Xbox Series e PC. O código ficaria reservado na conta dele até o console chegar.
+Cliente: Puts. Ele vai ficar frustrado. Tem como embalar como presente na retirada?
+Atendente: Sim! Na retirada em loja oferecemos embalagem para presente sem custo. Posso registrar no pedido: "embalagem de aniversário + cartão em branco".
+Cliente: Você tá sendo muito atenciosa, viu. A outra vez que chamei o bot ficou rodando em círculo.
+Atendente: Fico feliz em ajudar de verdade! Já registrei embalagem, voucher e retirada como plano B. Reagendei entrega para segunda-feira, 14h às 18h, com ligação 30 min antes.
+Cliente: Perfeito. Meu celular é (11) 98765-4321. Pode confirmar?
+Atendente: Confirmado e atualizado no sistema. Enviei resumo por e-mail: reagendamento, voucher #LJ-VOUCH-8821 e endereço da loja para retirada.
+Cliente: Recebi o e-mail. Só mais uma coisa: vi notícia que o GTA 6 atrasou DE NOVO. É verdade?
+Atendente: A Rockstar anunciou adiamento para 26 de setembro de 2026. Todas as pré-vendas e bundles permanecem válidos — a data de liberação do jogo muda, mas conteúdo e bônus contratados são mantidos.
+Cliente: Não acredito. Comprei por causa do lançamento em maio. Meu filho vai surtar.
+Atendente: É uma notícia frustrante, concordo plenamente. Posso registrar sua manifestação no protocolo oficial. Infelizmente a data de lançamento é definida pela Rockstar, não temos como antecipar.
+Cliente: Então vocês venderam algo que não entregam na data prometida. Isso não é propaganda enganosa?
+Atendente: Entendo seu ponto. No momento da compra, a data prevista era maio/2026 conforme anúncio oficial. O adiamento foi comunicado hoje pela desenvolvedora. A política garante que você receberá o jogo na nova data sem custo extra, ou pode cancelar com reembolso integral se preferir.
+Cliente: Cancelar o bundle inteiro? Devolve o PS5 também?
+Atendente: Sim, dentro de 7 dias após recebimento do hardware você pode exercer arrependimento. Como o console ainda não chegou, também é possível cancelar o pedido completo antes da entrega — reembolso do Pix em até 5 dias úteis.
+Cliente: Vou pensar. Não quero cancelar o console, só tô puto com esse adiamento.
+Atendente: Faz sentido. O pedido do console segue ativo com entrega segunda-feira. O voucher de R$ 100 já está reservado na sua conta. Qualquer decisão sobre cancelamento, estou aqui.
+Cliente: Beleza. Segunda então. Obrigado pela paciência, você explicou tudo direitinho.
+Atendente: Por nada! Foi um prazer ajudar. Qualquer novidade te aviso por aqui. Tenha um ótimo fim de semana!
+Cliente: Valeu, Camila. Você merece um prêmio aí.
+Atendente: Muito obrigada pelo carinho! 😊 Protocolo deste atendimento: #ATD-92844.
+Cliente: Aniversário é sábado. Se segunda não chegar, retiro em Moema sexta?
+Atendente: Sim! Pré-autorizei retirada Moema a partir de quinta 10h. Documento + pedido #LJ-91034.
+Cliente: Plano B me deixa mais tranquilo. Filho tem 12 anos, não quero decepcionar.
+Atendente: Entendo perfeitamente. Acompanho até o console estar com você. Embalagem presente já registrada!
+Cliente: Bundle inclui controle extra?
+Atendente: Um DualSense branco. Segundo controle R$ 449 à parte.
+Cliente: Portaria atualizada no sistema transportadora?
+Atendente: Sim, bloco B apto 82 — autorização permanente Felipe Morales registrada.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 1
+[Sistema] Poderia nos contar o motivo da sua avaliação?
+Cliente: Péssimo. Vendi sonho pro meu filho e a Rockstar enrola todo mundo. Nunca mais compro pré-venda. Nota 1 mesmo, o atendimento foi bom mas o problema é maior.

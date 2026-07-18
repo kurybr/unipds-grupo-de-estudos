@@ -1,0 +1,30 @@
+Cliente: Oi, sou streamer na Twitch e preciso de capture card. Vocês têm Elgato?
+Atendente: Olá! Temos Elgato HD60 X e 4K60 Pro MK.2 em estoque.
+Cliente: Qual a diferença prática entre os dois?
+Atendente: HD60 X captura até 1080p60 — ideal para Switch e PS5 em 1080p. 4K60 Pro MK.2 captura 4K60 para streams ultra HD.
+Cliente: Streamo em 1080p mesmo, Twitch não aguenta 4K direito. HD60 X serve?
+Atendente: Perfeita para seu caso. R$ 899,90 com cabo USB-C incluso.
+Cliente: Compatível com OBS no MacBook Pro M2?
+Atendente: Sim, plug-and-play com OBS, Streamlabs, Mac e PC. Sem driver extra no Mac.
+Cliente: Consigo capturar PS5 e Switch com a mesma placa?
+Atendente: Sim, basta trocar o cabo HDMI de entrada. Suporta até 2 consoles alternando.
+Cliente: Fechado! Pix tem desconto?
+Atendente: 5% no Pix — fica R$ 854,90. Envio hoje se pagar até 16h.
+Cliente: Pago agora. Manda QR code.
+Atendente: QR enviado! Pedido #LJ-55102. Capture card separada para envio ainda hoje.
+Cliente: Pagamento feito. Vocês entendem do assunto, atendimento top!
+Atendente: Obrigado! Boa stream e qualquer dúvida na configuração, chama aqui!
+Cliente: Preciso de cabo HDMI extra? PS5 fica longe do PC.
+Atendente: Cabo HDMI 2.1 3m R$ 49,90. Posso incluir no mesmo envio sem frete extra.
+Cliente: Inclui! PS5 na sala, PC no quarto.
+Atendente: Adicionado! Total R$ 904,80 com Pix. Envio hoje confirmado.
+Cliente: Latência perceptível na captura?
+Atendente: HD60 X tem latência ultra baixa — imperceptível para streams e comentários ao vivo.
+Cliente: Perfeito. Primeira capture card, ansioso!
+Atendente: Vai adorar! Tutorial OBS enviado por e-mail junto com rastreio.
+Cliente: Chega amanhã em SP capital?
+Atendente: Sim, entrega amanhã até 18h. Rastreio #BR55102 ativo.
+Cliente: Primeira stream sexta. Ansioso!
+Atendente: Boa stream! Sucesso na estreia!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

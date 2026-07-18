@@ -1,0 +1,30 @@
+Cliente: Oi, meu filho quer Minecraft pro Switch. Ele tem 7 anos. É adequado?
+Atendente: Olá! Sim, Minecraft é muito popular nessa faixa etária. Modo criativo é ótimo para crianças.
+Cliente: Tem diferença entre versão física e digital?
+Atendente: Física R$ 179,90, digital R$ 159,90. Conteúdo idêntico, só muda a forma de instalação.
+Cliente: Digital instala direto? Não preciso de cartão SD?
+Atendente: Instala na memória interna do Switch. Se a memória encher, aí sim vale cartão SD — temos de 128GB por R$ 89,90.
+Cliente: Ele joga offline também? Nem sempre temos internet em casa.
+Atendente: Sim, funciona offline tranquilamente. Internet só é necessária para multijogador online.
+Cliente: Consigo controlar tempo de tela?
+Atendente: Sim! App Nintendo Switch Parental Controls no celular dos pais — limita tempo diário e horários.
+Cliente: Perfeito. Vou de digital então, chega mais rápido.
+Atendente: Pedido registrado! Qual e-mail para envio do código?
+Cliente: ana.mae@gmail.com
+Atendente: Código enviado para ana.mae@gmail.com. Resgate na eShop em Configurações > Resgatar código.
+Cliente: Chegou em 5 minutos! Ele já tá aqui do meu lado empolgado 😄
+Atendente: Que alegria! Qualquer dúvida na instalação, chama aqui. Bom jogo pro pequeno!
+Cliente: Tem modo sobrevivência com monstros? Ele assusta fácil.
+Atendente: Modo criativo não tem monstros. Modo sobrevivência tem — recomendo criativo para começar.
+Cliente: Posso bloquear chat online? Medo de estranhos.
+Atendente: Sim, Parental Controls bloqueia comunicação online e restringe amigos.
+Cliente: Ele joga com cousin online às vezes. Dá pra liberar só amigos?
+Atendente: Sim, lista de amigos aprovada manualmente pelos pais no app.
+Cliente: Perfeito. Vocês pensaram em tudo que uma mãe preocupada pergunta!
+Atendente: Fico feliz! Qualquer configuração, estou aqui. Divirtam-se!
+Cliente: Pagamento Pix tem desconto?
+Atendente: 5% no Pix — Minecraft digital fica R$ 151,90.
+Cliente: Compro agora então. Código chega rápido?
+Atendente: Até 15 minutos no e-mail ana.mae@gmail.com. Pedido #LJ-66201.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 4

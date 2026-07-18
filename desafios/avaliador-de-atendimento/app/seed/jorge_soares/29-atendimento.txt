@@ -1,0 +1,30 @@
+Cliente: Oi! Quero montar uma biblioteca de jogos pro meu sobrinho. Orçamento de R$ 500, ele tem Switch.
+Atendente: Que legal! Quantos anos ele tem?
+Cliente: 10 anos. Gosta de aventura e jogos coloridos, nada muito difícil.
+Atendente: Com R$ 500 dá para 2 a 3 jogos excelentes: Kirby Forgotten Land R$ 199, Celeste R$ 59, e Pikmin 4 R$ 229.
+Cliente: Mario Odyssey ele já tem. Kirby parece perfeito!
+Atendente: Kirby é ideal para a idade. Quer incluir Celeste também? É mais desafiador mas lindo visualmente.
+Cliente: Celeste é difícil demais pra ele?
+Atendente: Tem modo assistido que facilita bastante. Para 10 anos com supervisão, funciona bem.
+Cliente: Então inclui os dois. Fechamos?
+Atendente: Kirby R$ 199 + Celeste R$ 59 = R$ 258. Sobram R$ 242 de crédito na loja.
+Cliente: Reserva o crédito pro aniversário dele mês que vem?
+Atendente: Crédito reservado no CPF do titular por 90 dias. Posso sugerir jogo quando chegar a data.
+Cliente: Perfeito! Obrigado pela consultoria, você entendeu exatamente o que precisava.
+Atendente: Fico feliz! Vai fazer sucesso com o pequeno. Bom jogo!
+Cliente: Entrega ou retirada? Moro em Curitiba.
+Atendente: Entrega CWB 3 dias úteis, frete R$ 14,90. Acima de R$ 300 frete grátis — seus jogos qualificam!
+Cliente: Frete grátis então! Manda link de pagamento.
+Atendente: Link enviado! Pedido #LJ-66301 — Kirby + Celeste, frete grátis Curitiba.
+Cliente: Paguei no Pix. Chega antes do fim de semana?
+Atendente: Previsão quinta-feira. Rastreio amanhã por e-mail.
+Cliente: Sobrinho vai surtar de alegria. Obrigado!
+Atendente: Imagina! Feliz presente antecipado!
+Cliente: Crédito R$ 242 reservado no meu CPF?
+Atendente: Sim, CPF ***456. Reserva 90 dias para aniversário do sobrinho.
+Cliente: Sugestão de jogo quando chegar a data?
+Atendente: Anotado! Te contacto 2 semanas antes do aniversário.
+Cliente: Sobrinho adora Kirby. Talvez Pikmin depois.
+Atendente: Pikmin 4 ótimo para 10 anos! Anotado na reserva.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5

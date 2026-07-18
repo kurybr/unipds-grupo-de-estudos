@@ -1,0 +1,46 @@
+Cliente: Boa tarde. Sou cliente há 3 anos e nunca tive problema. Hoje o atendimento na loja foi vergonhoso.
+Atendente: Boa tarde! Lamento ouvir isso de um cliente fiel. O que aconteceu exatamente?
+Cliente: Fui trocar um jogo com nota fiscal, dentro de 7 dias, lacre intacto. O gerente disse que "não fazemos troca de digital por físico".
+Atendente: Entendo a confusão. Qual jogo comprou e qual queria trocar?
+Cliente: Comprei código digital Elden Ring por engano. Queria físico PS5. Gerente foi grosso, disse "leia o site".
+Atendente: Peço desculpas pelo tom inadequado. Política permite troca de digital por físico em até 7 dias SE o código não foi resgatado.
+Cliente: NÃO resgatei! Mostrei e-mail com código intacto. Gerente nem quis ver.
+Atendente: Isso é falha grave de atendimento. Vou autorizar troca imediatamente e registrar queixa sobre o gerente.
+Cliente: Quero falar com alguém acima. Três anos comprando aqui e sou tratado assim?
+Atendente: Vou escalar ao supervisor regional. Retorno em até 4 horas com solução definitiva.
+Cliente: 4 horas? Quero resolver hoje. Tô indo embora de viagem amanhã.
+Atendente: Troca autorizada AGORA via chat. Pode retirar Elden Ring físico na loja em 1 hora. Apresenta este protocolo #ATD-77001.
+Cliente: Sério? Não vou ouvir "não" de novo?
+Atendente: Fale com Ana no caixa 3. Ela está ciente. Troca garantida. Peço desculpas em nome da loja.
+Cliente: Ok, vou tentar. Se der problema de novo, vocês vão ouvir de mim no Reclame Aqui.
+Atendente: Compreendo. Acompanho até confirmação da troca. Me avise quando chegar na loja.
+Cliente: Cheguei. Ana resolveu em 5 minutos. Troca feita.
+Atendente: Que alívio! Fico feliz que tenha sido resolvido. Registro elogio à Ana e queixa formal ao gerente.
+Cliente: Ana salvou. Gerente não. Nota mediana porque precisei escalar.
+Atendente: Feedback registrado. Obrigado pela paciência e por continuar conosco.
+Cliente: Loja Paulista, ontem 17h. Gerente homem, cabelo grisalho.
+Atendente: Identificado. Queixa formal enviada à diretoria regional com vídeo das câmeras se necessário.
+Cliente: Elden Ring físico standard ou GOTY?
+Atendente: Standard R$ 249,90 — mesma faixa do digital. Sem custo adicional na troca.
+Cliente: Histórico: 47 pedidos em 3 anos, zero devoluções antes.
+Atendente: Consta como cliente gold. Recusa do gerente foi completamente injustificada.
+Cliente: Ana merece reconhecimento. Gerente precisa treinamento.
+Atendente: Elogio à Ana e treinamento obrigatório registrados. Boa viagem amanhã!
+Cliente: Elden Ring físico tem DLC incluído?
+Atendente: Standard base game. Shadow of the Erdtree vendido à parte R$ 149.
+Cliente: Digital não resgatei — print do e-mail basta?
+Atendente: Sim, screenshot código intacto + e-mail original na tela do celular.
+Cliente: Viagem amanhã cedo. Ana confirmou troca por WhatsApp.
+Atendente: Excelente! Ana enviou confirmação ao supervisor. Viagem tranquila!
+Cliente: Elden Ring físico pesado na mochila?
+Atendente: ~100g mídia Blu-ray — leve para viagem.
+Cliente: Perfeito. Obrigado por escalar rápido.
+Atendente: Por nada! Boa viagem e bom jogo!
+Cliente: Elden Ring na mochila. Viagem salva!
+Atendente: Perfeito! Boa viagem!
+Cliente: Cliente de 3 anos continua. Ana salvou.
+Atendente: Ana é excelente! Obrigado por continuar conosco!
+Cliente: Nota 3 justa. Problema resolvido, escalada necessária.
+Atendente: Feedback registrado. Boa viagem!
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 3
