@@ -47,27 +47,38 @@ function extractContent(message: { content?: unknown } | undefined): string {
 const prompt = fs.readFileSync(promptPath, "utf8");
 const graph = createGraph();
 const attendants = listAttendants(seedDir);
-const sections: string[] = [];
+
+const blocks: string[] = [];
 
 for (const attendant of attendants) {
   const attendantDir = path.join(seedDir, attendant);
   const { total, payload } = loadConversations(attendantDir);
 
-  console.log(`Analisando ${attendant} (${total} atendimento(s))...`);
+  console.log(`Carregando ${attendant} (${total} atendimento(s))...`);
 
-  const humanMessage = [
-    `Atendente: ${attendant}`,
-    `Total de atendimentos: ${total}`,
-    "",
-    payload,
-  ].join("\n");
-
-  const result = await graph.invoke({
-    messages: [new SystemMessage(prompt), new HumanMessage(humanMessage)],
-  });
-
-  sections.push(extractContent(result.messages.at(-1)));
+  blocks.push(
+    [
+      `===== Atendente: ${attendant} =====`,
+      `Total de atendimentos: ${total}`,
+      "",
+      payload,
+    ].join("\n")
+  );
 }
+
+const humanMessage = [
+  `Total de atendentes: ${attendants.length}`,
+  "",
+  blocks.join("\n\n"),
+].join("\n");
+
+console.log("Gerando relatório consolidado...");
+
+const result = await graph.invoke({
+  messages: [new SystemMessage(prompt), new HumanMessage(humanMessage)],
+});
+
+const reportBody = extractContent(result.messages.at(-1));
 
 const html = `<!DOCTYPE html>
 <html lang="pt-BR">
@@ -77,7 +88,7 @@ const html = `<!DOCTYPE html>
 </head>
 <body>
   <h1>Relatório diário de atendimentos</h1>
-${sections.join("\n")}
+${reportBody}
 </body>
 </html>
 `;
