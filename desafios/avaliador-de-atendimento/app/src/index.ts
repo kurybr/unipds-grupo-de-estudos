@@ -17,19 +17,8 @@ function listAttendants(dir: string): string[] {
     .sort();
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Analise a conversa abaixo e responda em português com:
-1. Resumo breve
-2. Sentimento geral do cliente
-3. Avaliação da qualidade do atendimento entre pessimo, ruim, regular, bom e excelente.
-4. Dê uma nota de 1 a 5 para a qualidade do atendimento.
 
 
-O relatório deve ser em formato de HTML para fácil visualização.
-
-`.trim();
-=======
 function loadConversations(attendantDir: string): {
   total: number;
   payload: string;
@@ -38,19 +27,6 @@ function loadConversations(attendantDir: string): {
     .readdirSync(attendantDir)
     .filter((file) => file.endsWith(".txt"))
     .sort();
->>>>>>> 83a479a1d36106dbbb100dc3e7bc75a745edff52
-
-=======
-function loadConversations(attendantDir: string): {
-  total: number;
-  payload: string;
-} {
-  const files = fs
-    .readdirSync(attendantDir)
-    .filter((file) => file.endsWith(".txt"))
-    .sort();
-
->>>>>>> 0b1455a7df892b26eca7a2d72e93a3265014169b
   const parts = files.map((file) => {
     const content = fs.readFileSync(path.join(attendantDir, file), "utf8");
     return `--- ${file} ---\n${content.trim()}`;
