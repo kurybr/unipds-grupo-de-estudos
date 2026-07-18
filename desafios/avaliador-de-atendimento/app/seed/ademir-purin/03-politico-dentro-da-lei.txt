@@ -1,0 +1,15 @@
+Cliente: Boa tarde. Vou fazer uma compra corporativa: 30 licenças de um jogo educativo de simulação para um projeto social que patrocino. Preciso que tudo esteja rigorosamente dentro das regras, com nota fiscal e transparência total.
+Atendente: Boa tarde! Que ótima iniciativa. Trabalhamos com licenciamento em volume e emitimos NF-e para todas as vendas. Pode me informar se a compra será por CNPJ da instituição ou pessoa física?
+Cliente: CNPJ da associação, sem dúvida. Nunca misturo recurso público ou de terceiros com meu CPF. Quero o contrato de licenciamento por escrito antes de qualquer pagamento, para constar no processo de prestação de contas.
+Atendente: Perfeito, procedimento correto. Envio o contrato de licenciamento educacional com os termos de uso, quantidade e valor unitário para aprovação prévia. Só depois da assinatura geramos o boleto no CNPJ.
+Cliente: Excelente. Uma pergunta: vi que há um desconto promocional de 20% esta semana. Esse desconto é oferecido a qualquer comprador ou é uma condição especial só pra mim?
+Atendente: É uma promoção pública, válida para qualquer cliente que compre acima de 25 licenças nesta semana. Está no nosso site, na página de licenciamento em volume.
+Cliente: Ótimo. Se fosse condição exclusiva ou "cortesia", eu recusaria — não aceito vantagem que não esteja disponível a todos. Como é regra geral e pública, podemos prosseguir sem problema. Me envie o link da promoção para eu anexar à documentação.
+Atendente: Claro! Segue o link: loja.exemplo.com/licenciamento-volume. O desconto aparece automaticamente no carrinho ao atingir 25 unidades. Fica tudo registrado na NF-e discriminando o valor cheio e o abatimento.
+Cliente: Perfeito, transparência é isso. Última questão: preciso que a nota fiscal descreva exatamente o objeto — "licença educacional de software de simulação, 30 unidades" — sem termos genéricos. Prestação de contas não admite descrição vaga.
+Atendente: Anotado. A NF-e sairá com essa descrição detalhada, quantidade, valor unitário, desconto e valor total. Envio também o certificado de licenciamento nominal à associação.
+Cliente: Impecável. Pode preparar o contrato e me enviar. Assim que o conselho aprovar em reunião, retorno com o aceite formal. Agradeço a clareza e o profissionalismo.
+Atendente: Eu que agradeço! Contrato e proposta seguem hoje para o e-mail da associação. Protocolo #CORP-77310. Fico à disposição para qualquer ajuste que o conselho solicitar.
+Cliente: Muito obrigado. É assim que gosto de trabalhar: tudo às claras. Bom dia.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5. Atendimento transparente e correto, exatamente o que o rigor de uma prestação de contas exige. Parabéns.

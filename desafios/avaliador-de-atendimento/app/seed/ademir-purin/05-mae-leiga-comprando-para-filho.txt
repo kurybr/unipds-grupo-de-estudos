@@ -1,0 +1,21 @@
+Cliente: Oi, boa tarde. Desculpa, eu não entendo nada dessas coisas de videogame. Meu filho de 11 anos pediu um tal de "roba box" de aniversário. Vocês vendem isso?
+Atendente: Boa tarde! Sem problema nenhum, vou te ajudar com calma. 😊 Deve ser o Roblox — é uma plataforma de jogos online muito popular entre as crianças. Ele te falou se quer um jogo, um brinquedo, ou créditos pra gastar dentro do jogo?
+Cliente: Ai, ele falou umas palavras que eu não entendi. "Robux"? Isso existe? Ou ele tá inventando pra me enrolar?
+Atendente: Existe sim! Robux é a moedinha virtual do Roblox. Com ela a criança compra roupas, itens e acessos dentro dos joguinhos. É bem comum as crianças pedirem. Não é invenção dele, pode ficar tranquila.
+Cliente: Ah, que alívio. E é seguro? Eu tenho medo dessas coisas de internet, sai reportagem de gente roubando cartão de criança. Ele não vai gastar meu dinheiro todo sem eu ver, vai?
+Atendente: Ótima preocupação, e faz muito bem em perguntar. O jeito mais seguro é comprar um cartão pré-pago de Robux, com valor fixo. Assim ele só gasta aquele valor e o seu cartão de crédito não fica cadastrado no jogo. Sem susto na fatura.
+Cliente: Isso, isso! Eu quero esse que não guarda meu cartão. Quanto custa? Eu queria gastar uns 50 reais, mais que isso o pai dele reclama comigo.
+Atendente: Temos o cartão de R$ 50, que dá 400 Robux. É uma quantia boa pra um presente e ele consegue comprar várias coisinhas. Dentro do seu limite certinho.
+Cliente: Perfeito. Mas me explica uma coisa que eu tô com vergonha de perguntar: isso é uma caixinha física que eu entrego pra ele, ou é uma coisa pela internet? Como funciona o presente?
+Atendente: Pergunta ótima, não precisa ter vergonha! Nós vendemos na versão digital: você recebe um código por e-mail. Mas dá pra fazer virar presente físico fácil — é só você anotar esse código num cartãozinho bonito, ou imprimir, e entregar pra ele no aniversário. A "mágica" acontece quando ele digita o código no aplicativo.
+Cliente: Ah que ideia boa, vou colocar num envelope com o cartão de aniversário! E como ele "digita o código"? Eu vou ter que fazer isso ou ele sabe?
+Atendente: Pode deixar que ele sabe, essa geração aprende rápido. 😄 Mas te explico pra você ficar por dentro: ele entra no app do Roblox, vai em "Resgatar cartão Roblox", digita o código, e os 400 Robux caem na conta dele na hora. Se travar, você me chama que eu te oriento passo a passo.
+Cliente: Você está sendo um anjo, viu. Sério, obrigada pela paciência com essa mãe aqui que não entende nada. Então quero um cartão de 50 reais.
+Atendente: Imagina, foi um prazer! Vou gerar o pedido do Cartão Roblox R$ 50 (400 Robux). Confirma pra mim um e-mail seu pra enviar o código?
+Cliente: É maria.aparecida1972@gmail.com. Ah, e o código vem pra MIM, né? Não vai cair direto no jogo dele antes do aniversário e estragar a surpresa?
+Atendente: Vem direto pra você, no seu e-mail. Não cai na conta de ninguém até alguém digitar o código. A surpresa está garantida! 🎉
+Cliente: Ai que bom. Fecha então, meu bem. E se eu tiver dúvida na hora de entregar eu volto aqui e chamo você?
+Atendente: Pode voltar quando quiser! Pedido #ROBX-30219 confirmado, o código já foi pro seu e-mail. Guarda com carinho até o aniversário. Um feliz aniversário pro seu menino! 🎂
+Cliente: Muito, muito obrigada. Você me tratou super bem. Deus te abençoe, viu.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 5!! Nota mil se pudesse. Me explicou tudo com paciência sem me fazer sentir burra. Recomendo demais.
