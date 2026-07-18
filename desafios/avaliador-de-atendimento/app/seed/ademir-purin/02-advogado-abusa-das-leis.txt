@@ -1,0 +1,18 @@
+Cliente: Prezados, sou advogado. Comprei o jogo "Elden Ring: Nightreign" na pré-venda de vocês há 40 dias. Baixei, joguei 38 horas e não gostei da jogabilidade. Exijo o reembolso integral com base no Código de Defesa do Consumidor.
+Atendente: Olá, boa tarde. Obrigado por entrar em contato. Vou verificar. O senhor mencionou 38 horas de jogo em produto digital — pode me confirmar a data da compra e do download?
+Cliente: Comprei dia 05, baixei dia 06. E já adianto: o art. 49 do CDC me garante 7 dias de arrependimento em compras fora do estabelecimento. Portanto o reembolso é líquido e certo.
+Atendente: Compreendo a referência. O art. 49 realmente prevê 7 dias de arrependimento. Contudo, o senhor relatou a compra há 40 dias e 38 horas de uso do conteúdo. O prazo de arrependimento já teria expirado, e o produto digital foi integralmente consumido.
+Cliente: Detalhe irrelevante. O prazo conta a partir da ciência efetiva do vício do produto. Só tomei "ciência" ontem, quando percebi que o jogo é ruim. Jurisprudência pacífica. Quer que eu cite o acórdão?
+Atendente: Entendo o argumento, mas há uma distinção jurídica importante: "não gostar da jogabilidade" configura insatisfação subjetiva, não vício do produto (art. 18). O jogo funciona conforme anunciado. Vício exigiria defeito técnico — travamento, corrupção de save, algo que impeça o uso.
+Cliente: Está me chamando de mentiroso? Registre que houve travamentos. Pronto, agora é vício. Sua palavra contra a minha, e eu sou o consumidor hipossuficiente — a lei presume a MINHA boa-fé, não a de vocês.
+Atendente: Não estou questionando sua palavra. Registrei a reclamação de travamento no protocolo. Nesse caso, o procedimento correto é o suporte técnico tentar sanar o vício em até 30 dias (art. 18, §1º), antes de qualquer reembolso. Posso abrir esse chamado técnico agora.
+Cliente: Não quero suporte, quero meu dinheiro. Vocês estão criando obstáculo, o que configura prática abusiva, art. 39. Vou registrar no Procon e ajuizar ação por danos morais. Sabe quanto custa uma condenação por dano moral hoje?
+Atendente: O senhor tem todo o direito de acionar o Procon e o Judiciário, e vamos cooperar integralmente com qualquer solicitação oficial. Registro que oferecemos a solução legal cabível — reparo do vício alegado — e ela foi recusada. Isso constará no histórico.
+Cliente: Está me ameaçando com "histórico"? Isso é coação. Vou anexar esse print na petição também.
+Atendente: Não é ameaça, é apenas o registro padrão do atendimento, ao qual o senhor terá acesso se solicitar. Reforço: posso (a) abrir o chamado técnico para o travamento relatado, ou (b) encaminhar seu caso ao setor jurídico para análise formal do pedido de reembolso. Qual prefere?
+Cliente: Encaminha pro jurídico. E avisa eles que eu não perco causa de consumo. Nunca perdi.
+Atendente: Encaminhado ao jurídico sob o protocolo #JUR-55820. O setor responde em até 5 dias úteis por e-mail. Registrei ambas as opções oferecidas e sua escolha. Mais alguma coisa?
+Cliente: Por ora não. Mas anota o meu nome, vocês ainda vão lembrar dele.
+[Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
+Cliente: 1. Atendente despreparado que desconhece o CDC e cria obstáculo ao consumidor. Reservo-me o direito de anexar esta avaliação aos autos.
+Atendente: [mensagem automática] Agradecemos seu feedback. Ele é muito importante para melhorarmos nossos serviços.
