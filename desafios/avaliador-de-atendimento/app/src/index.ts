@@ -100,7 +100,10 @@ const humanMessage = [
 console.log("Gerando relatório consolidado...");
 
 const result = await graph.invoke({
-  messages: [new SystemMessage(prompt), new HumanMessage(humanMessage)],
+  messages: [
+    new SystemMessage(prompt), 
+    new HumanMessage(humanMessage)
+  ],
 });
 
 const reportBody = extractContent(result.messages.at(-1));
