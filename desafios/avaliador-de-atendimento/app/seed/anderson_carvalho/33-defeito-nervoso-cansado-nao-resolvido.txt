@@ -1,0 +1,11 @@
+Cliente: Olá, preciso de ajuda com o pedido do Xbox Series X.
+Cliente: Estou bem nervoso porque isso é urgente e já esperei demais.
+Atendente: Olá, sou Anderson Carvalho. Vou te ajudar com isso agora.
+Cliente: O controle do Xbox Series X chegou com defeito e quero trocar.
+Atendente: Preciso checar se temos estoque para troca. Pode ficar um pouco mais de tempo? 
+Cliente: Você pode falar de forma mais direta sobre a solução?
+Atendente: Estou tentando, mas ainda não tenho uma solução definitiva.
+Cliente: Estou frustrado, mas espero que isso seja resolvido.
+Atendente: Desculpe pelo transtorno, estou fazendo o possível.
+Cliente: Não, ainda não foi solucionado.
+Atendente: Por favor, dê uma nota para o atendimento de 1 a 5 e confirme se o problema foi solucionado.

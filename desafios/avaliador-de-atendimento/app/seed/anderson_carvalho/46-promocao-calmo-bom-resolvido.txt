@@ -1,0 +1,11 @@
+Cliente: Olá, preciso de ajuda com o pedido do Xbox Series S.
+Cliente: Tudo bem, posso explicar o meu problema com calma.
+Atendente: Olá, sou Anderson Carvalho. Vou te ajudar com isso agora.
+Cliente: A promoção do console acabou e quero saber se ainda tenho alguma vantagem.
+Atendente: Consegui um cupom para frete grátis e desconto em jogos selecionados.
+Cliente: Você pode falar de forma mais direta sobre a solução?
+Atendente: Claro. Resolvi seu caso e enviei os detalhes para o e-mail cadastrado.
+Cliente: Obrigado, você me ajudou muito.
+Atendente: Disponha! Fico feliz em ajudar.
+Cliente: Sim, o problema foi solucionado. Obrigado.
+Atendente: Por favor, dê uma nota para o atendimento de 1 a 5 e confirme se o problema foi solucionado.

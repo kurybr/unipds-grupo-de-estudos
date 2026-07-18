@@ -1,0 +1,12 @@
+Cliente: Olá, preciso de ajuda com o pedido do PlayStation 5.
+Cliente: Quero uma resposta prática e objetiva, por favor.
+Atendente: Olá, sou Anderson Carvalho. Vou te ajudar com isso agora.
+Cliente: Meu pedido do The Legend of Zelda: Tears of the Kingdom está atrasado e ninguém me retornou.
+Atendente: Entendo. Já falei com o transportador e coloquei sua entrega em prioridade.
+Cliente: Você pode falar de forma mais direta sobre a solução?
+Atendente: Claro. Resolvi seu caso e enviei os detalhes para o e-mail cadastrado.
+Atendente: Sua entrega teve prioridade. Devo confirmar se chegará por volta de amanhã.
+Cliente: Obrigado, você me ajudou muito.
+Atendente: Disponha! Fico feliz em ajudar.
+Cliente: Sim, o problema foi solucionado. Obrigado.
+Atendente: Por favor, dê uma nota para o atendimento de 1 a 5 e confirme se o problema foi solucionado.

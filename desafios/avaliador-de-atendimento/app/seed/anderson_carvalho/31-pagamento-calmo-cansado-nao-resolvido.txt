@@ -1,0 +1,12 @@
+Cliente: Olá, preciso de ajuda com o pedido do Nintendo Switch OLED.
+Cliente: Tudo bem, posso explicar o meu problema com calma.
+Atendente: Olá, sou Anderson Carvalho. Vou te ajudar com isso agora.
+Cliente: Paguei o God of War Ragnarök para o Nintendo Switch OLED e não recebi a confirmação.
+Atendente: Esse tipo de erro precisa de um tempo maior, vou consultar o financeiro.
+Cliente: Você pode falar de forma mais direta sobre a solução?
+Atendente: Estou tentando, mas ainda não tenho uma solução definitiva.
+Atendente: O financeiro deve responder em breve para liberar a confirmação.
+Cliente: Estou frustrado, mas espero que isso seja resolvido.
+Atendente: Desculpe pelo transtorno, estou fazendo o possível.
+Cliente: Não, ainda não foi solucionado.
+Atendente: Por favor, dê uma nota para o atendimento de 1 a 5 e confirme se o problema foi solucionado.
