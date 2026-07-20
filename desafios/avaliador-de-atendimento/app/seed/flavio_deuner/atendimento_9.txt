@@ -1,0 +1,11 @@
+Atendente: Olá! Sou o Felipe. Posso ajudar?
+Cliente: Oi Felipe. Eu sofro de epilepsia fotossensível. Gostaria de saber se o jogo "Cyberpunk 2077" ainda tem aqueles efeitos de luzes piscantes fortes no início das missões.
+Atendente: Olá. Sim, o Cyberpunk teve polêmicas no lançamento por isso. A CD Projekt Red lançou patches para suavizar esses efeitos, mas o jogo ainda é muito intenso visualmente, com muitos neons e flashes.
+Cliente: Entendi. Existe alguma configuração para reduzir isso?
+Atendente: Existe uma opção para reduzir efeitos de "bloom" e "lens flare", mas para quem tem alta sensibilidade, ainda pode ser arriscado. Eu recomendaria jogos com uma paleta de cores mais opaca ou estável.
+Cliente: Alguma recomendação de RPG ocidental mais seguro?
+Atendente: Talvez o "Starfield" ou o "Skyrim". Eles têm ambientes mais naturais e menos efeitos de luz estroboscópica.
+Cliente: Vou pesquisar sobre esses. Obrigado pelo aviso sincero, prefiro não arriscar minha saúde.
+
+Nota de Atendimento: 5
+Comentário: O atendente foi honesto sobre os riscos de saúde em vez de apenas querer vender o jogo. Priorizou minha segurança.

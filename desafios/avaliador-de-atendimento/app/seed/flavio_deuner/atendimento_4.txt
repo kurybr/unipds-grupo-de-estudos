@@ -1,0 +1,13 @@
+Atendente: Bem-vindo à nossa loja! Eu sou o Lucas. Como posso te ajudar?
+Cliente: Oi Lucas. Eu sou neurodivergente e tenho muita dificuldade com jogos que têm excesso de luzes piscantes e menus muito poluídos. Estou procurando algo para relaxar no Xbox.
+Atendente: Entendo perfeitamente. Você prefere algo com ritmo mais calmo, certo?
+Cliente: Sim, sem muita pressão de tempo ou excesso de estímulos sensoriais se possível.
+Atendente: Recomendo o "Unpacking" ou o "Stardew Valley". O Unpacking é extremamente focado em organização, sem inimigos ou luzes fortes. O Stardew Valley permite que você jogue no seu próprio ritmo.
+Cliente: O Stardew Valley parece bom. Eu consigo desativar vibrações fortes no controle?
+Atendente: Sim, nas configurações do próprio console Xbox você consegue reduzir ou desligar totalmente a vibração para todos os jogos. Posso te guiar por esse menu se quiser.
+Cliente: Ah, isso ajudaria muito!
+Atendente: (Explica o passo a passo do menu de acessibilidade do Xbox).
+Cliente: Consegui! Muito obrigado, Lucas.
+
+Nota de Atendimento: 5
+Comentário: O atendente entendeu minha necessidade sensorial e ainda me ensinou a configurar o console para diminuir os estímulos. Muito atencioso.

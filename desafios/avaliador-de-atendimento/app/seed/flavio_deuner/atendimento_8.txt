@@ -1,0 +1,11 @@
+Atendente: Olá! Bem-vindo à Game Store. Como posso ajudar?
+Cliente: Oi. Eu tenho dislexia severa e tenho muita dificuldade com RPGs que têm muito texto para ler. O "Final Fantasy VII Rebirth" tem dublagem em português?
+Atendente: Olá! Infelizmente, os jogos da Square Enix, como o Final Fantasy, geralmente não possuem dublagem em português, apenas legendas.
+Cliente: Ah, que pena. Ler blocos grandes de texto é muito cansativo e acabo me perdendo na história.
+Atendente: Entendo perfeitamente. Uma alternativa são os jogos da PlayStation Studios, como "Spider-Man 2" ou "Ratchet & Clank: Em Outra Dimensão". Ambos são totalmente dublados em português, então você não precisará ler quase nada.
+Cliente: O Spider-Man parece legal. Ele tem muita leitura de inventário?
+Atendente: Tem um pouco, mas como as falas dos personagens explicam quase tudo o que está acontecendo, fica muito mais fácil de acompanhar.
+Cliente: Vou tentar o Spider-Man então. Obrigado pela sugerão.
+
+Nota de Atendimento: 4
+Comentário: O atendente foi empático e sugeriu alternativas dubladas, já que o jogo que eu queria originalmente seria um problema para minha dislexia.

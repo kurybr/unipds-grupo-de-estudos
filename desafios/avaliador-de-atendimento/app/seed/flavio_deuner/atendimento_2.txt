@@ -1,0 +1,13 @@
+Atendente: Boa tarde! Sou a Marina da Game Store. Em que posso ajudar?
+Cliente: Oi Marina. Eu sofro de uma paralisia que limita os movimentos da minha mão direita. Vi que existe um controle adaptativo para Xbox. Vocês têm em estoque?
+Atendente: Olá! Sim, temos o Xbox Adaptive Controller. Ele é excelente pois permite conectar diversos botões externos e pedais, dependendo da sua necessidade.
+Cliente: Isso mesmo. Ele funciona bem com qualquer jogo de Xbox Series S?
+Atendente: Sim, ele é totalmente compatível. Além disso, o aplicativo de Acessórios do Xbox permite que você mapeie cada entrada da forma que for mais confortável para você.
+Cliente: Entendi. É difícil de configurar?
+Atendente: Um pouco no início, mas se você precisar, posso te enviar um vídeo tutorial passo a passo em português que facilita muito.
+Cliente: Seria ótimo. Vou querer reservar um.
+Atendente: Perfeito, já reservei aqui. Algo mais?
+Cliente: Apenas isso. Obrigado!
+
+Nota de Atendimento: 5
+Comentário: Atendimento rápido e a atendente se ofereceu para ajudar na configuração, o que era minha maior preocupação.

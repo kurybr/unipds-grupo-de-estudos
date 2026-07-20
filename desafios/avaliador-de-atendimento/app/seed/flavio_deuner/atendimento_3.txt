@@ -1,0 +1,11 @@
+Atendente: Olá! Como posso te ajudar hoje?
+Cliente: Oi, sou surdo e gostaria de saber se o jogo "The Legend of Zelda: Breath of the Wild" do Switch tem legendas em português e se os efeitos sonoros importantes têm avisos visuais.
+Atendente: Olá! Entendo sua dúvida. Infelizmente, o Breath of the Wild não possui legendas em português de forma oficial, apenas em outros idiomas como inglês e espanhol.
+Cliente: Poxa, que pena. E sobre os efeitos visuais para sons de inimigos ou itens?
+Atendente: Ele tem alguns indicadores visuais, como o sensor de templos, mas não possui um sistema de "legendas fechadas" (Closed Captions) para todos os sons do ambiente.
+Cliente: Entendi. Você teria algum outro jogo de aventura que seja mais acessível nesse sentido?
+Atendente: No Switch, alguns jogos independentes como "Celeste" têm ótimas opções de acessibilidade. Mas da própria Nintendo, o "Super Mario Odyssey" é bem visual e intuitivo, embora também não tenha legendas em PT-BR.
+Cliente: Certo. Obrigado pelas informações sinceras.
+
+Nota de Atendimento: 3
+Comentário: O atendente foi educado e honesto, mas fiquei frustrado com a falta de opções em português no console que eu queria. O atendimento foi bom, mas o problema da barreira de linguagem e sinalização visual não foi totalmente resolvido.

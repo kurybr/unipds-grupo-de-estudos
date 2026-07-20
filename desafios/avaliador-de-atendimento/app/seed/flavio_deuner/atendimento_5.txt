@@ -1,0 +1,11 @@
+Atendente: Olá! Sou a Juliana. Como posso ajudar com seu PlayStation hoje?
+Cliente: Oi Juliana. Eu tenho artrite reumatoide e sinto dor ao segurar o DualSense por muito tempo, especialmente usando os gatilhos R2 e L2 que são pesados.
+Atendente: Sinto muito por isso, compreendo o desconforto. Você sabia que pode desativar a "Resposta Tátil" e o "Efeito de Gatilho" nas configurações do PS5?
+Cliente: Não sabia. Isso deixa os botões mais leves?
+Atendente: Sim, remove aquela resistência mecânica que o gatilho faz. Além disso, você pode remapear os botões. Se o R2 for difícil de apertar, podemos passar essa função para um botão frontal, como o 'X'.
+Cliente: Isso seria maravilhoso. Existe algum controle mais leve que o original?
+Atendente: Infelizmente, controles licenciados mais leves são raros, mas recomendo o uso de um suporte de colo para não ter que sustentar o peso do controle com os pulsos. Temos um aqui.
+Cliente: Vou testar essa configuração primeiro e levar o suporte. Obrigado!
+
+Nota de Atendimento: 4
+Comentário: A atendente deu ótimas dicas de software, mas a falta de hardware mais ergonômico para mãos pequenas/doloridas é uma limitação da loja. Mas o suporte ajudou.

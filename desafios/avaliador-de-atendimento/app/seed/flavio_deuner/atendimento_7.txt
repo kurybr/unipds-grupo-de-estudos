@@ -1,0 +1,10 @@
+Atendente: Olá! Sou o Ricardo. Como posso te ajudar?
+Cliente: Oi Ricardo. Quero comprar o "Call of Duty: Modern Warfare III", mas sou daltônico (deuteranopia). O jogo tem suporte para isso?
+Atendente: Olá! Sim, a franquia Call of Duty tem um dos melhores suportes para daltonismo. No menu de interface, você pode escolher o filtro específico para deuteranopia.
+Cliente: E isso muda as cores dos nomes dos aliados e inimigos? Às vezes confundo o verde com o vermelho no mapa.
+Atendente: Exatamente. Ele permite que você escolha cores customizadas para o seu time, para os inimigos e para os objetivos. Você pode colocar o inimigo em amarelo brilhante, por exemplo, para facilitar.
+Cliente: Excelente. Vou comprar agora.
+Atendente: Ótimo! Se precisar de ajuda para achar a opção no menu após instalar, é só me chamar.
+
+Nota de Atendimento: 5
+Comentário: Atendente direto ao ponto e conhecia bem as opções de interface do jogo. Problema resolvido.

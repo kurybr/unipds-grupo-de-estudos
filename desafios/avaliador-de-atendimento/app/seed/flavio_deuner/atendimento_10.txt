@@ -1,0 +1,11 @@
+Atendente: Boa tarde! Como posso ajudar você hoje?
+Cliente: Olá. Sou autista e tenho muita ansiedade com entregas. Comprei um console Xbox e gostaria de saber exatamente o passo a passo de como ele é embalado e qual o horário aproximado que o entregador passa.
+Atendente: Entendo perfeitamente, queremos que você se sinta seguro. Nós usamos uma caixa parda externa sem logos chamativos para discrição, e por dentro vai plástico bolha extra.
+Cliente: E o rastreio é em tempo real?
+Atendente: Sim, enviamos o link via WhatsApp e e-mail. Sobre o horário, as transportadoras costumam entregar entre as 10h e as 16h na sua região. Se você preferir, posso pedir para o motorista ligar 10 minutos antes de chegar.
+Cliente: Isso ajudaria muito a me preparar para o barulho da campainha e a interação.
+Atendente: Vou colocar essa observação prioritária no seu pedido agora mesmo.
+Cliente: Muito obrigado. Fico muito mais calmo assim.
+
+Nota de Atendimento: 5
+Comentário: O atendente foi sensível às minhas necessidades de previsibilidade e rotina, oferecendo uma solução personalizada para a entrega.

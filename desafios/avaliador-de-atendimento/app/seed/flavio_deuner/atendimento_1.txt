@@ -1,0 +1,11 @@
+Atendente: Olá! Bem-vindo à Mega Game Store. Meu nome é Thiago. Como posso ajudar você hoje?
+Cliente: Olá, Thiago. Eu tenho baixa visão e estou procurando jogos para o meu PS5 que tenham bons recursos de acessibilidade, especialmente narração de tela e alto contraste. O que você recomenda?
+Atendente: Com certeza! A Sony tem investido muito nisso. Recomendo fortemente o "The Last of Us Part I" e o "God of War Ragnarök". Ambos possuem menus narrados, sinais sonoros para combate e modos de alto contraste incríveis.
+Cliente: Que ótimo saber. No "The Last of Us", eu consigo navegar pelo cenário com ajuda sonora?
+Atendente: Sim! Existe um modo de assistência de navegação que orienta você com áudio para onde deve ir. Posso te enviar um guia digital com todos esses recursos detalhados se quiser.
+Cliente: Eu adoraria. Muito obrigado pela atenção e por conhecer esses detalhes.
+Atendente: Por nada! Mais alguma dúvida?
+Cliente: Não, era só isso. Vou levar o God of War por enquanto.
+
+Nota de Atendimento: 5
+Comentário: O atendente foi extremamente preparado, conhecia os recursos específicos de acessibilidade visual e me passou confiança na compra.

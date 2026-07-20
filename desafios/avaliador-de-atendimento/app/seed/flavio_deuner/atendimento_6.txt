@@ -1,0 +1,10 @@
+Atendente: Olá, bom dia! Em que posso ajudar?
+Cliente: Bom dia. Meu filho tem Síndrome de Down e ele ama o Mario. Mas ele tem dificuldade com comandos complexos e muitos botões ao mesmo tempo. Tem algum jogo de Switch que seja mais simples?
+Atendente: Com certeza! O "Yoshi's Crafted World" é excelente. Ele tem um "Mellow Mode" (Modo Relaxado) onde o Yoshi voa e os inimigos são menos agressivos.
+Cliente: Isso parece ótimo. E o "Mario Kart"?
+Atendente: O "Mario Kart 8 Deluxe" é perfeito para ele, pois tem a opção de "Direção Inteligente" (que não deixa o carro sair da pista) e "Aceleração Automática". Ele pode jogar apenas usando o analógico para virar, ou até usando o sensor de movimento.
+Cliente: Sério? Isso vai ajudar muito ele a não se frustrar. Vou levar os dois.
+Atendente: Excelente escolha. Ele vai se divertir muito!
+
+Nota de Atendimento: 5
+Comentário: O atendente conhecia os modos de assistência específicos para crianças com dificuldades cognitivas ou motoras. Fiquei muito satisfeita.
