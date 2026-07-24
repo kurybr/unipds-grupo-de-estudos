@@ -257,3 +257,65 @@ As seguintes decisões ainda serão discutidas pelo grupo.
 
 > **Este documento representa o estado atual das discussões do grupo e será atualizado continuamente conforme a evolução do laboratório.**
 
+---
+
+## 🧭 Como executar localmente
+
+Siga estes passos para rodar a versão de linha de comando que gera o relatório HTML a partir das conversas de `app/seed`.
+
+- **Pré-requisitos**:
+  - Node.js (recomendado: 18+)
+  - `npm` ou `pnpm`
+
+- **Passo a passo**:
+
+  1. Abra um terminal e entre na pasta do projeto:
+
+	  ```bash
+	  cd "c:\\Users\\mrj84\\Documents\\Learning\\Pós\\unipds-grupo-de-estudos\\desafios\\avaliador-de-atendimento\\app"
+	  ```
+
+  2. Instale as dependências (use `npm` ou `pnpm`):
+
+	  ```bash
+	  npm install
+	  # ou, se usar pnpm:
+	  # pnpm install
+	  ```
+
+  3. Crie o arquivo de ambiente a partir do exemplo e preencha a chave da API do OpenRouter (ou outro provedor compatível):
+
+	  ```bash
+	  copy .env.example .env
+	  # no PowerShell/Windows, abra .env e substitua OPENROUTER_API_KEY pela sua chave
+	  ```
+
+	  - Variáveis importantes em `.env`:
+		 - `OPENROUTER_API_KEY` (obrigatório)
+		 - `OPENROUTER_MODEL` (opcional — padrão: `openai/gpt-4o-mini`)
+
+  4. Rodar em modo desenvolvimento (observa mudanças):
+
+	  ```bash
+	  npm run dev
+	  ```
+
+	  Ou rodar diretamente (executa uma vez):
+
+	  ```bash
+	  npm start
+	  ```
+
+  5. Resultado: ao finalizar a execução será gerado um arquivo HTML em `app/output/relatorio.html`.
+
+	  - Caminho completo de saída (exemplo): `desafios/avaliador-de-atendimento/app/output/relatorio.html`
+	  - Abra esse arquivo no navegador para visualizar o relatório consolidado.
+
+- **Notas e dicas**:
+  - As conversas usadas como base ficam em `app/seed/<atendente>/*.txt`.
+  - O comportamento do LLM depende da chave/serviço configurado em `.env`.
+  - Se ocorrer erro relacionado à variável de ambiente, confirme que `OPENROUTER_API_KEY` está definida (veja `app/src/config.ts`).
+
+---
+
+
