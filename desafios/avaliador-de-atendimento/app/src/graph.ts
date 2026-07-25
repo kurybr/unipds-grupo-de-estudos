@@ -14,6 +14,9 @@ export function createGraph() {
     apiKey: openRouterApiKey,
     model,
     temperature: 0,
+    plugins: [
+      { id: 'web', max_results: 10 }
+    ]
   });
 
   const analyze = async (state: typeof MessagesAnnotation.State) => {

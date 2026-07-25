@@ -1,104 +1,64 @@
 import "dotenv/config";
+import { writeFile } from "node:fs/promises";
 import { HumanMessage, SystemMessage } from "@langchain/core/messages";
 import { createGraph } from "./graph.js";
-import fs from "fs";
-import path from "path";
+import { streaming } from "./streaming.js";
 
-const seedDir = path.join(import.meta.dirname, "../seed");
-const promptPath = path.join(import.meta.dirname, "agents/avaliador-geral.md");
-const outputDir = path.join(import.meta.dirname, "../output");
-const outputPath = path.join(outputDir, "relatorio.html");
-
-function listAttendants(dir: string): string[] {
-  return fs
-    .readdirSync(dir, { withFileTypes: true })
-    .filter((entry) => entry.isDirectory())
-    .map((entry) => entry.name)
-    .sort();
-}
-
-
-
-function loadConversations(attendantDir: string): {
-  total: number;
-  payload: string;
-} {
-  const files = fs
-    .readdirSync(attendantDir)
-    .filter((file) => file.endsWith(".txt"))
-    .sort();
-  const parts = files.map((file) => {
-    const content = fs.readFileSync(path.join(attendantDir, file), "utf8");
-    return `--- ${file} ---\n${content.trim()}`;
-  });
-
-  return {
-    total: files.length,
-    payload: parts.join("\n\n"),
-  };
-}
-
-function extractContent(message: { content?: unknown } | undefined): string {
-  if (!message) return "";
-  return typeof message.content === "string"
-    ? message.content
-    : JSON.stringify(message.content, null, 2);
-}
-
-const prompt = fs.readFileSync(promptPath, "utf8");
-const graph = createGraph();
-const attendants = listAttendants(seedDir);
-
-const blocks: string[] = [];
-
-for (const attendant of attendants) {
-  const attendantDir = path.join(seedDir, attendant);
-  const { total, payload } = loadConversations(attendantDir);
-
-  console.log(`Carregando ${attendant} (${total} atendimento(s))...`);
-
-  blocks.push(
-    [
-      `===== Atendente: ${attendant} =====`,
-      `Total de atendimentos: ${total}`,
-      "",
-      payload,
-    ].join("\n")
-  );
-}
-
-const humanMessage = [
-  `Total de atendentes: ${attendants.length}`,
-  "",
-  blocks.join("\n\n"),
-].join("\n");
-
-console.log("Gerando relatório consolidado...");
-
-const result = await graph.invoke({
-  messages: [
-    new SystemMessage(prompt), 
-    new HumanMessage(humanMessage)
-  ],
-});
-
-const reportBody = extractContent(result.messages.at(-1));
-
-const html = `<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Relatório diário</title>
-</head>
-<body>
-  <h1>Relatório diário de atendimentos</h1>
-${reportBody}
-</body>
-</html>
+const prompt = `
+# Rules:
+- Responda em português brasileiro.
+- Não invente informações, apenas retorne o que foi solicitado.
+- se não encontrar devolva que não sabe.
 `;
 
-fs.mkdirSync(outputDir, { recursive: true });
-fs.writeFileSync(outputPath, html, "utf8");
+const message = `
+Acesse esse link 
+https://www.reclameaqui.com.br/empresa/drogarias-mais-saude/
 
-console.log(`\nRelatório gerado: ${outputPath}`);
-console.log(`Atendentes processados: ${attendants.length}`);
+Agrupe por problemas mais frequentes:
+[ Problema ] [ Quantidade de reclamações ]
+
+`;
+
+const graph = createGraph();
+
+const stream = await graph.stream(
+  {
+    messages: [new SystemMessage(prompt), new HumanMessage(message)],
+  },
+  { streamMode: "messages" }
+);
+
+let reasoningStarted = false;
+let finalContent = "";
+
+console.log("Streaming...");
+
+try {
+  for await (const [chunk] of stream) {
+    const reasoning = chunk.additional_kwargs.reasoning_content;
+
+    if (reasoning) {
+      if (!reasoningStarted) {
+        process.stdout.write("\n--- Reasoning ---\n");
+        reasoningStarted = true;
+      }
+      streaming(reasoning as string);
+    }
+
+    const content = typeof chunk.content === "string" ? chunk.content : "";
+
+    if (content) {
+      finalContent += content;
+    }
+  }
+
+  process.stdout.write("\n");
+
+  await writeFile("output.md", finalContent.trimEnd() + "\n", "utf8");
+  console.log("Resposta salva em output.md");
+} catch (error) {
+  console.error("\n\n--- Erro durante o streaming ---");
+  console.error(error);
+  process.exitCode = 1;
+}
