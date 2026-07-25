@@ -15,6 +15,8 @@ Idéias aleatórias
 - Analise de Documentos 
 
 
+--> MCP:
+
 
 Próximas reflexões:
 
