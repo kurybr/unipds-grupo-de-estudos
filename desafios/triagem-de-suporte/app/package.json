@@ -1,0 +1,23 @@
+{
+  "name": "triagem-de-suporte",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts",
+    "studio": "npx @langchain/langgraph-cli dev"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.2.2",
+    "@langchain/langgraph": "^1.4.7",
+    "@langchain/openrouter": "^0.4.5",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "@langchain/langgraph-cli": "^1.4.4",
+    "@types/node": "^26.1.1",
+    "tsx": "^4.23.0",
+    "typescript": "~5.8.3"
+  }
+}

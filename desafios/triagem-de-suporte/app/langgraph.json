@@ -1,0 +1,8 @@
+{
+  "node_version": "20",
+  "dependencies": ["."],
+  "graphs": {
+    "triagem": "./src/graph.ts:graph"
+  },
+  "env": ".env"
+}

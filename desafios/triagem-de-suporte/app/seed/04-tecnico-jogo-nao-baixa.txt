@@ -1,0 +1,7 @@
+ID: TKT-004
+Cliente: Bruno Lima
+Canal: email
+
+---
+
+Comprei Elden Ring em mídia digital na LevelUp. O código foi redimido na conta, mas o download trava em 37% com erro NW-31254-5. Já reiniciei o console e a rede. Preciso de ajuda técnica.
