@@ -4,6 +4,7 @@ import {
   createLlm,
   getConfig,
 } from "../config.js";
+import { agentLog } from "../logger.js";
 import {
   type AnaliseEspecialista,
   type Categoria,
@@ -42,13 +43,29 @@ function formatHandoff(state: TriagemState, areaAtual: Categoria): string {
 }
 
 export function createEspecialistaNode(options: SpecialistOptions) {
+  const agentName = `especialista_${options.area}`;
+
   return async (state: TriagemState): Promise<Partial<TriagemState>> => {
+    const handoffAreas = Object.keys(state.analises ?? {}).filter(
+      (k) => k !== options.area
+    );
+    const isHandoff = handoffAreas.length > 0;
+
+    agentLog.enter(agentName, state.ticketId, {
+      area: options.areaLabel,
+      hopSupervisor: state.hop,
+      handoffDe: handoffAreas,
+      justificativaSupervisor: state.supervisorResult?.justificativa,
+    });
+
     const { models } = getConfig();
     const llm = createLlm(models[options.modelKey]);
 
     const systemPrompt = loadAgentPrompt(options.promptFile);
-    const isHandoff = Object.keys(state.analises ?? {}).length > 0;
     const hopInfo = `Hop do supervisor atual: ${state.hop ?? 0}`;
+
+    agentLog.llmStart(agentName, state.ticketId, models[options.modelKey]);
+    const llmStartedAt = Date.now();
 
     const response = await llm.invoke([
       new SystemMessage(systemPrompt),
@@ -75,6 +92,8 @@ export function createEspecialistaNode(options: SpecialistOptions) {
     ]);
 
     const raw = extractTextContent(response.content);
+    agentLog.llmDone(agentName, state.ticketId, Date.now() - llmStartedAt, raw);
+
     const parsed = parseJsonFromLlm<{
       diagnostico?: string;
       prioridade?: string;
@@ -103,6 +122,18 @@ export function createEspecialistaNode(options: SpecialistOptions) {
           tags: ["parse-error"],
           raw,
         };
+
+    agentLog.decision(agentName, state.ticketId, {
+      diagnostico: analise.diagnostico,
+      prioridade: analise.prioridade,
+      acao_sugerida: analise.acao_sugerida,
+      tags: analise.tags,
+      respostaPreview: analise.resposta_sugerida.slice(0, 120),
+      parseOk: Boolean(parsed),
+    });
+
+    agentLog.handoff(agentName, "supervisor", state.ticketId, "análise concluída");
+    agentLog.exit(agentName, state.ticketId, { area: options.area });
 
     return {
       analise,

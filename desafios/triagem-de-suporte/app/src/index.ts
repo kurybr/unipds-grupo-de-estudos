@@ -53,6 +53,9 @@ for (const file of ticketFiles) {
     analise: null,
     proximo: "relatorio",
     relatorioMarkdown: "",
+    remoteJid: "",
+    mensagemCliente: "",
+    canal: "offline",
   });
 
   sections.push(

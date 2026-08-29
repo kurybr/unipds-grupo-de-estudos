@@ -6,6 +6,7 @@
   "scripts": {
     "start": "tsx src/index.ts",
     "dev": "tsx watch src/index.ts",
+    "webhook": "tsx src/server.ts",
     "studio": "npx @langchain/langgraph-cli dev"
   },
   "dependencies": {

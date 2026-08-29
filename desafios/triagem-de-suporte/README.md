@@ -31,11 +31,13 @@ Construir um pipeline de agentes capaz de:
 3. **Analisar** com persona e regras da área.
 4. **Gerar** um relatório em Markdown com diagnóstico, prioridade e resposta sugerida.
 
-O MVP processa tickets offline a partir de arquivos seed (sem integração WhatsApp/API de canal).
+O MVP processa tickets offline a partir de arquivos seed **e** aceita mensagens reais via **Evolution API** (WhatsApp).
 
 ---
 
 # 🔄 Fluxo
+
+## Batch (seeds)
 
 ```text
 Ticket
@@ -47,13 +49,31 @@ Supervisor  ◄─────────────────────�
    └── relatorio → END
 ```
 
+## WhatsApp (Evolution API)
+
+```text
+WhatsApp → Evolution API → POST /webhook
+   │
+   ▼
+Sessão do chamado (por remoteJid)
+   │
+   ▼
+Supervisor  ◄─────────────────────────────┐
+   │                                     │
+   ├── especialista_* ───────────────────┘
+   ├── resposta → sendText → END (aguarda próxima msg)
+   └── relatorio → sendText encerramento → Markdown interno → END
+```
+
 ```mermaid
 flowchart TD
   startNode[START] --> supervisor[supervisor]
-  supervisor -->|proximo_especialista| esp[especialista]
-  supervisor -->|pronto_ou_max_hops| report[relatorio]
+  supervisor -->|especialista| esp[especialista]
+  supervisor -->|resposta| resposta[resposta WhatsApp]
+  supervisor -->|relatorio| report[relatorio]
   esp --> supervisor
-  report --> endNode[END]
+  resposta --> endWait[END aguarda]
+  report --> endClose[END fechado]
 ```
 
 ---
@@ -62,11 +82,12 @@ flowchart TD
 
 | Agente | Responsabilidade |
 |--------|------------------|
-| **Supervisor** | Em **loop**: decide `proximo` (especialista ou relatório) e `pronto`. Anti-loop com `SUPERVISOR_MAX_HOPS` (padrão 5). |
+| **Supervisor** | Em **loop**: decide `proximo` (especialista, `resposta` ou `relatorio`) e `pronto`. Pode enviar mensagem ao cliente ou encerrar o chamado. Anti-loop com `SUPERVISOR_MAX_HOPS` (padrão 5). |
 | **Especialista Cobrança** | Reembolsos, cobrança duplicada, estorno, fatura, meios de pagamento. |
 | **Especialista Técnico** | Defeitos, garantia, instalação, download, problemas de hardware/software. |
 | **Especialista Comercial** | Disponibilidade, pré-venda, frete, prazos, dúvidas de compra. |
-| **Relatório** | Formata análises + trilha de hops do supervisor. |
+| **Resposta** | Envia `mensagem_cliente` via WhatsApp sem encerrar o chamado. |
+| **Relatório** | Encerra o chamado no WhatsApp, formata análises + trilha de hops e grava Markdown interno para o operador humano. |
 
 Após cada especialista, o fluxo **volta ao supervisor**, que reavalia handoffs e escolhe o próximo passo até `pronto: true` ou o limite de hops.
 
@@ -104,6 +125,64 @@ pnpm start             # ou npm start
 ```
 
 Saída esperada: `app/output/triagem.md`.
+
+## Webhook Evolution (WhatsApp)
+
+1. Configure no `.env`:
+
+```bash
+EVOLUTION_API_URL=https://evolution.localhost
+EVOLUTION_API_KEY=sua-api-key
+EVOLUTION_INSTANCE=nome-da-instancia
+EVOLUTION_TLS_INSECURE=true   # dev com cert local
+WEBHOOK_PORT=3000
+```
+
+2. Suba o servidor:
+
+```bash
+npm run webhook
+```
+
+3. Na instância Evolution, aponte o webhook para:
+   - **Mesma máquina:** `http://127.0.0.1:3000/webhook`
+   - **Evolution em Docker:** `http://host.docker.internal:3000/webhook`
+
+4. Eventos necessários: **`MESSAGES_UPSERT`** (não use `CHATS_UPSERT` — esse evento não traz mensagens de texto para o fluxo).
+
+5. Saídas em runtime:
+   - `output/sessions/` — sessões abertas/fechadas por contato
+   - `output/chamados/{ticketId}.md` — relatório interno ao encerrar
+
+O supervisor decide entre **`resposta`** (mensagem ao cliente, chamado continua aberto) e **`relatorio`** (mensagem de encerramento + relatório para análise humana).
+
+### Logs e troubleshooting
+
+Defina `LOG_LEVEL=debug` no `.env` para ver cada requisição HTTP e o payload resumido da Evolution.
+
+Ao subir, o servidor imprime logs estruturados com escopos: `server`, `http`, `webhook`, `sessao`, `graph`, `resposta`, `relatorio`.
+
+**Sintoma:** mensagem chega no WhatsApp/Evolution, mas nada aparece no terminal.
+
+1. Confirme que `npm run webhook` está rodando e ouvindo na porta `3000`.
+2. Verifique o evento na Evolution: deve ser `MESSAGES_UPSERT`.
+3. Consulte a config atual:
+
+```bash
+curl -sk -H "apikey: SUA_KEY" \
+  "https://evolution.localhost/webhook/find/Global%20Whats"
+```
+
+4. Se estiver com `CHATS_UPSERT`, corrija:
+
+```bash
+curl -sk -X POST "https://evolution.localhost/webhook/set/Global%20Whats" \
+  -H "apikey: SUA_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"webhook":{"enabled":true,"url":"http://host.docker.internal:3000/webhook","webhookByEvents":false,"webhookBase64":false,"events":["MESSAGES_UPSERT"]}}'
+```
+
+5. Reinicie `npm run webhook` após mudanças no código.
 
 ## LangSmith Studio (visualização + debug)
 
@@ -143,6 +222,11 @@ Variáveis de ambiente:
 | `LANGSMITH_API_KEY` | Chave LangSmith (obrigatória para Studio) |
 | `LANGCHAIN_TRACING_V2` | `true` para enviar traços |
 | `LANGCHAIN_PROJECT` | Nome do projeto no LangSmith |
+| `EVOLUTION_API_URL` | Base da Evolution API (padrão: `https://evolution.localhost`) |
+| `EVOLUTION_API_KEY` | API key da instância Evolution |
+| `EVOLUTION_INSTANCE` | Nome da instância WhatsApp |
+| `EVOLUTION_TLS_INSECURE` | `true` para aceitar certificado HTTPS local em dev |
+| `WEBHOOK_PORT` | Porta do servidor webhook (padrão: `3000`) |
 
 Se a variável de modelo por agente não estiver definida, usa-se `OPENROUTER_MODEL`.
 
@@ -162,15 +246,19 @@ triagem-de-suporte/
     ├── .env.example
     ├── README.md          # regras de seeds
     ├── seed/              # tickets sintéticos
-    ├── output/            # gerado em runtime
+    ├── output/            # gerado em runtime (triagem, sessions, chamados)
     └── src/
-        ├── index.ts
+        ├── index.ts       # batch seeds
+        ├── server.ts      # webhook Evolution
+        ├── evolution.ts   # cliente sendText
+        ├── session.ts     # sessões multi-turno
         ├── config.ts
         ├── state.ts
         ├── graph.ts       # exporta `graph` para o Studio
         ├── nodes/
         │   ├── supervisor.ts
         │   ├── especialista.ts
+        │   ├── resposta.ts
         │   └── relatorio.ts
         └── agents/
             ├── supervisor.md
@@ -181,12 +269,10 @@ triagem-de-suporte/
 
 ---
 
-# 🔮 Fora do escopo do MVP
+# 🔮 Fora do escopo (ainda)
 
-- Integração WhatsApp / Evolution API / Slack
 - Tools web ou RAG
-- Handoff humano real (só sugestão no relatório)
-- Vários especialistas por ticket (escalonamento)
+- Handoff humano operacional além do relatório
 - UI / dashboard
 - Testes E2E dependentes de LLM real
 

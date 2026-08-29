@@ -8,5 +8,8 @@
   "analises": {},
   "analise": null,
   "proximo": "relatorio",
-  "relatorioMarkdown": ""
+  "relatorioMarkdown": "",
+  "remoteJid": "",
+  "mensagemCliente": "",
+  "canal": "offline"
 }

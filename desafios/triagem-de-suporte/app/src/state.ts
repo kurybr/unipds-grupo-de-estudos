@@ -4,14 +4,14 @@ export const CATEGORIAS = ["cobranca", "tecnico", "comercial"] as const;
 
 export type Categoria = (typeof CATEGORIAS)[number];
 
-export type ProximoNo = Categoria | "relatorio";
+export type ProximoNo = Categoria | "relatorio" | "resposta";
 
 export function isCategoria(value: string): value is Categoria {
   return (CATEGORIAS as readonly string[]).includes(value);
 }
 
 export function isProximoNo(value: string): value is ProximoNo {
-  return value === "relatorio" || isCategoria(value);
+  return value === "relatorio" || value === "resposta" || isCategoria(value);
 }
 
 export type AnaliseEspecialista = {
@@ -39,6 +39,8 @@ export type SupervisorResult = {
   pronto: boolean;
   confianca: string;
   justificativa: string;
+  /** Mensagem para o cliente (WhatsApp) quando proximo é resposta ou relatorio. */
+  mensagem_cliente?: string;
 };
 
 export type AnalisesPorArea = Partial<Record<Categoria, AnaliseEspecialista>>;
@@ -77,6 +79,16 @@ export const TriagemAnnotation = Annotation.Root({
     default: () => "relatorio",
   }),
   relatorioMarkdown: Annotation<string>,
+  /** JID WhatsApp do contato (modo webhook). */
+  remoteJid: Annotation<string>,
+  /** Mensagem a enviar ao cliente via WhatsApp. */
+  mensagemCliente: Annotation<string>,
+  /** Canal de origem do ticket. */
+  canal: Annotation<string>,
 });
 
 export type TriagemState = typeof TriagemAnnotation.State;
+
+export function isWhatsAppMode(state: TriagemState): boolean {
+  return Boolean(state.remoteJid?.trim());
+}
