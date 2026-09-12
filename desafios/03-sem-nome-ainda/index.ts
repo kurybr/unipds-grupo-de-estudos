@@ -66,27 +66,4 @@ async function sendMessage() {
 
 sendMessage(); 
 
-
-// let response = await callAgent(messages)
-
-// messages.push({
-//     role: 'assistant',
-//     content: response
-// })
-
-// messages.push({
-//     role: 'user',
-//     content: "Qual é o meu nome ?"
-// })
-
-
-// response = await callAgent(messages)
-
-
-// console.log('\n\n\n\n')
-// console.log({ response })
-// console.log('\n\n\n\n')
-
-
-
 export const graph = agent.graph;
