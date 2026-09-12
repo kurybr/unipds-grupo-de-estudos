@@ -1,0 +1,31 @@
+{
+  "name": "03-sem-nome-ainda",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx index.ts",
+    "dev": "tsx watch index.ts",
+    "studio": "npx @langchain/langgraph-cli dev",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@langchain/langgraph-cli": "^1.4.5",
+    "@types/node": "^22.20.2",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.2.10",
+    "@langchain/langgraph": "^1.4.14",
+    "@langchain/langgraph-checkpoint": "^1.1.5",
+    "@langchain/mcp-adapters": "^1.1.4",
+    "@langchain/openrouter": "^0.4.12",
+    "dotenv": "^17.4.2",
+    "langchain": "^1.5.11",
+    "zod": "^4.6.2"
+  }
+}
