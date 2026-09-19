@@ -1,5 +1,5 @@
-01 - (Runtime) Lanchain
-02 - LLM - Web Search
+01 - (Runtime) Lanchain ✅
+02 - LLM - Web Search ✅
 03 - Tools
 ?? - MCP
 ?? - RAG
