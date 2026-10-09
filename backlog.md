@@ -1,0 +1,1 @@
+Um desafio de criar  MCP de alguma coisa.

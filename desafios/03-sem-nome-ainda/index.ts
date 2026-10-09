@@ -1,7 +1,5 @@
 import "dotenv/config";
 import { ChatOpenRouter } from "@langchain/openrouter";
-import { tools } from "@langchain/openai";
-
 import readline from 'node:readline/promises';
 import { stdin as input, stdout as output } from 'node:process';
 
@@ -9,6 +7,10 @@ import { stdin as input, stdout as output } from 'node:process';
 // Runtime
 import { createAgent } from "langchain";
 import { ListFiles, PokeTools, ReadFile } from "./tools.js";
+import { mcps } from './mcp.js'
+
+
+const mcp_tool = await mcps.listTools()
 
 const llm = new ChatOpenRouter({ 
     apiKey: process.env.OPENROUTER_API_KEY,
@@ -19,6 +21,8 @@ const llm = new ChatOpenRouter({
 const agent = createAgent({
     model: llm,
     systemPrompt: `
+    REGRA: Responda sempre em português do Brasil.
+    INSTRUÇÃO:
     Você é um assistente pessoal de TI de um grupo de estudos da UNIPDS.
     E responda com sempre com uma pergunta.
     `.trim(),
@@ -36,7 +40,10 @@ const agent = createAgent({
         // )
         PokeTools,
         ListFiles,
-        ReadFile
+        ReadFile,
+
+        // MCPS !!!! 
+        ...mcp_tool
     ]
 })
 
