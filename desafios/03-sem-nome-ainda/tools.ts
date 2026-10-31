@@ -3,6 +3,7 @@ import * as z from "zod"
 
 import fs from "node:fs"
 import { exec } from "node:child_process";
+import { formatContext, retrieve } from "./vector/retrieval.rag.js";
 
 export const PokeTools = tool(
     async ({ name }: { name: string }) => {
@@ -46,3 +47,18 @@ export const ReadFile = tool(
         }),
     }
 )
+
+
+export const getMoreContextFromDatabase = tool(
+    async ({ query }: { query: string }) => {
+        console.log(`Buscando informações no banco de dados`);
+        const chunks = await retrieve(query);
+        return formatContext(chunks);
+    },
+    {
+        name: "getMoreContextFromDatabase",
+        description: `Use essa tools para buscar informações no banco de dados`,
+        schema: z.object({
+            query: z.string().describe("A consulta para buscar informações no banco de dados"),
+        }),
+    });

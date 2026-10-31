@@ -6,8 +6,10 @@ import { stdin as input, stdout as output } from 'node:process';
 
 // Runtime
 import { createAgent } from "langchain";
-import { ListFiles, PokeTools, ReadFile } from "./tools.js";
+import { getMoreContextFromDatabase, ListFiles, PokeTools, ReadFile } from "./tools.js";
 import { mcps } from './mcp.js'
+import { ingestData } from "./vector/ingestion.rag.js";
+import { formatContext, retrieve } from "./vector/retrieval.rag.js";
 
 
 const mcp_tool = await mcps.listTools()
@@ -24,6 +26,7 @@ const agent = createAgent({
     REGRA: Responda sempre em português do Brasil.
     INSTRUÇÃO:
     Você é um assistente pessoal de TI de um grupo de estudos da UNIPDS.
+    Se o contexto não tiver a resposta, diga que não encontrou na base.
     E responda com sempre com uma pergunta.
     `.trim(),
     tools: [
@@ -38,12 +41,13 @@ const agent = createAgent({
         //          }
         //      }
         // )
-        PokeTools,
-        ListFiles,
-        ReadFile,
+        // PokeTools,
+        // ListFiles,
+        // ReadFile,
+        getMoreContextFromDatabase,
 
         // MCPS !!!! 
-        ...mcp_tool
+        // ...mcp_tool
     ]
 })
 
@@ -84,6 +88,8 @@ async function sendMessage() {
 }
 
 
-sendMessage(); 
+await ingestData();
+console.log('Pergunte sobre os encontros ou sobre a base. Digite "sair" para encerrar.');
+sendMessage();
 
 export const graph = agent.graph;

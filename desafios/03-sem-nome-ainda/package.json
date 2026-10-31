@@ -19,13 +19,17 @@
     "typescript": "^7.0.2"
   },
   "dependencies": {
+    "@langchain/community": "^1.1.29",
     "@langchain/core": "^1.2.10",
     "@langchain/langgraph": "^1.4.14",
     "@langchain/langgraph-checkpoint": "^1.1.5",
     "@langchain/mcp-adapters": "^2.0.0",
+    "@langchain/openai": "^1.8.0",
     "@langchain/openrouter": "^0.4.12",
-    "dotenv": "^17.4.2",
+    "@langchain/textsplitters": "^1.0.2",
+    "dotenv": "^16.4.5",
     "langchain": "^1.5.11",
+    "pg": "^8.23.1",
     "zod": "^4.6.2"
   }
 }
