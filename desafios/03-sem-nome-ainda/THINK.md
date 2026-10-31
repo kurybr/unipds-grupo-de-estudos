@@ -2,7 +2,7 @@
 02 - LLM - Web Search ✅
 03 - Tools ✅
 04 - MCP ✅
-?? - RAG
+05 - RAG ✅
 ?? - LangGraph
 ?? - Sub-Agentes
 ?? - Compactação de contexto ( cache )
