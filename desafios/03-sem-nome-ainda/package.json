@@ -16,7 +16,7 @@
     "@langchain/langgraph-cli": "^1.4.5",
     "@types/node": "^22.20.2",
     "tsx": "^4.23.13",
-    "typescript": "^7.0.2"
+    "typescript": "5.9.3"
   },
   "dependencies": {
     "@langchain/community": "^1.1.29",

@@ -1,95 +1,107 @@
-import "dotenv/config";
-import { ChatOpenRouter } from "@langchain/openrouter";
-import readline from 'node:readline/promises';
-import { stdin as input, stdout as output } from 'node:process';
+import 'dotenv/config';
+import { ChatOpenRouter } from '@langchain/openrouter';
+import { END, MessagesValue, START, StateGraph, StateSchema, Send } from "@langchain/langgraph";
+import { AIMessage, HumanMessage } from 'langchain';
 
-
-// Runtime
-import { createAgent } from "langchain";
-import { getMoreContextFromDatabase, ListFiles, PokeTools, ReadFile } from "./tools.js";
-import { mcps } from './mcp.js'
-import { ingestData } from "./vector/ingestion.rag.js";
-import { formatContext, retrieve } from "./vector/retrieval.rag.js";
-
-
-const mcp_tool = await mcps.listTools()
 
 const llm = new ChatOpenRouter({ 
     apiKey: process.env.OPENROUTER_API_KEY,
-    model: process.env.OPENROUTER_MODEL
-})
+    model: process.env.OPENROUTER_MODEL,
+});
 
 
-const agent = createAgent({
-    model: llm,
-    systemPrompt: `
-    REGRA: Responda sempre em português do Brasil.
-    INSTRUÇÃO:
-    Você é um assistente pessoal de TI de um grupo de estudos da UNIPDS.
-    Se o contexto não tiver a resposta, diga que não encontrou na base.
-    E responda com sempre com uma pergunta.
-    `.trim(),
-    tools: [
-        // tools.webSearch(
-        //      {
-        //          userLocation: { 
-        //              type: "approximate",
-        //              country: "BR",
-        //              city: "Presidente Prudente",
-        //              region: "São Paulo",
-        //              timezone: "America/Sao_Paulo",
-        //          }
-        //      }
-        // )
-        // PokeTools,
-        // ListFiles,
-        // ReadFile,
-        getMoreContextFromDatabase,
+export const States = new StateSchema({
+    messages: MessagesValue,
+});
 
-        // MCPS !!!! 
-        // ...mcp_tool
-    ]
-})
+export type States = typeof States.State;
 
 
-async function callAgent(messages: any): Promise<string> { 
+export function createGraph() { 
+    const workflow = new StateGraph(States)
+    .addNode('fun_a', async (state: States) => { 
+        return {
+            messages: [
+                new HumanMessage("Olá, como posso ajudar você hoje?")
+            ]
+        }
+    })
+    .addNode('fun_b', async (state: States) => { 
+        await new Promise((resolve) => { setTimeout(resolve, 1000) })
+        return {
+            messages: [
+                new AIMessage(`fun_b`)
+            ]
+        }
+    })
+    .addNode('fun_c', async (state: States) => { 
+        await new Promise((resolve) => { setTimeout(resolve, 1000) })
+        return {
+            messages: [
+                new AIMessage(`fun_c`)
+            ]
+        }
+    })
+    .addNode('fun_d', async (state: States) => { 
+        await new Promise((resolve) => { setTimeout(resolve, 1000) })
+        return {
+            messages: [
+                new AIMessage(`fun_d`)
+            ]
+        }
+    })
+    /**
+     * Se um ramo for mais longo que o outro, 
+     * o nó de junção precisa de defer: true, 
+     * senão ele pode disparar quando o ramo curto chega e de novo quando o longo termina.
+     */
+    .addNode('fun_e', async(state: States) => { 
+        return {
+            messages: [
+                new AIMessage(`fun_e`)
+            ]
+        }
+    }) // <----- DEFER: true 
+    .addNode('fun_f', async(state: States) => { 
+        return {
+            messages: [
+                new AIMessage("A resposta é essa")
+            ]
+        }
+    })
+    .addNode('send_message', async(payload) => { 
 
-    const result = await agent.invoke({ 
-        messages,  
-     })
+        return {
+            messages: [
+                new AIMessage(`${payload.message}`)
+            ]
+        }
+    }, { defer: true })
+    .addEdge(START, 'fun_a')
+    .addEdge('fun_a', 'fun_b') 
+    .addEdge('fun_a', 'fun_c')
+    .addEdge('fun_c', 'fun_d')
+    /**
+     * Para esperar as duas antes de seguir, o destino recebe a lista dos predecessores. 
+     * Isso vira uma barreira: o nó seguinte só roda quando fun_b e fun_d terminaram.
+     */
+    .addEdge(['fun_b', 'fun_d'], 'fun_e')
 
-    return result.messages.at(-1)?.content as string;
-} 
+    .addConditionalEdges("fun_e", (state) => { 
+        return new Array(10)
+        .fill("1")
+        .map((message) => {
+            const randomMessage = Math.random()
+            return new Send("send_message", { message: `fun_e ${randomMessage}` })
+        })
+    })
+
+    .addEdge('send_message', 'fun_f')
+    .addEdge('fun_f', END)
 
 
-let context: any = [];
-
-async function sendMessage() {
-
-    const rl = readline.createInterface({ input, output });
-    const mensagem = await rl.question('Digite a sua mensagem: ');
-    rl.close();
-
-    if(mensagem == 'sair') { 
-        return process.exit(0);
-    }
-
-    // Mensagem do usuário.
-    context.push({ role: 'user', content: mensagem })
-
-    const response = await callAgent(context);
-    
-    console.log({ response });
-
-    // Mensagem do assistente.
-    context.push({ role: 'assistant', content: response })
-
-    sendMessage();
+    return workflow.compile();
 }
 
 
-await ingestData();
-console.log('Pergunte sobre os encontros ou sobre a base. Digite "sair" para encerrar.');
-sendMessage();
-
-export const graph = agent.graph;
+export const graph = createGraph();
